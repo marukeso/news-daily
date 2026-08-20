@@ -11,7 +11,7 @@ GitHub Pages に公開するリポジトリ。
 |---|---|
 | `scripts/collect_news.py` | 収集本体。`docs/YYYY-MM-DD.md` と `docs/index.md` を生成 |
 | `docs/` | GitHub Pages の公開ルート（Jekyll） |
-| `ROUTINE.md` | クラウドルーティンに渡すプロンプト |
+| `.github/workflows/collect.yml` | 毎朝 06:07 JST に自動実行するワークフロー |
 
 ## 収集ソース
 
@@ -22,7 +22,15 @@ GitHub Pages に公開するリポジトリ。
 - ロイター（24時間以内・新着5件／Google News RSS フォールバックあり）
 - ニュースアーカイブ / テレ東ビズ / ANNニュース（YouTube・24時間以内）
 
-## 手動実行
+## 自動実行
+
+GitHub Actions が毎朝 06:07 JST（`7 21 * * *` UTC）に `collect.yml` を実行し、
+生成結果を `docs/` にコミットする。Pages が自動で再ビルドされて公開される。
+
+手動で走らせたい場合は Actions タブの "Collect news" → Run workflow、
+または `gh workflow run collect.yml`。
+
+## 手動実行（ローカル）
 
 ```bash
 python3 scripts/collect_news.py
