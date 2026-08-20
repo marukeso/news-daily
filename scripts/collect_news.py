@@ -9,7 +9,6 @@ JST = timezone(timedelta(hours=9))
 TITLE_MAX = 34
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = REPO_ROOT / 'docs'
-SITE_TITLE = 'ITトレンド Daily'
 
 YT_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -412,17 +411,18 @@ def build_index():
         (f.stem for f in OUT_DIR.glob('*.md') if DATE_FILE_RE.match(f.name)),
         reverse=True,
     )
-    out = [front_matter(SITE_TITLE, dates[0] if dates else datetime.now(JST).strftime('%Y-%m-%d')).rstrip('\n'), '']
+    latest_date = dates[0] if dates else datetime.now(JST).strftime('%Y-%m-%d')
+    out = [front_matter(latest_date, latest_date).rstrip('\n'), '']
 
     if dates:
         latest = strip_front_matter((OUT_DIR / f'{dates[0]}.md').read_text())
-        # 最新分の見出しは h1 を残したまま丸ごと載せる
+        # 最新分の見出しは h2 を残したまま丸ごと載せる
         out.append(latest.rstrip('\n'))
         out.append('')
 
     out.append('---')
     out.append('')
-    out.append('## アーカイブ')
+    out.append('### アーカイブ')
     out.append('')
     current_month = None
     for d in dates:
@@ -430,7 +430,7 @@ def build_index():
         if month != current_month:
             current_month = month
             out.append('')
-            out.append(f'### {month}')
+            out.append(f'#### {month}')
             out.append('')
         out.append(f'- [{d}]({d}.html)')
     out.append('')
@@ -447,15 +447,15 @@ def main():
     youtube = collect_youtube_sections()
 
     lines = []
-    lines.append(f'# ITトレンド: {today}')
+    lines.append(f'## {today}')
     lines.append('')
-    lines.append('## はてブIT（日本市場）')
+    lines.append('### はてブIT（日本市場）')
     lines.append('')
     for i, (title, url, users) in enumerate(hatena, 1):
         lines.append(f'{i}. [{title}]({url}) ({users} users)')
     lines.append('')
     for heading in ['AIまさおう（24時間以内・全投稿）']:
-        lines.append(f'## {heading}')
+        lines.append(f'### {heading}')
         lines.append('')
         section = youtube[heading]
         if section['status'] != 'ok':
@@ -464,24 +464,24 @@ def main():
             for i, (title, url, view) in enumerate(section['items'], 1):
                 lines.append(f'{i}. [{title}]({url}) ({view})')
         lines.append('')
-    lines.append('## チャートなび 急上昇ワード（24時間・注目度順）')
+    lines.append('### チャートなび 急上昇ワード（24時間・注目度順）')
     lines.append('')
     for i, w in enumerate(chart_words, 1):
         lines.append(f'{i}. {w}')
     lines.append('')
-    lines.append('## チャートなび 話題の銘柄ランキング（24時間）')
+    lines.append('### チャートなび 話題の銘柄ランキング（24時間）')
     lines.append('')
     for rank, name, code, count in chart_stocks:
         yurl = f'https://stocks.finance.yahoo.co.jp/stocks/detail/?code={code}'
         lines.append(f'{rank}. [{name}({code})]({yurl}) ({count}件)')
     lines.append('')
-    lines.append('## ロイター（24時間以内・新着順）')
+    lines.append('### ロイター（24時間以内・新着順）')
     lines.append('')
     for i, (title, url, t) in enumerate(reuters, 1):
         lines.append(f'{i}. [{title}]({url}) ({t})')
     lines.append('')
     for heading in ['ニュースアーカイブ（24時間以内・全投稿）', 'テレ東ビズ（24時間以内・再生回数順）', 'ANNニュース（24時間以内・再生回数順）']:
-        lines.append(f'## {heading}')
+        lines.append(f'### {heading}')
         lines.append('')
         section = youtube[heading]
         if section['status'] != 'ok':
@@ -494,7 +494,7 @@ def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     outpath = OUT_DIR / f'{today}.md'
     body = '\n'.join(lines) + '\n'
-    outpath.write_text(front_matter(f'ITトレンド {today}', today) + body)
+    outpath.write_text(front_matter(today, today) + body)
     build_index()
     print(outpath)
 
