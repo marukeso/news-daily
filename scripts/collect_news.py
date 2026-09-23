@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-import re, json, html, time, urllib.parse
+import re, json, html, time
 from urllib.request import Request, urlopen
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-import xml.etree.ElementTree as ET
 
 JST = timezone(timedelta(hours=9))
 TITLE_MAX = 34
@@ -17,8 +16,6 @@ YT_HEADERS = {
 
 YOUTUBE_RETRY_PER_CHANNEL = 3
 YOUTUBE_RETRY_SLEEP_SEC = 1.5
-REUTERS_RETRY_COUNT = 4
-REUTERS_RETRY_SLEEP_SEC = 5.0
 
 YOUTUBE_CHANNELS = [
     ('AIまさおう（24時間以内・全投稿）', 'https://www.youtube.com/@ai_masaou/videos', 50, 'recent'),
@@ -79,102 +76,6 @@ def get_chart_stocks():
             name, code = mn.groups()
             out.append((rank, name.strip(), code, count))
     return out
-
-
-def parse_reuters_site_once():
-    txt = fetch('https://jp.reuters.com/', YT_HEADERS)
-    idx = txt.find('globalContent')
-    if idx == -1:
-        return []
-    chunk = txt[idx:]
-    start = chunk.find('{')
-    if start == -1:
-        return []
-    depth = 0
-    end = start
-    for i, c in enumerate(chunk[start:], start):
-        if c == '{':
-            depth += 1
-        elif c == '}':
-            depth -= 1
-            if depth == 0:
-                end = i
-                break
-    data = json.loads(chunk[start:end + 1])
-    arts = data.get('result', {}).get('articles', [])
-    cutoff = datetime.now(JST) - timedelta(hours=24)
-    out = []
-    for a in arts:
-        pub = a.get('published_time', '')
-        if not pub:
-            continue
-        norm = re.sub(r'(\.\d{1,6})\+00:00$', lambda m: m.group(1).ljust(7, '0') + '+00:00', pub.replace('Z', '+00:00'))
-        try:
-            dt = datetime.fromisoformat(norm).astimezone(JST)
-        except Exception:
-            continue
-        if dt >= cutoff:
-            out.append((trunc(a.get('title', '').strip()), 'https://jp.reuters.com' + a.get('canonical_url', ''), dt.strftime('%H:%M'), dt))
-    out.sort(key=lambda x: x[3], reverse=True)
-    return [(a, b, c) for a, b, c, _ in out[:5]]
-
-
-def parse_reuters_google_news_once():
-    q = urllib.parse.quote('site:jp.reuters.com')
-    url = f'https://news.google.com/rss/search?q={q}&hl=ja&gl=JP&ceid=JP:ja'
-    xml_text = fetch(url, {'User-Agent': 'Mozilla/5.0'})
-    root = ET.fromstring(xml_text)
-    cutoff = datetime.now(JST) - timedelta(hours=24)
-    out = []
-    for item in root.findall('./channel/item'):
-        source = (item.findtext('source') or '').strip()
-        if source and source.lower() not in ('reuters', 'ロイター'):
-            continue
-        title = (item.findtext('title') or '').strip()
-        link = (item.findtext('link') or '').strip()
-        pub = (item.findtext('pubDate') or '').strip()
-        if not title or not link or not pub:
-            continue
-        try:
-            dt = datetime.fromtimestamp(__import__('email.utils').utils.parsedate_to_datetime(pub).timestamp(), tz=timezone.utc).astimezone(JST)
-        except Exception:
-            continue
-        if dt < cutoff:
-            continue
-        title = re.sub(r'\s*-\s*(Reuters|ロイター)$', '', title)
-        out.append((trunc(title), link, dt.strftime('%H:%M'), dt))
-    out.sort(key=lambda x: x[3], reverse=True)
-    dedup = []
-    seen = set()
-    for title, link, hhmm, dt in out:
-        key = (title, hhmm)
-        if key in seen:
-            continue
-        seen.add(key)
-        dedup.append((title, link, hhmm))
-        if len(dedup) >= 5:
-            break
-    return dedup
-
-
-def get_reuters():
-    best = []
-    for parser in (parse_reuters_site_once, parse_reuters_google_news_once):
-        best = []
-        for attempt in range(REUTERS_RETRY_COUNT):
-            try:
-                items = parser()
-            except Exception:
-                items = []
-            if len(items) > len(best):
-                best = items
-            if best:
-                break
-            if attempt < REUTERS_RETRY_COUNT - 1:
-                time.sleep(REUTERS_RETRY_SLEEP_SEC)
-        if best:
-            return best
-    return []
 
 
 def parse_relative_minutes(text):
@@ -443,7 +344,6 @@ def main():
     hatena = get_hatena()
     chart_words = get_chart_words()
     chart_stocks = get_chart_stocks()
-    reuters = get_reuters()
     youtube = collect_youtube_sections()
 
     lines = []
@@ -474,11 +374,6 @@ def main():
     for rank, name, code, count in chart_stocks:
         yurl = f'https://stocks.finance.yahoo.co.jp/stocks/detail/?code={code}'
         lines.append(f'{rank}. [{name}({code})]({yurl}) ({count}件)')
-    lines.append('')
-    lines.append('### ロイター（24時間以内・新着順）')
-    lines.append('')
-    for i, (title, url, t) in enumerate(reuters, 1):
-        lines.append(f'{i}. [{title}]({url}) ({t})')
     lines.append('')
     for heading in ['ニュースアーカイブ（24時間以内・全投稿）', 'テレ東ビズ（24時間以内・再生回数順）', 'ANNニュース（24時間以内・再生回数順）']:
         lines.append(f'### {heading}')

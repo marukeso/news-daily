@@ -1,6 +1,6 @@
 # news-daily
 
-はてブIT・チャートなび・ロイター・YouTube各チャンネルから毎朝トレンドを収集し、
+はてブIT・チャートなび・YouTube各チャンネルから毎朝トレンドを収集し、
 GitHub Pages に公開するリポジトリ。
 
 **公開URL: https://marukeso.github.io/news-daily/**
@@ -19,7 +19,6 @@ GitHub Pages に公開するリポジトリ。
 - AIまさおう（YouTube・24時間以内）
 - チャートなび 急上昇ワード（上位5件）
 - チャートなび 話題の銘柄ランキング（1〜5位）
-- ロイター（24時間以内・新着5件／Google News RSS フォールバックあり）
 - ニュースアーカイブ / テレ東ビズ / ANNニュース（YouTube・24時間以内）
 
 ## 自動実行
