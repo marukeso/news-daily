@@ -1,58 +1,59 @@
 ---
-title: "2026-10-10"
-date: 2026-10-10
+title: "2026-10-11"
+date: 2026-10-11
 ---
 
-## 2026-10-10
+## 2026-10-11
 
 ### はてブIT（日本市場）
 
-1. [不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等…](https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html) (459 users)
-2. [アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか](https://news.web.nhk/newsweb/na/nd-20261009de57294) (374 users)
-3. [これには驚いた！ 今度はExcelやWordやPower Poin…](https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html) (235 users)
-4. [印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生…](https://www.non-standardworld.co.jp/stone-engine-js/) (122 users)
-5. [【速報】AIで調べた判例実在せず書籍絶版](https://www.47news.jp/15060645.html) (102 users)
+1. [国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた](https://piyolog.hatenadiary.jp/entry/2026/10/11/004353) (211 users)
+2. [bpmn.io で始める AI-Ready な業務フロー管理](https://future-architect.github.io/articles/20261009a/) (209 users)
+3. [日本人の大腸がん、約半数に“腸内細菌の毒素”が関与 40歳以下の発…](https://www.itmedia.co.jp/news/article/2610/10/2000002035/) (188 users)
+4. [個人情報漏洩が日常になってしまった世界でどうしていくべきか](https://nyosegawa.com/posts/data-leak-era/) (163 users)
+5. [AI駆動開発の時代になったのでトヨタ生産方式から見直す](https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu) (154 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【最高アプデ】『Grok Bot』の勢いが凄い！新機能3つを徹底解…](https://www.youtube.com/watch?v=ZgQ9MXfNqys) (再生回数不明)
-2. [【正直感想】OpenAI から『Decisions API』が登場…](https://www.youtube.com/watch?v=Ya8AjdI7-cY) (8000回視聴)
+1. [【最高です】APIクレジット毎月配布確定！つまりClaude Ma…](https://www.youtube.com/watch?v=MQ27-EHRldQ) (再生回数不明)
+2. [【最高アプデ】『Grok Bot』の勢いが凄い！新機能3つを徹底解…](https://www.youtube.com/watch?v=ZgQ9MXfNqys) (1.4万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. セキュリティ
-2. 半導体
-3. キオクシア
-4. ローツェ
-5. 漏洩
+1. ポスト
+2. 確認
+3. 生活
+4. 判断
+5. 経験
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (133件)
-2. [ローツェ(6323)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6323) (108件)
-3. [ＥＬＥＭＥＮＴＳ(5246)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5246) (81件)
-4. [ショーケース(3909)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3909) (70件)
-5. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (67件)
+1. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (50件)
+2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (17件)
+3. [イオン(8267)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8267) (16件)
+4. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (14件)
+5. [ＳＢＩホールディングス(8473)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8473) (13件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [PTLR・格上げで急伸｜MUは好材料でも急落](https://www.youtube.com/watch?v=NP2JfvifHfs) (再生回数不明)
+1. [OpenAI・AnthropicのIPO延期をどう見る？AI株はま…](https://www.youtube.com/watch?v=O9S9ttCMc80) (再生回数不明)
+2. [PTLR・格上げで急伸｜MUは好材料でも急落](https://www.youtube.com/watch?v=NP2JfvifHfs) (5288回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [トランプ政権の制裁に抗議 ICC「任務を完全に遂行」【WBS】](https://www.youtube.com/watch?v=QYhQrq-SsSs) (再生回数不明)
-2. [トランプ政権が圧力強化 ICC本体を制裁対象に指定【WBS】](https://www.youtube.com/watch?v=vuFEV-iMORw) (再生回数不明)
-3. [“ショッパー”復刻 ビームス50周年【WBS】](https://www.youtube.com/watch?v=FzE8L3NAKqw) (再生回数不明)
-4. [16兆円調達目指す ソフトバンクG【WBS】](https://www.youtube.com/watch?v=u6lCHLtLcQU) (再生回数不明)
-5. [業務停止3カ月超 プルデンシャル【WBS】](https://www.youtube.com/watch?v=u1Ng_2FzZWs) (再生回数不明)
+1. [トランプ政権が圧力強化 ICC本体を制裁対象に指定【WBS】](https://www.youtube.com/watch?v=vuFEV-iMORw) (2.9万回視聴)
+2. [トランプ政権の制裁に抗議 ICC「任務を完全に遂行」【WBS】](https://www.youtube.com/watch?v=QYhQrq-SsSs) (2.2万回視聴)
+3. [200種類の国産チーズが集合 国内最大級のイベント開催](https://www.youtube.com/watch?v=dDTJuBJriAk) (再生回数不明)
+4. [両陛下 国民スポーツ大会開会式に出席](https://www.youtube.com/watch?v=Mopxmhwzn6Q) (再生回数不明)
+5. [米露首脳が電話会談 ロシアが軽油供給で合意](https://www.youtube.com/watch?v=6keHiHISDEU) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [給湯器“点検詐欺”で8人逮捕 高齢者狙い22億円被害か 親切な対応…](https://www.youtube.com/watch?v=WULLLEvvoog) (再生回数不明)
-2. [「日本版DOGEを強化」減税財源確保へ「ギア上げる」基金の7兆円縮…](https://www.youtube.com/watch?v=5wG1rnUarSw) (再生回数不明)
-3. [簗農水大臣 新浮上の無料シャトルバス問題 野党から追及 問責決議案…](https://www.youtube.com/watch?v=CsMjK4R1Utc) (再生回数不明)
-4. [アメリカ政府、外国人労働者の永住権取得制度 マイクロソフトなどの利…](https://www.youtube.com/watch?v=8pLPiH--itU) (再生回数不明)
-5. [人気VTuberが勢ぞろい サインもらえる疑似体験も 展示会は11…](https://www.youtube.com/watch?v=EUuQwVoA3Xs) (再生回数不明)
+1. [サウジ首都空港に“飛翔体攻撃”12人死亡 309人けが 今週3回目…](https://www.youtube.com/watch?v=WKrugcv5N5A) (再生回数不明)
+2. [「ゴキブリ人民党」創設者を拘束 インド首都での大規模抗議デモ開始前…](https://www.youtube.com/watch?v=-WZ2McB2OVs) (再生回数不明)
+3. [両陛下が青森国スポの開会式に出席 関係者と懇談も(2026年10月…](https://www.youtube.com/watch?v=Uoz9I6kB7gI) (再生回数不明)
+4. [茂木外務大臣が電話で… 赤根ICC所長とルビオ米国務長官と会談(2…](https://www.youtube.com/watch?v=Ik210pkxqtc) (再生回数不明)
+5. [住宅から腐敗した遺体 世帯主の息子（52）と判明 北海道・小樽市(…](https://www.youtube.com/watch?v=E9AlccnPUqs) (再生回数不明)
 
 ---
 
@@ -61,6 +62,7 @@ date: 2026-10-10
 
 #### 2026-10
 
+- [2026-10-11](2026-10-11.html)
 - [2026-10-10](2026-10-10.html)
 - [2026-10-09](2026-10-09.html)
 - [2026-10-08](2026-10-08.html)
