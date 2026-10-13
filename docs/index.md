@@ -1,59 +1,60 @@
 ---
-title: "2026-10-12"
-date: 2026-10-12
+title: "2026-10-13"
+date: 2026-10-13
 ---
 
-## 2026-10-12
+## 2026-10-13
 
 ### はてブIT（日本市場）
 
-1. [「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」…](https://togetter.com/li/2756939) (196 users)
-2. [【コピペ卒業】Kindle・電子書籍をPDF化＆OCRするアプリを…](https://note.com/lytton_life/n/n838e58f5aff8) (191 users)
-3. [「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連…](https://www.itmedia.co.jp/news/article/2610/10/2000002038/) (167 users)
-4. [AI×アーキテクト](https://gihyo.jp/book/2026/978-4-297-16033-3) (162 users)
-5. [CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもク…](https://gigazine.net/news/20261011-hayamimi/) (162 users)
+1. [なんでもリバースエンジニアリング。ソースコード非公開のアプリをAI…](https://www.techno-edge.net/article/2026/10/12/5574.html) (388 users)
+2. [人生やりたいことリストのすすめ FIRE後の楽しみを可視化する](https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702) (267 users)
+3. [プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使っ…](https://togetter.com/li/2757347) (176 users)
+4. [OpenCode から Pi へ切り替えた](https://voluntas.ghost.io/migrate-opencode-to-pi/) (168 users)
+5. [AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政…](https://note.com/takahiroanno/n/n27e77cc9bb80) (134 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【噂の新技術】MCP Events を使えば、AI がSlack …](https://www.youtube.com/watch?v=YAD21Lzdqe8) (再生回数不明)
-2. [【最高です】APIクレジット毎月配布確定！つまりClaude Ma…](https://www.youtube.com/watch?v=MQ27-EHRldQ) (1.2万回視聴)
+1. [【徹底解説】Metaの最先端モデル『Muse Wonder』公開！…](https://www.youtube.com/watch?v=taYd1RTzq1U) (再生回数不明)
+2. [【公式語る】効率的なAgent自動化構築とは？Claude Man…](https://www.youtube.com/watch?v=0EdKWjyscFY) (再生回数不明)
+3. [【本音で語る】AI 生成か本質論か。発信の競争相手が Fableや…](https://www.youtube.com/watch?v=nAaPV4pfZpw) (再生回数不明)
+4. [【噂の新技術】MCP Events を使えば、AI がSlack …](https://www.youtube.com/watch?v=YAD21Lzdqe8) (6013回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. ポスト
-2. 確認
-3. 写真
-4. 言葉
-5. 生活
+1. キオクシア
+2. 半導体
+3. セキュリティ
+4. 先物
+5. 日経平均
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (45件)
-2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (16件)
-3. [イオン(8267)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8267) (15件)
-4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (15件)
-5. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (13件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (234件)
+2. [ＳＢＩホールディングス(8473)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8473) (56件)
+3. [ＥＬＥＭＥＮＴＳ(5246)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5246) (53件)
+4. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (48件)
+5. [カウリス(153A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=153A) (40件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
 1. [【2026/10/12】急騰した5銘柄は今から買える？](https://www.youtube.com/watch?v=TFbXre6yeNg) (再生回数不明)
-2. [OpenAI・AnthropicのIPO延期をどう見る？AI株はま…](https://www.youtube.com/watch?v=O9S9ttCMc80) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [両陛下 国民スポーツ大会開会式に出席](https://www.youtube.com/watch?v=Mopxmhwzn6Q) (5.2万回視聴)
-2. [200種類の国産チーズが集合 国内最大級のイベント開催](https://www.youtube.com/watch?v=dDTJuBJriAk) (2.4万回視聴)
-3. [最強キャンプ場！フェーズフリーとオフグリッドで社会課題解決【田村淳…](https://www.youtube.com/watch?v=Ga1oQYrnozk) (再生回数不明)
-4. [“命の綱”ペニシリン30年ぶりの国産化に挑む！/世界初 海底からレ…](https://www.youtube.com/watch?v=RADRgVJBWQc) (再生回数不明)
-5. [金利上昇で“若者の負担増” 奨学金の返済100万円増も/金利上昇で…](https://www.youtube.com/watch?v=TYbINJTJ1XU) (再生回数不明)
+1. [今週こそ日経平均7万円定着なるか？【明日への投資戦略 10/13～…](https://www.youtube.com/watch?v=hMKb7_b7dBs) (56回視聴)
+2. [中間選挙後を見据える【アメ株Update プレミアム】](https://www.youtube.com/watch?v=pcojzMKXZDk) (再生回数不明)
+3. [フランス 高校生デモ拡大 財政不安で第2のギリシャに【NIKKEI…](https://www.youtube.com/watch?v=yE3eorjTvnE) (再生回数不明)
+4. [年間30兆円の寝不足損失 活況見せるスリープテック【日経モープラF…](https://www.youtube.com/watch?v=2501BMQW9C4) (再生回数不明)
+5. [EU 北朝鮮とロシアに追加制裁 弾道ミサイル開発など支援で【モーサ…](https://www.youtube.com/watch?v=xVfrsfjyHrw) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [突如失踪した娘を探す母 トラブルなしも再捜査 日本の不明届は8万人…](https://www.youtube.com/watch?v=fw_ft48BCK0) (再生回数不明)
-2. [木造住宅2軒焼ける火事 70代男性と60代妻がやけど 栃木・大田原…](https://www.youtube.com/watch?v=b0U7z1gIOUs) (再生回数不明)
-3. [ネパールで再び土石流が発生 大規模な地滑りが原因か(2026年10…](https://www.youtube.com/watch?v=QjXFIrk8O00) (再生回数不明)
-4. [サウジの空港に再び攻撃 けが人も 前日の攻撃では12人死亡(202…](https://www.youtube.com/watch?v=QGP1OcFgnKs) (再生回数不明)
-5. [長野・戸隠連峰で53歳男性が滑落死 標高1590mの岩場付近から滑…](https://www.youtube.com/watch?v=cF3PRYrzN4Q) (再生回数不明)
+1. [【速報】連休明け日経平均 一時1500円超安(2026年10月13…](https://www.youtube.com/watch?v=Wczk2Q90DbU) (885回視聴)
+2. [キツネ仮面2人組が質店に押し入る スプレーで店主ら2人けが 何も奪…](https://www.youtube.com/watch?v=zU3AskcGmxg) (785回視聴)
+3. [介護事業の倒産増加 1～9月で過去最多 サービス多様化で競争激化、…](https://www.youtube.com/watch?v=5fRDiUqa3Xc) (374回視聴)
+4. [断水でも使える洗濯機 助け求める声聞き分けるシステム 「CEATE…](https://www.youtube.com/watch?v=F2hspv9DejA) (192回視聴)
+5. [ノーベル平和賞 ピレイ氏がICC訪問 ICCの重要性を強調 赤根智…](https://www.youtube.com/watch?v=Ji_9YVzVQ_0) (再生回数不明)
 
 ---
 
@@ -62,6 +63,7 @@ date: 2026-10-12
 
 #### 2026-10
 
+- [2026-10-13](2026-10-13.html)
 - [2026-10-12](2026-10-12.html)
 - [2026-10-11](2026-10-11.html)
 - [2026-10-10](2026-10-10.html)
