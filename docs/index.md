@@ -1,60 +1,63 @@
 ---
-title: "2026-10-13"
-date: 2026-10-13
+title: "2026-10-14"
+date: 2026-10-14
 ---
 
-## 2026-10-13
+## 2026-10-14
 
 ### はてブIT（日本市場）
 
-1. [なんでもリバースエンジニアリング。ソースコード非公開のアプリをAI…](https://www.techno-edge.net/article/2026/10/12/5574.html) (388 users)
-2. [人生やりたいことリストのすすめ FIRE後の楽しみを可視化する](https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702) (267 users)
-3. [プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使っ…](https://togetter.com/li/2757347) (176 users)
-4. [OpenCode から Pi へ切り替えた](https://voluntas.ghost.io/migrate-opencode-to-pi/) (168 users)
-5. [AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政…](https://note.com/takahiroanno/n/n27e77cc9bb80) (134 users)
+1. [【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からの…](https://www.nict.go.jp/press/2026/10/13-1.html) (569 users)
+2. [米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、…](https://www.itmedia.co.jp/news/article/2610/13/2000002234/) (191 users)
+3. [総務省](https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000680.html) (173 users)
+4. [私物Macと仕事Macのdotfilesとアプリ管理をmise b…](https://blog.shibayu36.org/entry/2026/10/13/173000) (81 users)
+5. [あなたの『Amazon Kindle』は最新モデルへ買い替えるべき…](https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2147295.html) (56 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【徹底解説】Metaの最先端モデル『Muse Wonder』公開！…](https://www.youtube.com/watch?v=taYd1RTzq1U) (再生回数不明)
-2. [【公式語る】効率的なAgent自動化構築とは？Claude Man…](https://www.youtube.com/watch?v=0EdKWjyscFY) (再生回数不明)
-3. [【本音で語る】AI 生成か本質論か。発信の競争相手が Fableや…](https://www.youtube.com/watch?v=nAaPV4pfZpw) (再生回数不明)
-4. [【噂の新技術】MCP Events を使えば、AI がSlack …](https://www.youtube.com/watch?v=YAD21Lzdqe8) (6013回視聴)
+1. [【ガチ良い】『Gemini 4 Argon』を徹底的に使い込んだの…](https://www.youtube.com/watch?v=eyRBhpuc5Yw) (469回視聴)
+2. [【速報】Gemini 4 Argonがついに登場！1M出力対応に動…](https://www.youtube.com/watch?v=JdyOX_AlWWo) (再生回数不明)
+3. [【必見】Claude Codeの新機能『プロジェクト』は絶対押さえ…](https://www.youtube.com/watch?v=7Ymq-dGIb3Y) (再生回数不明)
+4. [【徹底解説】Metaの最先端モデル『Muse Wonder』公開！…](https://www.youtube.com/watch?v=taYd1RTzq1U) (4512回視聴)
+5. [【公式語る】効率的なAgent自動化構築とは？Claude Man…](https://www.youtube.com/watch?v=0EdKWjyscFY) (1万回視聴)
+6. [【本音で語る】AI 生成か本質論か。発信の競争相手が Fableや…](https://www.youtube.com/watch?v=nAaPV4pfZpw) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
 2. 半導体
 3. セキュリティ
-4. 先物
-5. 日経平均
+4. 日経平均
+5. 信用
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (234件)
-2. [ＳＢＩホールディングス(8473)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8473) (56件)
-3. [ＥＬＥＭＥＮＴＳ(5246)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5246) (53件)
-4. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (48件)
-5. [カウリス(153A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=153A) (40件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (364件)
+2. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (61件)
+3. [イオン(8267)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8267) (52件)
+4. [ＥＬＥＭＥＮＴＳ(5246)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5246) (45件)
+5. [サイバートラスト(4498)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4498) (35件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/12】急騰した5銘柄は今から買える？](https://www.youtube.com/watch?v=TFbXre6yeNg) (再生回数不明)
+1. [【2026/10/14】AIインフラ株からディフェンシブ株へ？高金…](https://www.youtube.com/watch?v=gR0pQZ7SzGI) (再生回数不明)
+2. [【2026/10/13】CRM・2段階格上げ｜PLTRの軍事AIに…](https://www.youtube.com/watch?v=cdxziTSYkE4) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [今週こそ日経平均7万円定着なるか？【明日への投資戦略 10/13～…](https://www.youtube.com/watch?v=hMKb7_b7dBs) (56回視聴)
-2. [中間選挙後を見据える【アメ株Update プレミアム】](https://www.youtube.com/watch?v=pcojzMKXZDk) (再生回数不明)
-3. [フランス 高校生デモ拡大 財政不安で第2のギリシャに【NIKKEI…](https://www.youtube.com/watch?v=yE3eorjTvnE) (再生回数不明)
-4. [年間30兆円の寝不足損失 活況見せるスリープテック【日経モープラF…](https://www.youtube.com/watch?v=2501BMQW9C4) (再生回数不明)
-5. [EU 北朝鮮とロシアに追加制裁 弾道ミサイル開発など支援で【モーサ…](https://www.youtube.com/watch?v=xVfrsfjyHrw) (再生回数不明)
+1. [米アップル 新端末でスマートホーム強化【モーサテ】](https://www.youtube.com/watch?v=yohL4olsyOo) (452回視聴)
+2. [サウジアラビア イエメン石油施設を攻撃か【モーサテ】](https://www.youtube.com/watch?v=ch7fDUqYvNI) (264回視聴)
+3. [米金融決算 業績に陰りも 金利上昇などが影響【モーサテ】](https://www.youtube.com/watch?v=e8oWz355JwQ) (245回視聴)
+4. [米J＆J エネルギー高で売り上げ打撃 増収確保も中東情勢に懸念【モ…](https://www.youtube.com/watch?v=fN62o-IPah4) (106回視聴)
+5. [26年 石油需要予測 引き下げ OPEC月報【モーサテ】](https://www.youtube.com/watch?v=9g_zipteB1s) (72回視聴)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [【速報】連休明け日経平均 一時1500円超安(2026年10月13…](https://www.youtube.com/watch?v=Wczk2Q90DbU) (885回視聴)
-2. [キツネ仮面2人組が質店に押し入る スプレーで店主ら2人けが 何も奪…](https://www.youtube.com/watch?v=zU3AskcGmxg) (785回視聴)
-3. [介護事業の倒産増加 1～9月で過去最多 サービス多様化で競争激化、…](https://www.youtube.com/watch?v=5fRDiUqa3Xc) (374回視聴)
-4. [断水でも使える洗濯機 助け求める声聞き分けるシステム 「CEATE…](https://www.youtube.com/watch?v=F2hspv9DejA) (192回視聴)
-5. [ノーベル平和賞 ピレイ氏がICC訪問 ICCの重要性を強調 赤根智…](https://www.youtube.com/watch?v=Ji_9YVzVQ_0) (再生回数不明)
+1. [「米は自由をもたらすリーダーに戻るべき」平和賞のピレイ氏訴え IC…](https://www.youtube.com/watch?v=99ONFPS6okE) (929回視聴)
+2. [黒海で相次ぐ船舶へのドローン攻撃 ブルガリア沖で11人行方不明(2…](https://www.youtube.com/watch?v=kJDjyCQDh-8) (再生回数不明)
+3. [フランスの学校で14歳が散弾銃発砲“無差別殺人サイト”に傾倒か テ…](https://www.youtube.com/watch?v=l2uWk-IbZzg) (再生回数不明)
+4. [ホワイトハウスの新報道官が初会見 15分足らずで終了 「極めて短い…](https://www.youtube.com/watch?v=Uqa_hivf9pw) (再生回数不明)
+5. [家の中から2人の遺体 横浜市の住宅で火事 5時間半後に鎮火(202…](https://www.youtube.com/watch?v=y3_T-K-mcFU) (再生回数不明)
 
 ---
 
@@ -63,6 +66,7 @@ date: 2026-10-13
 
 #### 2026-10
 
+- [2026-10-14](2026-10-14.html)
 - [2026-10-13](2026-10-13.html)
 - [2026-10-12](2026-10-12.html)
 - [2026-10-11](2026-10-11.html)
