@@ -1,60 +1,59 @@
 ---
-title: "2026-10-16"
-date: 2026-10-16
+title: "2026-10-17"
+date: 2026-10-17
 ---
 
-## 2026-10-16
+## 2026-10-17
 
 ### はてブIT（日本市場）
 
-1. [当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ](https://www.sourcenext.com/support/i/2026/1015_info/) (372 users)
-2. [ワールドガチャ](https://tools.oyasumi-gamedev.com/worldgacha/) (277 users)
-3. [バーガーキング アプリの会員情報 約1118万件漏えい](https://news.web.nhk/newsweb/na/nd-20261015de59803) (275 users)
-4. [連続不正アクセス事案の攻撃手法に関する調査](https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html) (172 users)
-5. [ソースネクスト、最大2251万件の情報流出 パスワード再設定を](https://www.watch.impress.co.jp/docs/news/2148547.html) (133 users)
+1. [ソースネクスト パスワード暗号化がない状態で流出 再設定を](https://news.web.nhk/newsweb/na/nd-20261016de60556) (219 users)
+2. [『note組大きくリードしてます。はてな組も頑張ってください』](https://orangestar2.hatenadiary.com/entry/2026/10/16/140905) (164 users)
+3. [【重要】Linuxカーネルの脆弱性（CVE-2026-99999）…](https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/) (158 users)
+4. [タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約6…](https://www.itmedia.co.jp/news/article/2610/16/2000002346/) (136 users)
+5. [Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量…](https://www.watch.impress.co.jp/docs/news/2148683.html) (135 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【これ最高】Grok Voice 3.0登場！倍速機能も自然さもス…](https://www.youtube.com/watch?v=bPygAyvsn0A) (再生回数不明)
-2. [【神アプデ】Claude Codeデスクトップアプリが大型更新！複…](https://www.youtube.com/watch?v=6tocyVuMr68) (再生回数不明)
-3. [【ガチ良い】『Gemini 4 Argon』を徹底的に使い込んだの…](https://www.youtube.com/watch?v=eyRBhpuc5Yw) (2.2万回視聴)
+1. [【これ最高】Grok Voice 3.0登場！倍速機能も自然さもス…](https://www.youtube.com/watch?v=bPygAyvsn0A) (7186回視聴)
+2. [【神アプデ】Claude Codeデスクトップアプリが大型更新！複…](https://www.youtube.com/watch?v=6tocyVuMr68) (1.1万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. キオクシア
+1. 地震
 2. 半導体
-3. 日経平均
-4. 先物
-5. 信用
+3. 速報
+4. キオクシア
+5. セキュリティ
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (427件)
-2. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (153件)
-3. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (75件)
-4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (64件)
-5. [ウインテスト(6721)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6721) (62件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (213件)
+2. [ウインテスト(6721)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6721) (68件)
+3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (62件)
+4. [ＥＬＥＭＥＮＴＳ(5246)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5246) (60件)
+5. [ＧＯ(581A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=581A) (59件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
 1. [【2026/10/16】インフレ再燃で金利急落](https://www.youtube.com/watch?v=_Y7RTCDQRi4) (再生回数不明)
-2. [【2026/10/15】PLTRに突破口？](https://www.youtube.com/watch?v=Abj4v9nfHnU) (再生回数不明)
+2. [【2026/10/15】PLTRに突破口？](https://www.youtube.com/watch?v=Abj4v9nfHnU) (6592回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [丸の内にフィジカルAIロボ 人との共存を実証実験【WBS】](https://www.youtube.com/watch?v=mkj2GM1IzA4) (再生回数不明)
-2. [自動調理で“上下両面焼き” タイガー魔法瓶 新家電【WBS】](https://www.youtube.com/watch?v=995AtrUeyvM) (再生回数不明)
-3. [NY州の半導体工場に投資へ 対米投資第3弾【WBS】](https://www.youtube.com/watch?v=cOwa8u3TzNI) (再生回数不明)
-4. [TSMC 7～9月最高益に AI向け先端半導体が好調【WBS】](https://www.youtube.com/watch?v=eyp4Rw43lFo) (再生回数不明)
-5. [みずほ AI人材の育成強化 3カ月で営業社員を転換【WBS】](https://www.youtube.com/watch?v=oLjTEApJfxk) (再生回数不明)
+1. [免許画像 直ちに削除 タイムズ ルール変更【WBS】](https://www.youtube.com/watch?v=scn6UsMQFOQ) (再生回数不明)
+2. [うるう秒の廃止決定 通信障害などの混乱回避へ【WBS】](https://www.youtube.com/watch?v=Xegp_qKI8uk) (再生回数不明)
+3. [日経新聞 個人情報漏えい 不正アクセスで183万件【WBS】](https://www.youtube.com/watch?v=Cxp0WwVM59Q) (再生回数不明)
+4. [永守氏らに損害賠償請求へ ニデック 法令違反を認定【WBS】](https://www.youtube.com/watch?v=jQWN3byESyU) (再生回数不明)
+5. [緊急地震速報を取り消し 異なる震源データで計算【WBS】](https://www.youtube.com/watch?v=hxFP5Vsm290) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [物価高対策 5万円程度の給付案 国民民主党 消費減税の効果を疑問視…](https://www.youtube.com/watch?v=WzFJGzcrWTk) (640回視聴)
-2. [アルバニアで学生らの抗議デモ 学費削減やラマ首相の辞任求める 一部…](https://www.youtube.com/watch?v=rhD0gCp8bE8) (596回視聴)
-3. [GPS装着「スピード感もって検討」木原長官(2026年10月15日)](https://www.youtube.com/watch?v=JdFoVhpAxZM) (508回視聴)
-4. [特殊詐欺増加の新宿区 年金支給日に注意喚起(2026年10月15日)](https://www.youtube.com/watch?v=tXmk9pslOgE) (375回視聴)
-5. [タイ王妃 自らの操縦で札幌に着陸 空軍などで訓練し免許取得 戦闘機…](https://www.youtube.com/watch?v=NyI2J6bl_Nc) (再生回数不明)
+1. [「検察なめんなよ」取り調べめぐる裁判 検事「軽々に扱わないでほしい…](https://www.youtube.com/watch?v=M8DhK9ddPkQ) (789回視聴)
+2. [韓国で8人負傷の切り付け事件 警察が容疑者の男（59）の名前と顔写…](https://www.youtube.com/watch?v=hUOp8ChTCaM) (593回視聴)
+3. [タイムズカー 免許証画像の保存ルール変更 大規模な情報漏えい受け(…](https://www.youtube.com/watch?v=25xQCZklZss) (593回視聴)
+4. [高市総理 靖国神社に真榊奉納 参拝は見送り 秋の例大祭(2026年…](https://www.youtube.com/watch?v=-gea-NB53B0) (554回視聴)
+5. [茨城県で豚熱 2800頭の一部を殺処分へ(2026年10月17日)](https://www.youtube.com/watch?v=8IpoNC0a5mw) (178回視聴)
 
 ---
 
@@ -63,6 +62,7 @@ date: 2026-10-16
 
 #### 2026-10
 
+- [2026-10-17](2026-10-17.html)
 - [2026-10-16](2026-10-16.html)
 - [2026-10-15](2026-10-15.html)
 - [2026-10-14](2026-10-14.html)
