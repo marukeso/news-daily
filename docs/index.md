@@ -1,59 +1,58 @@
 ---
-title: "2026-10-17"
-date: 2026-10-17
+title: "2026-10-18"
+date: 2026-10-18
 ---
 
-## 2026-10-17
+## 2026-10-18
 
 ### はてブIT（日本市場）
 
-1. [ソースネクスト パスワード暗号化がない状態で流出 再設定を](https://news.web.nhk/newsweb/na/nd-20261016de60556) (219 users)
-2. [『note組大きくリードしてます。はてな組も頑張ってください』](https://orangestar2.hatenadiary.com/entry/2026/10/16/140905) (164 users)
-3. [【重要】Linuxカーネルの脆弱性（CVE-2026-99999）…](https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/) (158 users)
-4. [タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約6…](https://www.itmedia.co.jp/news/article/2610/16/2000002346/) (136 users)
-5. [Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量…](https://www.watch.impress.co.jp/docs/news/2148683.html) (135 users)
+1. [How the Claude Code team does cod…](https://claude.dev/blog/solving-code-review-at-anthropic/) (208 users)
+2. [ソースネクスト 暗号化されていないパスワードが流出した理由とは（山…](https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530) (200 users)
+3. [亡くなった声優の声、AIでの再現は原則禁止 日俳連が新指針](https://japan.cnet.com/article/35253656/) (165 users)
+4. [漢字の上にふりがなを表示する日本語フォント「Furifont」オー…](https://gihyo.jp/article/2026/10/furifont) (133 users)
+5. [GitHub - google](https://github.com/google-research/harness2) (113 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【これ最高】Grok Voice 3.0登場！倍速機能も自然さもス…](https://www.youtube.com/watch?v=bPygAyvsn0A) (7186回視聴)
-2. [【神アプデ】Claude Codeデスクトップアプリが大型更新！複…](https://www.youtube.com/watch?v=6tocyVuMr68) (1.1万回視聴)
+1. [【緊急】DeepSeek V4.1 Flash 1017版が激アツ…](https://www.youtube.com/watch?v=1lF9yQBJVoA) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 地震
-2. 半導体
-3. 速報
-4. キオクシア
-5. セキュリティ
+1. 半導体
+2. キオクシア
+3. 信用
+4. 確認
+5. 阪神
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (213件)
-2. [ウインテスト(6721)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6721) (68件)
-3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (62件)
-4. [ＥＬＥＭＥＮＴＳ(5246)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5246) (60件)
-5. [ＧＯ(581A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=581A) (59件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (84件)
+2. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (29件)
+3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (24件)
+4. [ディー・エヌ・エー(2432)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=2432) (18件)
+5. [イオン(8267)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8267) (18件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/16】インフレ再燃で金利急落](https://www.youtube.com/watch?v=_Y7RTCDQRi4) (再生回数不明)
-2. [【2026/10/15】PLTRに突破口？](https://www.youtube.com/watch?v=Abj4v9nfHnU) (6592回視聴)
+1. [【2026/10/17】SOXX・半導体9日続落｜CRWV・続く暴…](https://www.youtube.com/watch?v=QoQ7iZU2n-w) (再生回数不明)
+2. [【2026/10/16】インフレ再燃で金利急落](https://www.youtube.com/watch?v=_Y7RTCDQRi4) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [免許画像 直ちに削除 タイムズ ルール変更【WBS】](https://www.youtube.com/watch?v=scn6UsMQFOQ) (再生回数不明)
-2. [うるう秒の廃止決定 通信障害などの混乱回避へ【WBS】](https://www.youtube.com/watch?v=Xegp_qKI8uk) (再生回数不明)
-3. [日経新聞 個人情報漏えい 不正アクセスで183万件【WBS】](https://www.youtube.com/watch?v=Cxp0WwVM59Q) (再生回数不明)
-4. [永守氏らに損害賠償請求へ ニデック 法令違反を認定【WBS】](https://www.youtube.com/watch?v=jQWN3byESyU) (再生回数不明)
-5. [緊急地震速報を取り消し 異なる震源データで計算【WBS】](https://www.youtube.com/watch?v=hxFP5Vsm290) (再生回数不明)
+1. [うるう秒の廃止決定 通信障害などの混乱回避へ【WBS】](https://www.youtube.com/watch?v=Xegp_qKI8uk) (11万回視聴)
+2. [免許画像 直ちに削除 タイムズ ルール変更【WBS】](https://www.youtube.com/watch?v=scn6UsMQFOQ) (2.6万回視聴)
+3. [羽田空港で「パスポート発給160周年記念イベント」 貴重なパスポー…](https://www.youtube.com/watch?v=3Tq5h2EjLEw) (再生回数不明)
+4. [トランプ大統領、対露制裁法の実施見送る](https://www.youtube.com/watch?v=piZtsNo5bzg) (再生回数不明)
+5. [防衛省 自衛隊殉職隊員追悼式で追悼の誠をささげる](https://www.youtube.com/watch?v=nszHRIrTGas) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [「検察なめんなよ」取り調べめぐる裁判 検事「軽々に扱わないでほしい…](https://www.youtube.com/watch?v=M8DhK9ddPkQ) (789回視聴)
-2. [韓国で8人負傷の切り付け事件 警察が容疑者の男（59）の名前と顔写…](https://www.youtube.com/watch?v=hUOp8ChTCaM) (593回視聴)
-3. [タイムズカー 免許証画像の保存ルール変更 大規模な情報漏えい受け(…](https://www.youtube.com/watch?v=25xQCZklZss) (593回視聴)
-4. [高市総理 靖国神社に真榊奉納 参拝は見送り 秋の例大祭(2026年…](https://www.youtube.com/watch?v=-gea-NB53B0) (554回視聴)
-5. [茨城県で豚熱 2800頭の一部を殺処分へ(2026年10月17日)](https://www.youtube.com/watch?v=8IpoNC0a5mw) (178回視聴)
+1. [辺野古沖事故 遺族が知事と面談 「修学旅行の安全確保」を要望(20…](https://www.youtube.com/watch?v=08DwEsCM-yo) (842回視聴)
+2. [肺腺がんで手術のローマ教皇が退院 経過順調 プーチン氏に電話で停戦…](https://www.youtube.com/watch?v=z-CH-59M80U) (183回視聴)
+3. [山之内すずさん「防犯力アップを」1日防犯アンバサダーに 特殊詐欺被…](https://www.youtube.com/watch?v=i0Jbt0ViGcA) (157回視聴)
+4. [愛子さま「銭太鼓」の演奏体験 「全神経を集中させました」(2026…](https://www.youtube.com/watch?v=zVcu5U26N7I) (再生回数不明)
+5. [フランス全土でデモ パリなどで暴徒化 教育環境などの改善を求め(2…](https://www.youtube.com/watch?v=v4atqELIXis) (再生回数不明)
 
 ---
 
@@ -62,6 +61,7 @@ date: 2026-10-17
 
 #### 2026-10
 
+- [2026-10-18](2026-10-18.html)
 - [2026-10-17](2026-10-17.html)
 - [2026-10-16](2026-10-16.html)
 - [2026-10-15](2026-10-15.html)
