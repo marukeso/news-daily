@@ -1,59 +1,58 @@
 ---
-title: "2026-10-20"
-date: 2026-10-20
+title: "2026-10-21"
+date: 2026-10-21
 ---
 
-## 2026-10-20
+## 2026-10-21
 
 ### はてブIT（日本市場）
 
-1. [仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Cla…](https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection) (209 users)
-2. [Claude Codeに全部任せて開発してたエンジニアの末路、1〜…](https://note.com/yukiedu/n/n4d25f5e1d590) (199 users)
-3. [ひとり会社が、AIと二人でISMSを取った話](https://note.com/timtarou/n/n5443f159e7bc) (157 users)
-4. [相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュ…](https://gmo-cybersecurity.com/blog/20261019/) (137 users)
-5. [デジタル庁、Androidのマイナカード対応機種を公開](https://k-tai.watch.impress.co.jp/docs/news/2149346.html) (110 users)
+1. [ソフトウェアの産業革命](https://blog.nishimu.land/entry/2026/10/20/123916) (521 users)
+2. [「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻…](https://www.itmedia.co.jp/news/article/2610/20/2000002426/) (397 users)
+3. [人間のAIに対する判断移譲](https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2) (189 users)
+4. [ウィンドウズアップデートについて調べたらめちゃめちゃ面白かった](https://anond.hatelabo.jp/20261020173628) (155 users)
+5. [生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる…](https://quadro.hateblo.jp/entry/seiseiai_real) (108 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【ローカル完結】効果音もBGMもMacで無料生成！Claude C…](https://www.youtube.com/watch?v=LS4tuoWnbGw) (再生回数不明)
-2. [【2026年10月版】今選ぶべき、LLM徹底格付け26選！Clau…](https://www.youtube.com/watch?v=dWA977-gKPA) (1.2万回視聴)
-3. [【新ハーネス設計】大注目の『Reason Network』とは？マ…](https://www.youtube.com/watch?v=TthDhuF24As) (6529回視聴)
+1. [【最高】AI専用の PC をコードで作れる『Cua Space』に…](https://www.youtube.com/watch?v=sbGN5P17CKI) (再生回数不明)
+2. [【ローカル完結】効果音もBGMもMacで無料生成！Claude C…](https://www.youtube.com/watch?v=LS4tuoWnbGw) (5246回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. キオクシア
-2. 半導体
-3. 日経平均
-4. 信用
-5. 先物
+1. 半導体
+2. キオクシア
+3. 信用
+4. 先物
+5. 日経平均
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (311件)
-2. [レイヤード(634A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=634A) (78件)
-3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (52件)
-4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (50件)
-5. [ぐるなび(2440)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=2440) (43件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (204件)
+2. [ウインテスト(6721)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6721) (109件)
+3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (88件)
+4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (84件)
+5. [ショーケース(3909)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3909) (77件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/19】急騰後に買える株は？BMBL・CCC・VF…](https://www.youtube.com/watch?v=3l3B94j_B9Q) (再生回数不明)
+1. [【2026/10/20】PLTR提携｜INTC・CRWV格上げ｜ト…](https://www.youtube.com/watch?v=I-vqn1_VLxk) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [中東情勢の影響が拡大 「砂漠のダボス会議」来年に延期【モーサテ】](https://www.youtube.com/watch?v=HROH8ZXzqFY) (427回視聴)
-2. [食料品消費税減税の財源 高市総理 「国債発行 否定せず」【モーサテ】](https://www.youtube.com/watch?v=WVqFdvj3_dw) (291回視聴)
-3. [火星衛星の探査へ H3ロケット打ち上げ 分離成功【モーサテ】](https://www.youtube.com/watch?v=arykoViDEj8) (再生回数不明)
-4. [インドネシア株価急落 当局がMSCIと協議か【モーサテ】](https://www.youtube.com/watch?v=WU1muuEePNo) (再生回数不明)
-5. [フランスで長期金利上昇 デモ暴徒化で政治不安も【モーサテ】](https://www.youtube.com/watch?v=F54mQ-KY7XM) (再生回数不明)
+1. [経済安全保障で稼ぐ！ 宇宙庁「2～3年以内に！」 自民党小林政調会…](https://www.youtube.com/watch?v=EhO_Jtqzxlg) (再生回数不明)
+2. [衆院解散「想定していない」 2年後の消費税引き上げ巡り【WBS】](https://www.youtube.com/watch?v=lpMshvnmw4U) (再生回数不明)
+3. [マンション発売戸数↓4割 9月首都圏 平均価格も下落【WBS】](https://www.youtube.com/watch?v=HkQmu2dM0T8) (再生回数不明)
+4. [医療AIシステムに先端半導体 ラピダスや富士フイルムなど【WBS】](https://www.youtube.com/watch?v=4EevaSKPCh8) (再生回数不明)
+5. [ニデック損害は276億円 調査委員会が報告書【WBS】](https://www.youtube.com/watch?v=r6PULN3CLWs) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [成田空港C滑走路 完成予定は2034年12月31日と発表 土地取得…](https://www.youtube.com/watch?v=3dEjJs4BhcY) (549回視聴)
-2. [“イスラエルは2国家解決でパートナーになれない”パレスチナのファタ…](https://www.youtube.com/watch?v=BDjUyN1WJ4Q) (再生回数不明)
-3. [H3ロケット10号機打ち上げ 火星衛星探査機「MMX」搭載(202…](https://www.youtube.com/watch?v=9hJUBuwDEi4) (再生回数不明)
-4. [EBiDANの一員「原因は自分にある。」“新感覚の演出”最新曲「ラ…](https://www.youtube.com/watch?v=F-AZOSk83D8) (再生回数不明)
-5. [赤ちゃんの心臓治療に成功 “世界最小”356gの時に(2026年1…](https://www.youtube.com/watch?v=tVjAHMR4b4A) (再生回数不明)
+1. [妻の“遺体なき事件” 黙秘続ける夫に求刑超え懲役12年6カ月判決 …](https://www.youtube.com/watch?v=mVVzWSaZwLw) (868回視聴)
+2. [不正アクセスによるサイバー攻撃対策を緊急提言へ 自民党(2026年…](https://www.youtube.com/watch?v=ahjTwU0NQbk) (815回視聴)
+3. [岩井コスモ証券に不正アクセス 顧客の意図しない売買成立(2026年…](https://www.youtube.com/watch?v=fHF0wsuVOG8) (再生回数不明)
+4. [大学生の30歳女逮捕 風俗店店長から現金脅し取ったか(2026年1…](https://www.youtube.com/watch?v=gjmvACgc2bo) (再生回数不明)
+5. [大阪地裁前で男性刺される 裁判に行く途中に襲われたか(2026年1…](https://www.youtube.com/watch?v=zyTdWZkgyv0) (再生回数不明)
 
 ---
 
@@ -62,6 +61,7 @@ date: 2026-10-20
 
 #### 2026-10
 
+- [2026-10-21](2026-10-21.html)
 - [2026-10-20](2026-10-20.html)
 - [2026-10-19](2026-10-19.html)
 - [2026-10-18](2026-10-18.html)
