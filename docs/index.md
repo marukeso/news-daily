@@ -1,60 +1,59 @@
 ---
-title: "2026-10-19"
-date: 2026-10-19
+title: "2026-10-20"
+date: 2026-10-20
 ---
 
-## 2026-10-19
+## 2026-10-20
 
 ### はてブIT（日本市場）
 
-1. [スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？…](https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html) (472 users)
-2. [変体仮名一覧表](https://cid.ninjal.ac.jp/kana/list/) (188 users)
-3. [知らない分野を学ぶ技術 powered by AI](https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830) (165 users)
-4. [iOS 27にしてからiPhoneの充電がもたない…。原因は「あの…](https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/) (156 users)
-5. [オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果](https://fd-x.co.jp/insights/41-what-is-ontology) (129 users)
+1. [仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Cla…](https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection) (209 users)
+2. [Claude Codeに全部任せて開発してたエンジニアの末路、1〜…](https://note.com/yukiedu/n/n4d25f5e1d590) (199 users)
+3. [ひとり会社が、AIと二人でISMSを取った話](https://note.com/timtarou/n/n5443f159e7bc) (157 users)
+4. [相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュ…](https://gmo-cybersecurity.com/blog/20261019/) (137 users)
+5. [デジタル庁、Androidのマイナカード対応機種を公開](https://k-tai.watch.impress.co.jp/docs/news/2149346.html) (110 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【2026年10月版】今選ぶべき、LLM徹底格付け26選！Clau…](https://www.youtube.com/watch?v=dWA977-gKPA) (再生回数不明)
-2. [【新ハーネス設計】大注目の『Reason Network』とは？マ…](https://www.youtube.com/watch?v=TthDhuF24As) (再生回数不明)
-3. [【緊急】DeepSeek V4.1 Flash 1017版が激アツ…](https://www.youtube.com/watch?v=1lF9yQBJVoA) (再生回数不明)
+1. [【ローカル完結】効果音もBGMもMacで無料生成！Claude C…](https://www.youtube.com/watch?v=LS4tuoWnbGw) (再生回数不明)
+2. [【2026年10月版】今選ぶべき、LLM徹底格付け26選！Clau…](https://www.youtube.com/watch?v=dWA977-gKPA) (1.2万回視聴)
+3. [【新ハーネス設計】大注目の『Reason Network』とは？マ…](https://www.youtube.com/watch?v=TthDhuF24As) (6529回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
 2. 半導体
-3. フランス
-4. ポスト
-5. 生活
+3. 日経平均
+4. 信用
+5. 先物
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (84件)
-2. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (39件)
-3. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (19件)
-4. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (12件)
-5. [ｎｏｔｅ(5243)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5243) (11件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (311件)
+2. [レイヤード(634A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=634A) (78件)
+3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (52件)
+4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (50件)
+5. [ぐるなび(2440)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=2440) (43件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
 1. [【2026/10/19】急騰後に買える株は？BMBL・CCC・VF…](https://www.youtube.com/watch?v=3l3B94j_B9Q) (再生回数不明)
-2. [SOXX・半導体9日続落｜CRWV・続く暴落｜PLTRも急落](https://www.youtube.com/watch?v=QoQ7iZU2n-w) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [八幡平が地熱で地域創生！？【田村淳のTaMaRiBa】](https://www.youtube.com/watch?v=d2pp2LhSC4o) (再生回数不明)
-2. [【齋藤ジン】ジョージ・ソロス氏を儲けさせた“伝説の投資コンサルタン…](https://www.youtube.com/watch?v=6vwfb_iRYQs) (再生回数不明)
-3. [花王・ジアンサー快進撃！スクラム型で挑む世界唯一の独自性商品づくり…](https://www.youtube.com/watch?v=8snTEw7_duc) (再生回数不明)
-4. [看護師27万人不足の衝撃…医療現場の今/ ”家じまい”最新事情「特…](https://www.youtube.com/watch?v=SdjtHir0WOE) (再生回数不明)
-5. [女性向け都営バス運転体験会](https://www.youtube.com/watch?v=ka_x5eCpSu0) (再生回数不明)
+1. [中東情勢の影響が拡大 「砂漠のダボス会議」来年に延期【モーサテ】](https://www.youtube.com/watch?v=HROH8ZXzqFY) (427回視聴)
+2. [食料品消費税減税の財源 高市総理 「国債発行 否定せず」【モーサテ】](https://www.youtube.com/watch?v=WVqFdvj3_dw) (291回視聴)
+3. [火星衛星の探査へ H3ロケット打ち上げ 分離成功【モーサテ】](https://www.youtube.com/watch?v=arykoViDEj8) (再生回数不明)
+4. [インドネシア株価急落 当局がMSCIと協議か【モーサテ】](https://www.youtube.com/watch?v=WU1muuEePNo) (再生回数不明)
+5. [フランスで長期金利上昇 デモ暴徒化で政治不安も【モーサテ】](https://www.youtube.com/watch?v=F54mQ-KY7XM) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [ゼレンスキー氏 新たな和平協議調整 米特使と会談と投稿…早ければ今…](https://www.youtube.com/watch?v=y0l5M15I4K0) (再生回数不明)
-2. [イランの新国防相にアフラギ氏 ミサイル開発主導の機関で元トップ 前…](https://www.youtube.com/watch?v=BdkQIGFi7sk) (再生回数不明)
-3. [天皇陛下と秋篠宮ご夫妻 アジアパラ大会の開会式に出席(2026年1…](https://www.youtube.com/watch?v=uNLEe_achXQ) (再生回数不明)
-4. [パワハラ問題で前市長が辞職 横浜市長選 新人・原沢敦美氏が初当選(…](https://www.youtube.com/watch?v=0dSzQlqlzds) (再生回数不明)
-5. [ANN世論調査 高市内閣支持率47.1％ 発足以来最低 簗大臣の辞…](https://www.youtube.com/watch?v=ygmJ9zJwP28) (再生回数不明)
+1. [成田空港C滑走路 完成予定は2034年12月31日と発表 土地取得…](https://www.youtube.com/watch?v=3dEjJs4BhcY) (549回視聴)
+2. [“イスラエルは2国家解決でパートナーになれない”パレスチナのファタ…](https://www.youtube.com/watch?v=BDjUyN1WJ4Q) (再生回数不明)
+3. [H3ロケット10号機打ち上げ 火星衛星探査機「MMX」搭載(202…](https://www.youtube.com/watch?v=9hJUBuwDEi4) (再生回数不明)
+4. [EBiDANの一員「原因は自分にある。」“新感覚の演出”最新曲「ラ…](https://www.youtube.com/watch?v=F-AZOSk83D8) (再生回数不明)
+5. [赤ちゃんの心臓治療に成功 “世界最小”356gの時に(2026年1…](https://www.youtube.com/watch?v=tVjAHMR4b4A) (再生回数不明)
 
 ---
 
@@ -63,6 +62,7 @@ date: 2026-10-19
 
 #### 2026-10
 
+- [2026-10-20](2026-10-20.html)
 - [2026-10-19](2026-10-19.html)
 - [2026-10-18](2026-10-18.html)
 - [2026-10-17](2026-10-17.html)
