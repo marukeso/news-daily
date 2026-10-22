@@ -1,59 +1,60 @@
 ---
-title: "2026-10-22"
-date: 2026-10-22
+title: "2026-10-23"
+date: 2026-10-23
 ---
 
-## 2026-10-22
+## 2026-10-23
 
 ### はてブIT（日本市場）
 
-1. [PHPの重大な脆弱性「php2shell」（CVE-2026-10…](https://blog.flatt.tech/entry/php2shell) (836 users)
-2. [修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた](https://piyolog.hatenadiary.jp/entry/2026/10/21/174516) (618 users)
-3. [著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE…](https://www.itmedia.co.jp/news/article/2610/21/2000002472/) (206 users)
-4. [【PHP脆弱性php2shell】パッチは21:59に公開済み。「…](https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html) (190 users)
-5. [不正アクセス“金融機関が狙われる段階に変わってきた可能性”](https://news.web.nhk/newsweb/na/nd-20261021de62921) (153 users)
+1. [PHP 8.5.12の緊急リリースにpixivはどう対応したか](https://inside.pixiv.blog/2026/10/22/193321) (611 users)
+2. [PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広…](https://www.itmedia.co.jp/news/article/2610/22/2000002525/) (306 users)
+3. [Claude Opus 5.5でいい感じのアクションゲームを作るた…](https://aba.hatenablog.com/entry/2026/10/22/194027) (199 users)
+4. [これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩…](https://posfie.com/@golden_haniwa/p/LQ90sis) (187 users)
+5. [【速報】中国政府系がAIで攻撃、MSが発表](https://www.47news.jp/15123221.html) (180 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【今注目】話題の外ループハーネス『OpenBOT』を解説！Grok…](https://www.youtube.com/watch?v=8XnBdePZZLo) (再生回数不明)
-2. [【最高】AI専用の PC をコードで作れる『Cua Space』に…](https://www.youtube.com/watch?v=sbGN5P17CKI) (6273回視聴)
+1. [【期待】Claude Duetが発表！最強モデル『Opus 5.5…](https://www.youtube.com/watch?v=jl5jWMcanp0) (再生回数不明)
+2. [【今注目】話題の外ループハーネス『OpenBOT』を解説！Grok…](https://www.youtube.com/watch?v=8XnBdePZZLo) (6409回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. 半導体
 2. キオクシア
-3. PHP
-4. 先物
+3. セキュリティ
+4. PHP
 5. 日経平均
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (170件)
-2. [ウインテスト(6721)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6721) (97件)
-3. [サイバートラスト(4498)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4498) (71件)
-4. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (61件)
-5. [アクリート(4395)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4395) (49件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (293件)
+2. [ディスコ(6146)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6146) (81件)
+3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (79件)
+4. [ウインテスト(6721)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6721) (51件)
+5. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (46件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/21】NVDA・MSFT・CRWV・SPCX](https://www.youtube.com/watch?v=5zVHVgXCDsc) (再生回数不明)
-2. [PLTR提携｜INTC・CRWV格上げ｜トム・リーは強気](https://www.youtube.com/watch?v=I-vqn1_VLxk) (2417回視聴)
+1. [【2026/10/23】SOFI株は今が買い時？](https://www.youtube.com/watch?v=Kpx85r15EpE) (再生回数不明)
+2. [【2026/10/22】AI株反発の兆し？｜SPCX・SMCI・C…](https://www.youtube.com/watch?v=ZS1SUyiPVTg) (再生回数不明)
+3. [【2026/10/21】NVDA・MSFT・CRWV・SPCX](https://www.youtube.com/watch?v=5zVHVgXCDsc) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [中東の原油輸出 戦闘前の水準回復 代替ルート整備などで【モーサテ】](https://www.youtube.com/watch?v=u5DSsuYIJNk) (791回視聴)
-2. [米通信大手 携帯契約予想届かず 競争激化に懸念【モーサテ】](https://www.youtube.com/watch?v=D12HntSIVfA) (647回視聴)
-3. [米テスラ決算説明会 スペースX統合「追加情報ない」【モーサテ】](https://www.youtube.com/watch?v=ZxHxS05n0i0) (587回視聴)
-4. [フランス長期金利 5％突破 2002年以来の高水準【モーサテ】](https://www.youtube.com/watch?v=_oVvnKjX84k) (再生回数不明)
-5. [米メタ決算 強気なAI設備投資続く【モーサテ】](https://www.youtube.com/watch?v=HOjCnZKuTiI) (再生回数不明)
+1. [“冷凍自動化”本格稼働 イオンネクスト物流施設【WBS】](https://www.youtube.com/watch?v=dr-r6nPBTkQ) (再生回数不明)
+2. [運用･承継を一体提案 三井住友FG 富裕層向け【WBS】](https://www.youtube.com/watch?v=OHWJ7hXuCqQ) (再生回数不明)
+3. [日経平均3カ月ぶり安値 AI･半導体関連に売り【WBS】](https://www.youtube.com/watch?v=_dAo5b7zp1Q) (再生回数不明)
+4. [三菱自 ホンダに車両供給 東南アジア向け28年発売【WBS】](https://www.youtube.com/watch?v=vViJuQHVawY) (再生回数不明)
+5. [10月利上げ見送りへ 日銀 影響見極め【WBS】](https://www.youtube.com/watch?v=aF_Pp84HQ8c) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [キッセイ薬品「タブネオス」投与中止などを通知 試験での有効性に疑義…](https://www.youtube.com/watch?v=RPTNmxgrohk) (886回視聴)
-2. [コーセーが水素活用の南アルプス工場を公開(2026年10月21日)](https://www.youtube.com/watch?v=4gn77adXXks) (737回視聴)
-3. [EBiDAN注目の新星「Lienel」新曲イベントに“ハリウッドス…](https://www.youtube.com/watch?v=hSxtvEc6uT4) (526回視聴)
-4. [栃木・那珂川町のプラスチック工場火災 発生から10日目に鎮火(20…](https://www.youtube.com/watch?v=O4kEtT-HWTw) (486回視聴)
-5. [首都圏連続強盗事件 23歳の実行役が証言「死亡した男性に水かけ脈測…](https://www.youtube.com/watch?v=vaxq3iPhoKM) (再生回数不明)
+1. [スーチー氏 次男と約5年ぶりの電話「声を聞けた喜びは言葉で表せない…](https://www.youtube.com/watch?v=5cwCnuvyA7c) (546回視聴)
+2. [富士山噴火に備え 大使館職員らと合同演習 外国人観光客避難の態勢態…](https://www.youtube.com/watch?v=qUeqeDW2tt4) (459回視聴)
+3. [比例のみ31議席削減案 自民が提示 維新1割減にこだわりも 国民は…](https://www.youtube.com/watch?v=1glkkb2geRw) (405回視聴)
+4. [地下ガスパイプを15km移動しロシア軍の背後に…ウクライナ治安部隊…](https://www.youtube.com/watch?v=vEMFQl-zdJc) (再生回数不明)
+5. [デジタル庁HPの問い合わせ内容漏洩か 最大1万3000件以上(20…](https://www.youtube.com/watch?v=br43uTk9uvM) (再生回数不明)
 
 ---
 
@@ -62,6 +63,7 @@ date: 2026-10-22
 
 #### 2026-10
 
+- [2026-10-23](2026-10-23.html)
 - [2026-10-22](2026-10-22.html)
 - [2026-10-21](2026-10-21.html)
 - [2026-10-20](2026-10-20.html)
