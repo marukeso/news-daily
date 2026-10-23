@@ -1,60 +1,59 @@
 ---
-title: "2026-10-23"
-date: 2026-10-23
+title: "2026-10-24"
+date: 2026-10-24
 ---
 
-## 2026-10-23
+## 2026-10-24
 
 ### はてブIT（日本市場）
 
-1. [PHP 8.5.12の緊急リリースにpixivはどう対応したか](https://inside.pixiv.blog/2026/10/22/193321) (611 users)
-2. [PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広…](https://www.itmedia.co.jp/news/article/2610/22/2000002525/) (306 users)
-3. [Claude Opus 5.5でいい感じのアクションゲームを作るた…](https://aba.hatenablog.com/entry/2026/10/22/194027) (199 users)
-4. [これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩…](https://posfie.com/@golden_haniwa/p/LQ90sis) (187 users)
-5. [【速報】中国政府系がAIで攻撃、MSが発表](https://www.47news.jp/15123221.html) (180 users)
+1. [タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人…](https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/) (284 users)
+2. [佐川急便 流出した個人情報は最大5300万件超の可能性](https://news.web.nhk/newsweb/na/nd-20261023de64285) (247 users)
+3. [パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/) (238 users)
+4. [PHP2Shellへの対応を振り返って](https://tech.codmon.com/entry/2026/10/23/173909) (199 users)
+5. [「Mermaid」図を描けるMarkdownエディター「MerMa…](https://forest.watch.impress.co.jp/docs/news/2150751.html) (127 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【期待】Claude Duetが発表！最強モデル『Opus 5.5…](https://www.youtube.com/watch?v=jl5jWMcanp0) (再生回数不明)
-2. [【今注目】話題の外ループハーネス『OpenBOT』を解説！Grok…](https://www.youtube.com/watch?v=8XnBdePZZLo) (6409回視聴)
+1. [【世界で話題】MetaのAIエージェント「Muse」が遂に日本公開…](https://www.youtube.com/watch?v=LpmBcALir8M) (再生回数不明)
+2. [【期待】Claude Duetが発表！最強モデル『Opus 5.5…](https://www.youtube.com/watch?v=jl5jWMcanp0) (1.6万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. 半導体
 2. キオクシア
-3. セキュリティ
-4. PHP
-5. 日経平均
+3. 日経平均
+4. 先物
+5. 信用
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (293件)
-2. [ディスコ(6146)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6146) (81件)
-3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (79件)
-4. [ウインテスト(6721)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6721) (51件)
-5. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (46件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (335件)
+2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (165件)
+3. [ショーケース(3909)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3909) (85件)
+4. [ファナック(6954)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6954) (63件)
+5. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (59件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
 1. [【2026/10/23】SOFI株は今が買い時？](https://www.youtube.com/watch?v=Kpx85r15EpE) (再生回数不明)
-2. [【2026/10/22】AI株反発の兆し？｜SPCX・SMCI・C…](https://www.youtube.com/watch?v=ZS1SUyiPVTg) (再生回数不明)
-3. [【2026/10/21】NVDA・MSFT・CRWV・SPCX](https://www.youtube.com/watch?v=5zVHVgXCDsc) (再生回数不明)
+2. [【2026/10/22】AI株反発の兆し？｜SPCX・SMCI・C…](https://www.youtube.com/watch?v=ZS1SUyiPVTg) (4012回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [“冷凍自動化”本格稼働 イオンネクスト物流施設【WBS】](https://www.youtube.com/watch?v=dr-r6nPBTkQ) (再生回数不明)
-2. [運用･承継を一体提案 三井住友FG 富裕層向け【WBS】](https://www.youtube.com/watch?v=OHWJ7hXuCqQ) (再生回数不明)
-3. [日経平均3カ月ぶり安値 AI･半導体関連に売り【WBS】](https://www.youtube.com/watch?v=_dAo5b7zp1Q) (再生回数不明)
-4. [三菱自 ホンダに車両供給 東南アジア向け28年発売【WBS】](https://www.youtube.com/watch?v=vViJuQHVawY) (再生回数不明)
-5. [10月利上げ見送りへ 日銀 影響見極め【WBS】](https://www.youtube.com/watch?v=aF_Pp84HQ8c) (再生回数不明)
+1. [ウクライナ南部で局地停戦へ 米ホワイトハウスが発表【WBS】](https://www.youtube.com/watch?v=e351RdUNe0s) (再生回数不明)
+2. [会員制ビアバー開業へ サッポロビール【WBS】](https://www.youtube.com/watch?v=BWB--uqIqbQ) (再生回数不明)
+3. [150年の歴史に幕 名物の馬車 禁止法案可決【WBS】](https://www.youtube.com/watch?v=3hgEpRpOBzI) (再生回数不明)
+4. [2027年3月まで「着手は不可」 リニア静岡工区【WBS】](https://www.youtube.com/watch?v=uE8_bCgs8hU) (再生回数不明)
+5. [基地周辺土地取得に許可制 原則 外国政府には認めず【WBS】](https://www.youtube.com/watch?v=IoLR4s-3o9I) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [スーチー氏 次男と約5年ぶりの電話「声を聞けた喜びは言葉で表せない…](https://www.youtube.com/watch?v=5cwCnuvyA7c) (546回視聴)
-2. [富士山噴火に備え 大使館職員らと合同演習 外国人観光客避難の態勢態…](https://www.youtube.com/watch?v=qUeqeDW2tt4) (459回視聴)
-3. [比例のみ31議席削減案 自民が提示 維新1割減にこだわりも 国民は…](https://www.youtube.com/watch?v=1glkkb2geRw) (405回視聴)
-4. [地下ガスパイプを15km移動しロシア軍の背後に…ウクライナ治安部隊…](https://www.youtube.com/watch?v=vEMFQl-zdJc) (再生回数不明)
-5. [デジタル庁HPの問い合わせ内容漏洩か 最大1万3000件以上(20…](https://www.youtube.com/watch?v=br43uTk9uvM) (再生回数不明)
+1. [外国人観光客に人気の「忍者体験」 本格修行からワイヤーアクションま…](https://www.youtube.com/watch?v=ZZBnmwDCh34) (再生回数不明)
+2. [仏 SNSで襲撃予告も 内務相が警戒 パリで暴動への備え 特殊部隊…](https://www.youtube.com/watch?v=u9anSaYGd1I) (再生回数不明)
+3. [ヨルダン川西岸で銃撃事件 5人死傷 総選挙目前…ネタニヤフ首相が西…](https://www.youtube.com/watch?v=2iivG_1lItA) (再生回数不明)
+4. [昼夜爆撃続くなか…ウクライナ前線で市民癒す“保護猫カフェ” 冬を前…](https://www.youtube.com/watch?v=WpO6fhXg5Mw) (再生回数不明)
+5. [自衛隊が米・独など多国間訓練 負傷隊員の治療や搬送の手順確認(20…](https://www.youtube.com/watch?v=imyC-sp6SiU) (再生回数不明)
 
 ---
 
@@ -63,6 +62,7 @@ date: 2026-10-23
 
 #### 2026-10
 
+- [2026-10-24](2026-10-24.html)
 - [2026-10-23](2026-10-23.html)
 - [2026-10-22](2026-10-22.html)
 - [2026-10-21](2026-10-21.html)
