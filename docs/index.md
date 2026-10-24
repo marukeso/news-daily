@@ -1,59 +1,59 @@
 ---
-title: "2026-10-24"
-date: 2026-10-24
+title: "2026-10-25"
+date: 2026-10-25
 ---
 
-## 2026-10-24
+## 2026-10-25
 
 ### はてブIT（日本市場）
 
-1. [タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人…](https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/) (284 users)
-2. [佐川急便 流出した個人情報は最大5300万件超の可能性](https://news.web.nhk/newsweb/na/nd-20261023de64285) (247 users)
-3. [パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/) (238 users)
-4. [PHP2Shellへの対応を振り返って](https://tech.codmon.com/entry/2026/10/23/173909) (199 users)
-5. [「Mermaid」図を描けるMarkdownエディター「MerMa…](https://forest.watch.impress.co.jp/docs/news/2150751.html) (127 users)
+1. [【重要】お名前.com デスクトップクラウドサービスに対するサイバ…](https://group.gmo/info/alert/20261024/) (193 users)
+2. [AIサイバー対策緊急提言](https://team-mir.ai/lp/ai-cybersecurity/proposal.html) (146 users)
+3. [JSがこんなに減る！ HTML・CSS最新技術2026](https://ics-ikeda.github.io/261024_vuefes_2026/) (114 users)
+4. [不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急…](https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/) (114 users)
+5. [決定的なフロントエンドアーキテクチャがいい](https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend) (102 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【世界で話題】MetaのAIエージェント「Muse」が遂に日本公開…](https://www.youtube.com/watch?v=LpmBcALir8M) (再生回数不明)
-2. [【期待】Claude Duetが発表！最強モデル『Opus 5.5…](https://www.youtube.com/watch?v=jl5jWMcanp0) (1.6万回視聴)
+1. [【最高】Kimi K3.1 Proが世界最先端級で遂に登場！3Dや…](https://www.youtube.com/watch?v=necD9DfrbEc) (再生回数不明)
+2. [【連携が強力】MetaのAIエージェント「Muse」が遂に日本公開…](https://www.youtube.com/watch?v=LpmBcALir8M) (2.1万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 半導体
-2. キオクシア
-3. 日経平均
-4. 先物
-5. 信用
+1. GMO
+2. 攻撃
+3. 確認
+4. 生活
+5. 半導体
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (335件)
-2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (165件)
-3. [ショーケース(3909)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3909) (85件)
-4. [ファナック(6954)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6954) (63件)
-5. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (59件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (51件)
+2. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (34件)
+3. [インターネットインフィニティー(6545)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6545) (20件)
+4. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (15件)
+5. [ＫＤＤＩ(9433)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9433) (15件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/23】SOFI株は今が買い時？](https://www.youtube.com/watch?v=Kpx85r15EpE) (再生回数不明)
-2. [【2026/10/22】AI株反発の兆し？｜SPCX・SMCI・C…](https://www.youtube.com/watch?v=ZS1SUyiPVTg) (4012回視聴)
+1. [【2026/10/24】AI株は買い時か？｜トム・リー＆アイブス強気](https://www.youtube.com/watch?v=xGHJdsEH3VQ) (再生回数不明)
+2. [【2026/10/23】SOFI株は今が買い時？](https://www.youtube.com/watch?v=Kpx85r15EpE) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [ウクライナ南部で局地停戦へ 米ホワイトハウスが発表【WBS】](https://www.youtube.com/watch?v=e351RdUNe0s) (再生回数不明)
-2. [会員制ビアバー開業へ サッポロビール【WBS】](https://www.youtube.com/watch?v=BWB--uqIqbQ) (再生回数不明)
-3. [150年の歴史に幕 名物の馬車 禁止法案可決【WBS】](https://www.youtube.com/watch?v=3hgEpRpOBzI) (再生回数不明)
-4. [2027年3月まで「着手は不可」 リニア静岡工区【WBS】](https://www.youtube.com/watch?v=uE8_bCgs8hU) (再生回数不明)
-5. [基地周辺土地取得に許可制 原則 外国政府には認めず【WBS】](https://www.youtube.com/watch?v=IoLR4s-3o9I) (再生回数不明)
+1. [ウクライナ南部で局地停戦へ 米ホワイトハウスが発表【WBS】](https://www.youtube.com/watch?v=e351RdUNe0s) (9.6万回視聴)
+2. [会員制ビアバー開業へ サッポロビール【WBS】](https://www.youtube.com/watch?v=BWB--uqIqbQ) (2.7万回視聴)
+3. [150年の歴史に幕 名物の馬車 禁止法案可決【WBS】](https://www.youtube.com/watch?v=3hgEpRpOBzI) (1.5万回視聴)
+4. [23時間取引で何が変わる！AI・半導体ブームの中での日米株の動向！…](https://www.youtube.com/watch?v=l43Dk5fiFts) (再生回数不明)
+5. [愛犬とレッドカーペット 新たな体験型イベント開催](https://www.youtube.com/watch?v=5Oab5oROjOk) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [外国人観光客に人気の「忍者体験」 本格修行からワイヤーアクションま…](https://www.youtube.com/watch?v=ZZBnmwDCh34) (再生回数不明)
-2. [仏 SNSで襲撃予告も 内務相が警戒 パリで暴動への備え 特殊部隊…](https://www.youtube.com/watch?v=u9anSaYGd1I) (再生回数不明)
-3. [ヨルダン川西岸で銃撃事件 5人死傷 総選挙目前…ネタニヤフ首相が西…](https://www.youtube.com/watch?v=2iivG_1lItA) (再生回数不明)
-4. [昼夜爆撃続くなか…ウクライナ前線で市民癒す“保護猫カフェ” 冬を前…](https://www.youtube.com/watch?v=WpO6fhXg5Mw) (再生回数不明)
-5. [自衛隊が米・独など多国間訓練 負傷隊員の治療や搬送の手順確認(20…](https://www.youtube.com/watch?v=imyC-sp6SiU) (再生回数不明)
+1. [KDDI モンゴル草原火災の経緯説明と謝罪「社員が法令違反行為をし…](https://www.youtube.com/watch?v=QpSzD6p6wOM) (再生回数不明)
+2. [金総書記が中国を日帰り訪問 中国共産党ナンバー4と会談(2026年…](https://www.youtube.com/watch?v=SDp0Z-_Pqbo) (再生回数不明)
+3. [フランス全土で再び大規模なデモ行進 警察官ら約7万人動員 パリでは…](https://www.youtube.com/watch?v=a-fxFNCCZSI) (再生回数不明)
+4. [佳子さま 全国障害者スポーツ大会でバレーボールを観戦 熱戦に拍手 …](https://www.youtube.com/watch?v=HFrpBssQ7ZE) (再生回数不明)
+5. [台風30号 九州に直撃の恐れ 26日にかけ広く警報級大雨に(202…](https://www.youtube.com/watch?v=rwSIHhzfulM) (再生回数不明)
 
 ---
 
@@ -62,6 +62,7 @@ date: 2026-10-24
 
 #### 2026-10
 
+- [2026-10-25](2026-10-25.html)
 - [2026-10-24](2026-10-24.html)
 - [2026-10-23](2026-10-23.html)
 - [2026-10-22](2026-10-22.html)
