@@ -1,58 +1,57 @@
 ---
-title: "2026-10-26"
-date: 2026-10-26
+title: "2026-10-27"
+date: 2026-10-27
 ---
 
-## 2026-10-26
+## 2026-10-27
 
 ### はてブIT（日本市場）
 
-1. [eMudhra のインシデントは Web にとって何を意味するのか](https://blog.jxck.io/entries/2026-10-25/emudhra.html) (421 users)
-2. [思いつきが現実になる世界でこわい](https://uiuret.hatenablog.com/entry/2026/10/25/080436) (277 users)
-3. [リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジ…](https://togetter.com/li/2762636) (259 users)
-4. [プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調…](https://cookpad.com/jp/recipes/19944624?ref=search&#x26;search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86) (257 users)
-5. [AI ネイティブの SDLC プレイブック](https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook) (238 users)
+1. [Apple、iPad miniに史上最大のアップデートを導入](https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) (182 users)
+2. [楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も](https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/) (162 users)
+3. [AI の謎な説明文を直すスキル](https://zenn.dev/microsoft/articles/explain-before-shorten) (127 users)
+4. [「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“…](https://www.itmedia.co.jp/news/article/2610/26/2000002597/) (121 users)
+5. [ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も](https://news.web.nhk/newsweb/na/nd-20261026de65733) (113 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【必見】Anthropic公式「サブエージェントはメインループへ統…](https://www.youtube.com/watch?v=qq_T_3VY9vA) (再生回数不明)
-2. [【最高】Kimi K3.1 Proが世界最先端級で遂に登場！3Dや…](https://www.youtube.com/watch?v=necD9DfrbEc) (1.2万回視聴)
+1. [【必見】Anthropic公式「サブエージェントはメインループへ統…](https://www.youtube.com/watch?v=qq_T_3VY9vA) (1万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 攻撃
-2. VIVANT
+1. 半導体
+2. デーセク
 3. キオクシア
-4. 選挙
-5. ポスト
+4. 先物
+5. 日経平均
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (54件)
-2. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (25件)
-3. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (19件)
-4. [ソフトバンク(9434)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9434) (17件)
-5. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (15件)
+1. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (329件)
+2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (138件)
+3. [豊和工業(6203)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6203) (81件)
+4. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (68件)
+5. [フツパー(478A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=478A) (51件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/24】AI株は買い時か？｜トム・リー＆アイブス強気](https://www.youtube.com/watch?v=xGHJdsEH3VQ) (2662回視聴)
+- 24時間以内の投稿なし
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [23時間取引で何が変わる！AI・半導体ブームの中での日米株の動向！…](https://www.youtube.com/watch?v=l43Dk5fiFts) (13万回視聴)
-2. [徳之島をガストロノミーで盛り上げろ！美食が続々登場！【田村淳のTa…](https://www.youtube.com/watch?v=cvqqE-uv-No) (再生回数不明)
-3. [北川莉央キャスター初出演！見えないものが・・・見える!?【トレたま…](https://www.youtube.com/watch?v=xZTrVOFH1H8) (再生回数不明)
-4. [武部農林水産大臣 台風25号による被害を受けた地域を視察](https://www.youtube.com/watch?v=5Phy6q9j0ho) (再生回数不明)
-5. [ポケカ30周年記念イベント開催 ゲーム対戦や記念撮影などで盛り上がる](https://www.youtube.com/watch?v=5VXUMCzNXr8) (再生回数不明)
+1. [露で拘束記者と初の領事面会 外務省「健康状態に問題なし」【モーサテ】](https://www.youtube.com/watch?v=Se5yMU9_kwQ) (再生回数不明)
+2. [ハッカーがGMOに80億円要求 不正アクセス【モーサテ】](https://www.youtube.com/watch?v=0VMc0QLfZ2o) (再生回数不明)
+3. [マイクロソフト 新規退職募集 最大6万人【モーサテ】](https://www.youtube.com/watch?v=D0FyLKA_Mjk) (再生回数不明)
+4. [米メタ AI加速 最大15兆円調達へ【モーサテ】](https://www.youtube.com/watch?v=1PZuR6dVB-M) (再生回数不明)
+5. [米アンソロピック IPO目論見書 巨額AI先行投資【モーサテ】](https://www.youtube.com/watch?v=X1SWsYFqWtI) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [「初のAI選挙」専門家が警鐘 各党“ネガキャン” AI動画で投票影…](https://www.youtube.com/watch?v=g98Q4pQUTMo) (再生回数不明)
-2. [茨城・大洗町“植木ばさみ”で女性2人死傷事件 経営者女性を殺害の疑…](https://www.youtube.com/watch?v=jWXvEC3PUPk) (再生回数不明)
-3. [那覇ホテル女性殺害事件 米海兵隊員を強盗殺人罪で起訴 一部犯行ほの…](https://www.youtube.com/watch?v=-gYY_ZMbs7w) (再生回数不明)
-4. [軽自動車同士が衝突 高齢女性1人が死亡 男女4人も搬送 福岡・広川…](https://www.youtube.com/watch?v=CDzXFzSu7gA) (再生回数不明)
-5. [和菓子店店主殺害事件 便利業の男2人を強盗殺人の疑いで逮捕 山口・…](https://www.youtube.com/watch?v=XJ54_FcJ3KU) (再生回数不明)
+1. [医薬品卸会社に強盗 現金やスマホなど奪う 男2人逃走 埼玉・川口市…](https://www.youtube.com/watch?v=UEO2sXIoAqA) (再生回数不明)
+2. [都会を大行進 異例の迂回ルート 住宅高騰の抗議デモで影響を受けたの…](https://www.youtube.com/watch?v=tcFVWRslMTc) (再生回数不明)
+3. [東京・港区白金の共同住宅で火事 女性1人けが(2026年10月26…](https://www.youtube.com/watch?v=jSHsFI6RqTA) (再生回数不明)
+4. [【速報】東京・銀座のビル解体現場で男性作業員が重機にひかれ死亡(2…](https://www.youtube.com/watch?v=ZDqxNEpwRPU) (再生回数不明)
+5. [日フィンランド防衛相会談 防衛協力の強化確認 核政策などについても…](https://www.youtube.com/watch?v=ZAQTfWFWMIU) (再生回数不明)
 
 ---
 
@@ -61,6 +60,7 @@ date: 2026-10-26
 
 #### 2026-10
 
+- [2026-10-27](2026-10-27.html)
 - [2026-10-26](2026-10-26.html)
 - [2026-10-25](2026-10-25.html)
 - [2026-10-24](2026-10-24.html)
