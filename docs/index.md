@@ -1,57 +1,57 @@
 ---
-title: "2026-10-27"
-date: 2026-10-27
+title: "2026-10-28"
+date: 2026-10-28
 ---
 
-## 2026-10-27
+## 2026-10-28
 
 ### はてブIT（日本市場）
 
-1. [Apple、iPad miniに史上最大のアップデートを導入](https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) (182 users)
-2. [楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も](https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/) (162 users)
-3. [AI の謎な説明文を直すスキル](https://zenn.dev/microsoft/articles/explain-before-shorten) (127 users)
-4. [「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“…](https://www.itmedia.co.jp/news/article/2610/26/2000002597/) (121 users)
-5. [ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も](https://news.web.nhk/newsweb/na/nd-20261026de65733) (113 users)
+1. [GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ…](https://togetter.com/li/2763425) (380 users)
+2. [GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模](https://www.itmedia.co.jp/news/article/2610/27/2000002642/) (219 users)
+3. [公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「…](https://www.yomiuri.co.jp/national/20261027-GYT1T00367/) (215 users)
+4. [スライド作成入門_2024.indd](https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com) (206 users)
+5. [パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商…](https://av.watch.impress.co.jp/docs/news/2151398.html) (126 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【必見】Anthropic公式「サブエージェントはメインループへ統…](https://www.youtube.com/watch?v=qq_T_3VY9vA) (1万回視聴)
+1. [【面白い】『GPT](https://www.youtube.com/watch?v=GasJL9OrbxE) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 半導体
-2. デーセク
-3. キオクシア
-4. 先物
-5. 日経平均
+1. GMO
+2. キオクシア
+3. 半導体
+4. セキュリティ
+5. デーセク
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (329件)
-2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (138件)
-3. [豊和工業(6203)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6203) (81件)
-4. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (68件)
-5. [フツパー(478A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=478A) (51件)
+1. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (350件)
+2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (327件)
+3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (115件)
+4. [サイバートラスト(4498)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4498) (115件)
+5. [ユビキタスＡＩ(3858)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3858) (54件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-- 24時間以内の投稿なし
+1. [【2026/10/27】IPO申請でAI株反発｜マスクのネオクラウ…](https://www.youtube.com/watch?v=Fh-y4APcqxc) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [露で拘束記者と初の領事面会 外務省「健康状態に問題なし」【モーサテ】](https://www.youtube.com/watch?v=Se5yMU9_kwQ) (再生回数不明)
-2. [ハッカーがGMOに80億円要求 不正アクセス【モーサテ】](https://www.youtube.com/watch?v=0VMc0QLfZ2o) (再生回数不明)
-3. [マイクロソフト 新規退職募集 最大6万人【モーサテ】](https://www.youtube.com/watch?v=D0FyLKA_Mjk) (再生回数不明)
-4. [米メタ AI加速 最大15兆円調達へ【モーサテ】](https://www.youtube.com/watch?v=1PZuR6dVB-M) (再生回数不明)
-5. [米アンソロピック IPO目論見書 巨額AI先行投資【モーサテ】](https://www.youtube.com/watch?v=X1SWsYFqWtI) (再生回数不明)
+1. [米GM ナスダックに市場変更 ハイテク企業の「自然な移行先」【モー…](https://www.youtube.com/watch?v=fgOTUoImn58) (再生回数不明)
+2. [米メタに計40億ドル投資 エヌビディアとAMD【モーサテ】](https://www.youtube.com/watch?v=ny75bu24uVo) (再生回数不明)
+3. [米コカ･コーラ決算 増収増益も消費環境に懸念【モーサテ】](https://www.youtube.com/watch?v=kMlnUF_U9eY) (再生回数不明)
+4. [米ボーイング決算 赤字縮小も生産ペースに遅れ【モーサテ】](https://www.youtube.com/watch?v=ZU7JCWH3qcY) (再生回数不明)
+5. [イスラエル総選挙 出口調査 与野党いずれも過半数届かず【モーサテ】](https://www.youtube.com/watch?v=WtHoSquZTIg) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [医薬品卸会社に強盗 現金やスマホなど奪う 男2人逃走 埼玉・川口市…](https://www.youtube.com/watch?v=UEO2sXIoAqA) (再生回数不明)
-2. [都会を大行進 異例の迂回ルート 住宅高騰の抗議デモで影響を受けたの…](https://www.youtube.com/watch?v=tcFVWRslMTc) (再生回数不明)
-3. [東京・港区白金の共同住宅で火事 女性1人けが(2026年10月26…](https://www.youtube.com/watch?v=jSHsFI6RqTA) (再生回数不明)
-4. [【速報】東京・銀座のビル解体現場で男性作業員が重機にひかれ死亡(2…](https://www.youtube.com/watch?v=ZDqxNEpwRPU) (再生回数不明)
-5. [日フィンランド防衛相会談 防衛協力の強化確認 核政策などについても…](https://www.youtube.com/watch?v=ZAQTfWFWMIU) (再生回数不明)
+1. [春闘でパートなどの賃上げ7％要求へ UAゼンセン 連合の目標を上回…](https://www.youtube.com/watch?v=dIIbfrqvNEM) (再生回数不明)
+2. [京浜東北線が全線で運転見合わせ 午前9時10分ごろ再開見込み 倒木…](https://www.youtube.com/watch?v=bB7cqCMAkNI) (再生回数不明)
+3. [JR京浜東北線 倒木の影響 上下線で運転見合わせ 運転再開見込み立…](https://www.youtube.com/watch?v=2NlOz5Cqmm8) (再生回数不明)
+4. [散歩中に「たばこをくれ」断ったら刺される 刺した男は逃走中 東京・…](https://www.youtube.com/watch?v=btyXsCONaMo) (再生回数不明)
+5. [北欧2カ国首脳がプーチン氏と電話会談 3カ国協議前にウクライナ侵攻…](https://www.youtube.com/watch?v=qAQnbXV30BY) (再生回数不明)
 
 ---
 
@@ -60,6 +60,7 @@ date: 2026-10-27
 
 #### 2026-10
 
+- [2026-10-28](2026-10-28.html)
 - [2026-10-27](2026-10-27.html)
 - [2026-10-26](2026-10-26.html)
 - [2026-10-25](2026-10-25.html)
