@@ -1,58 +1,57 @@
 ---
-title: "2026-10-30"
-date: 2026-10-30
+title: "2026-10-31"
+date: 2026-10-31
 ---
 
-## 2026-10-30
+## 2026-10-31
 
 ### はてブIT（日本市場）
 
-1. [Cloudflare はなんでこんなに無料で使わせてくれるの？](https://ashunar0.dev/posts/cloudflare-free-plan/) (437 users)
-2. [厳格にルール化すると面倒だからいい感じにして運用してたのに、それを…](https://togetter.com/li/2764263) (186 users)
-3. [最近の E2E 戦略（2026 年 10 月現在）](https://zenn.dev/polyco/articles/26624b38c951b5) (159 users)
-4. [AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水…](https://gigazine.net/news/20261029-anti-ai-words-in-script/) (120 users)
-5. [歌手・矢野顕子氏「音楽のプロとは思えない質問ですいませんが、CDを…](https://togetter.com/li/2764323) (112 users)
+1. [無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正ア…](https://internet.watch.impress.co.jp/docs/news/2152666.html) (263 users)
+2. [個人情報を自社のDBに持たない設計は、どこまでできるのか](https://tech.every.tv/entry/2026/10/30/124255) (193 users)
+3. [「Gemini Notebook」、数百冊の教科書を無料で利用可能に](https://www.watch.impress.co.jp/docs/news/2152548.html) (172 users)
+4. [文章のAIっぽさを抑えるプロンプト](https://imoz.jp/scraps/202610_humanizer.html) (134 users)
+5. [今後のセキュリティの考え方](https://zenn.dev/cscloud_blog/articles/a987163efae5d8) (127 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【最強性能】『Gemini 4 Carbon』発表！サイバーセキュ…](https://www.youtube.com/watch?v=gpsgMOuxHwA) (8740回視聴)
-2. [【結論】今話題のGrokBOTにMuseにDots、AI秘書は結局…](https://www.youtube.com/watch?v=5gLxdt5lcww) (1.6万回視聴)
+- 24時間以内の投稿なし
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
-2. イビデン
-3. 半導体
-4. 発表
-5. 修正
+2. 半導体
+3. イビデン
+4. 村田
+5. 日銀
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (422件)
-2. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (264件)
-3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (159件)
-4. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (84件)
-5. [日立製作所(6501)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6501) (56件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (936件)
+2. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (199件)
+3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (112件)
+4. [富士通(6702)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6702) (71件)
+5. [東京エレクトロン(8035)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8035) (66件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/28】SOFI好決算・アンソロピックIPO｜潮目…](https://www.youtube.com/watch?v=_DAC0yPp6Eg) (3696回視聴)
+1. [【2026/10/30】重要決算の評価と投資判断｜MSFT・GOO…](https://www.youtube.com/watch?v=TVb1K3fIafo) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [「もったいない」に付加価値を フードロス最前線【日経モープラFT】](https://www.youtube.com/watch?v=cj48EkDwXWQ) (再生回数不明)
-2. [米マイクロソフトが社債発行 4兆円規模 需要旺盛か【モーサテ】](https://www.youtube.com/watch?v=CpWbMfTcmi8) (再生回数不明)
-3. [米インテル 株価一時↓20%超 売上高見通し 予想下回る【モーサテ】](https://www.youtube.com/watch?v=5489BLIj4NA) (再生回数不明)
-4. [米アマゾン決算 設備投資 予想大幅に上回る【モーサテ】](https://www.youtube.com/watch?v=eVyemc4Qgxc) (再生回数不明)
-5. [ECB 政策金利据え置き 2会合ぶり【モーサテ】](https://www.youtube.com/watch?v=LzmwIsV4BWU) (再生回数不明)
+1. [日本交通 29万人分漏えいか ハイヤー利用者の自宅住所も【WBS】](https://www.youtube.com/watch?v=irPdeiFEdZ4) (再生回数不明)
+2. [トヨタ 無人EVタクシー運行へ 米ウェイモと2027年日本で【WB…](https://www.youtube.com/watch?v=ZPg_Ec8CgkQ) (再生回数不明)
+3. [与党陣営 過半数割れ イスラエル総選挙 交渉本格化【WBS】](https://www.youtube.com/watch?v=1sG6hZtC4Qw) (再生回数不明)
+4. [暗号資産 1兆円の被害 交換所最大手に不正アクセス【WBS】](https://www.youtube.com/watch?v=XMwqav8SE5w) (再生回数不明)
+5. [【黒田前総裁単独インタビュー】日銀 物価上昇率｢2％到達｣／202…](https://www.youtube.com/watch?v=_bfe-Fs2afY) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [ガソリン補助 予備費から1兆1481億円余り支出 補助金は縮小で1…](https://www.youtube.com/watch?v=nU8XA7GN9TQ) (再生回数不明)
-2. [北京で中国人学生の日本語作文コンクール 今年は応募数減少 日中関係…](https://www.youtube.com/watch?v=Tz7ZlntlmMA) (再生回数不明)
-3. [中国共産党の重要会議が閉幕 来年の党大会を前に大量処分 習近平体制…](https://www.youtube.com/watch?v=vUfYd3gdYOA) (再生回数不明)
-4. [小泉防衛大臣 中国との会談実現せず「残念」 ASEAN拡大国防相会…](https://www.youtube.com/watch?v=MvrRrDmVkrs) (再生回数不明)
-5. [中野ブロードウェイでまた窃盗事件 時価4600万円相当の高級腕時計…](https://www.youtube.com/watch?v=oXOmoB5mOzw) (再生回数不明)
+1. [国連加盟70年で小和田氏が講演 元ICJ所長 国際社会で日本が果た…](https://www.youtube.com/watch?v=U3DfH2HGeCI) (再生回数不明)
+2. [iPS細胞由来の再生医療製品 パーキンソン病患者に初移植(2026…](https://www.youtube.com/watch?v=KbnS88F_8w0) (再生回数不明)
+3. [沖縄・辺野古転覆事故 同志社が安全配慮義務違反認める(2026年1…](https://www.youtube.com/watch?v=5-3XLESYuz0) (再生回数不明)
+4. [スペイン列車事故 捜査本格化 「ブラックボックス」を回収(2026…](https://www.youtube.com/watch?v=_T62491C7Wk) (再生回数不明)
+5. [止まらぬ個人情報漏洩… 日本交通やANAでも(2026年10月31…](https://www.youtube.com/watch?v=FAK7TZbx3-g) (再生回数不明)
 
 ---
 
@@ -61,6 +60,7 @@ date: 2026-10-30
 
 #### 2026-10
 
+- [2026-10-31](2026-10-31.html)
 - [2026-10-30](2026-10-30.html)
 - [2026-10-29](2026-10-29.html)
 - [2026-10-28](2026-10-28.html)
