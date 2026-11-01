@@ -1,62 +1,67 @@
 ---
-title: "2026-10-31"
-date: 2026-10-31
+title: "2026-11-01"
+date: 2026-11-01
 ---
 
-## 2026-10-31
+## 2026-11-01
 
 ### はてブIT（日本市場）
 
-1. [無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正ア…](https://internet.watch.impress.co.jp/docs/news/2152666.html) (263 users)
-2. [個人情報を自社のDBに持たない設計は、どこまでできるのか](https://tech.every.tv/entry/2026/10/30/124255) (193 users)
-3. [「Gemini Notebook」、数百冊の教科書を無料で利用可能に](https://www.watch.impress.co.jp/docs/news/2152548.html) (172 users)
-4. [文章のAIっぽさを抑えるプロンプト](https://imoz.jp/scraps/202610_humanizer.html) (134 users)
-5. [今後のセキュリティの考え方](https://zenn.dev/cscloud_blog/articles/a987163efae5d8) (127 users)
+1. [GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手](https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/) (296 users)
+2. [OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問…](https://www.techno-edge.net/article/2026/10/31/5657.html) (213 users)
+3. [OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と…](https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/) (185 users)
+4. [1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント…](https://sizu.me/hayatosc/posts/oxi9cff8k2bn) (183 users)
+5. [偽コンサルの一生](https://2arctan-1.hatenablog.com/entry/2026/10/31/125102) (115 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-- 24時間以内の投稿なし
+1. [【重要トレンド】2026年10月で押さえるべき要点6選！認知負荷に…](https://www.youtube.com/watch?v=Q9r7DeeOjJA) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
-2. 半導体
-3. イビデン
-4. 村田
-5. 日銀
+2. ハロウィン
+3. 半導体
+4. 選挙
+5. 確認
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (936件)
-2. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (199件)
-3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (112件)
-4. [富士通(6702)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6702) (71件)
-5. [東京エレクトロン(8035)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8035) (66件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (187件)
+2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (24件)
+3. [メタプラネット(3350)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3350) (13件)
+4. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (13件)
+5. [ＴＢＳホールディングス(9401)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9401) (12件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/30】重要決算の評価と投資判断｜MSFT・GOO…](https://www.youtube.com/watch?v=TVb1K3fIafo) (再生回数不明)
+1. [【2026/10/31】急落後の投資判断](https://www.youtube.com/watch?v=S3YfnHJuHlo) (再生回数不明)
+2. [【2026/10/30】重要決算の評価と投資判断｜MSFT・GOO…](https://www.youtube.com/watch?v=TVb1K3fIafo) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [日本交通 29万人分漏えいか ハイヤー利用者の自宅住所も【WBS】](https://www.youtube.com/watch?v=irPdeiFEdZ4) (再生回数不明)
-2. [トヨタ 無人EVタクシー運行へ 米ウェイモと2027年日本で【WB…](https://www.youtube.com/watch?v=ZPg_Ec8CgkQ) (再生回数不明)
-3. [与党陣営 過半数割れ イスラエル総選挙 交渉本格化【WBS】](https://www.youtube.com/watch?v=1sG6hZtC4Qw) (再生回数不明)
-4. [暗号資産 1兆円の被害 交換所最大手に不正アクセス【WBS】](https://www.youtube.com/watch?v=XMwqav8SE5w) (再生回数不明)
-5. [【黒田前総裁単独インタビュー】日銀 物価上昇率｢2％到達｣／202…](https://www.youtube.com/watch?v=_bfe-Fs2afY) (再生回数不明)
+1. [与党陣営 過半数割れ イスラエル総選挙 交渉本格化【WBS】](https://www.youtube.com/watch?v=1sG6hZtC4Qw) (16万回視聴)
+2. [暗号資産 1兆円の被害 交換所最大手に不正アクセス【WBS】](https://www.youtube.com/watch?v=XMwqav8SE5w) (5.9万回視聴)
+3. [トヨタ 無人EVタクシー運行へ 米ウェイモと2027年日本で【WB…](https://www.youtube.com/watch?v=ZPg_Ec8CgkQ) (4.5万回視聴)
+4. [【黒田前総裁単独インタビュー】日銀 物価上昇率｢2％到達｣／202…](https://www.youtube.com/watch?v=_bfe-Fs2afY) (2.7万回視聴)
+5. [日本交通 29万人分漏えいか ハイヤー利用者の自宅住所も【WBS】](https://www.youtube.com/watch?v=irPdeiFEdZ4) (1.6万回視聴)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [国連加盟70年で小和田氏が講演 元ICJ所長 国際社会で日本が果た…](https://www.youtube.com/watch?v=U3DfH2HGeCI) (再生回数不明)
-2. [iPS細胞由来の再生医療製品 パーキンソン病患者に初移植(2026…](https://www.youtube.com/watch?v=KbnS88F_8w0) (再生回数不明)
-3. [沖縄・辺野古転覆事故 同志社が安全配慮義務違反認める(2026年1…](https://www.youtube.com/watch?v=5-3XLESYuz0) (再生回数不明)
-4. [スペイン列車事故 捜査本格化 「ブラックボックス」を回収(2026…](https://www.youtube.com/watch?v=_T62491C7Wk) (再生回数不明)
-5. [止まらぬ個人情報漏洩… 日本交通やANAでも(2026年10月31…](https://www.youtube.com/watch?v=FAK7TZbx3-g) (再生回数不明)
+1. [フランス3週連続で週末の抗議デモ 治安部隊約7万人で警戒 パリやリ…](https://www.youtube.com/watch?v=xCOwTRVCJA0) (再生回数不明)
+2. [沖縄 米兵の外出禁止時間に… 米海兵隊員が酒気帯び運転の疑いで逮捕…](https://www.youtube.com/watch?v=9EIf6udGk3w) (再生回数不明)
+3. [台風25号の大雨で被災 千葉・成田市で農家を対象にした住民説明会(…](https://www.youtube.com/watch?v=pd0OsCuv65s) (再生回数不明)
+4. [ブランド品買取店の金を横領か 47歳男を逮捕 埼玉での強盗事件の関…](https://www.youtube.com/watch?v=Utz5U4bcFE0) (再生回数不明)
+5. [ホルムズ海峡2日以内再開案合意 イランとカタール アラグチ外相「米…](https://www.youtube.com/watch?v=rUr3F3lWf9I) (再生回数不明)
 
 ---
 
 ### アーカイブ
 
+
+#### 2026-11
+
+- [2026-11-01](2026-11-01.html)
 
 #### 2026-10
 
