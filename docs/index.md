@@ -1,58 +1,60 @@
 ---
-title: "2026-11-01"
-date: 2026-11-01
+title: "2026-11-02"
+date: 2026-11-02
 ---
 
-## 2026-11-01
+## 2026-11-02
 
 ### はてブIT（日本市場）
 
-1. [GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手](https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/) (296 users)
-2. [OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問…](https://www.techno-edge.net/article/2026/10/31/5657.html) (213 users)
-3. [OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と…](https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/) (185 users)
-4. [1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント…](https://sizu.me/hayatosc/posts/oxi9cff8k2bn) (183 users)
-5. [偽コンサルの一生](https://2arctan-1.hatenablog.com/entry/2026/10/31/125102) (115 users)
+1. [AIエージェント向けの業務手順書（Agent Skills）の設計…](https://techblog.kazaneya.com/20261030-agent-skills/) (713 users)
+2. [「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね…](https://togetter.com/li/2765526) (323 users)
+3. [いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデ…](https://togetter.com/li/2765521) (307 users)
+4. [いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少](https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/) (271 users)
+5. [TVerにおけるテスト自動化の歩み](https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation) (171 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【重要トレンド】2026年10月で押さえるべき要点6選！認知負荷に…](https://www.youtube.com/watch?v=Q9r7DeeOjJA) (再生回数不明)
+1. [【これ良い】UIのAI臭を削る『unslop』が話題なので使ってみ…](https://www.youtube.com/watch?v=LUsicyEmbic) (再生回数不明)
+2. [【導入かんたん】AIエージェント向けのPC操作『agent](https://www.youtube.com/watch?v=kPNzvaYtFSQ) (再生回数不明)
+3. [【重要トレンド】2026年10月で押さえるべき要点6選！認知負荷に…](https://www.youtube.com/watch?v=Q9r7DeeOjJA) (8841回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
-2. ハロウィン
-3. 半導体
-4. 選挙
-5. 確認
+2. 選挙
+3. 確認
+4. 中間
+5. 半導体
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (187件)
-2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (24件)
-3. [メタプラネット(3350)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3350) (13件)
-4. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (13件)
-5. [ＴＢＳホールディングス(9401)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9401) (12件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (168件)
+2. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (28件)
+3. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (20件)
+4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (17件)
+5. [イオン(8267)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8267) (12件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/10/31】急落後の投資判断](https://www.youtube.com/watch?v=S3YfnHJuHlo) (再生回数不明)
-2. [【2026/10/30】重要決算の評価と投資判断｜MSFT・GOO…](https://www.youtube.com/watch?v=TVb1K3fIafo) (再生回数不明)
+1. [【2026/11/01】急落相場で狙う4銘柄と購入戦略](https://www.youtube.com/watch?v=mkm3P1L7PrM) (再生回数不明)
+2. [【2026/10/31】急落後の投資判断](https://www.youtube.com/watch?v=S3YfnHJuHlo) (5306回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [与党陣営 過半数割れ イスラエル総選挙 交渉本格化【WBS】](https://www.youtube.com/watch?v=1sG6hZtC4Qw) (16万回視聴)
-2. [暗号資産 1兆円の被害 交換所最大手に不正アクセス【WBS】](https://www.youtube.com/watch?v=XMwqav8SE5w) (5.9万回視聴)
-3. [トヨタ 無人EVタクシー運行へ 米ウェイモと2027年日本で【WB…](https://www.youtube.com/watch?v=ZPg_Ec8CgkQ) (4.5万回視聴)
-4. [【黒田前総裁単独インタビュー】日銀 物価上昇率｢2％到達｣／202…](https://www.youtube.com/watch?v=_bfe-Fs2afY) (2.7万回視聴)
-5. [日本交通 29万人分漏えいか ハイヤー利用者の自宅住所も【WBS】](https://www.youtube.com/watch?v=irPdeiFEdZ4) (1.6万回視聴)
+1. [殉職警察官などを追悼 総理「安全安心に力尽くす」](https://www.youtube.com/watch?v=du42MAq0W5w) (1.4万回視聴)
+2. [クラブツーリズム 432万件の個人情報 流出か【モーサテ】](https://www.youtube.com/watch?v=dXrEgGwaXY8) (再生回数不明)
+3. [「サイバーパンデミックの前兆！？」 国は守れるか キーマン平将明・…](https://www.youtube.com/watch?v=b2HCnYyeOLY) (再生回数不明)
+4. [徳之島ガストロノミー後半戦＆茅野プロジェクト2年目開始！【田村淳の…](https://www.youtube.com/watch?v=O4lRYuZvqeU) (再生回数不明)
+5. ["超絶進化"Turingの自動運転は大雨＆夜の東京を走破できるか？…](https://www.youtube.com/watch?v=MYnCAfW9fr4) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [フランス3週連続で週末の抗議デモ 治安部隊約7万人で警戒 パリやリ…](https://www.youtube.com/watch?v=xCOwTRVCJA0) (再生回数不明)
-2. [沖縄 米兵の外出禁止時間に… 米海兵隊員が酒気帯び運転の疑いで逮捕…](https://www.youtube.com/watch?v=9EIf6udGk3w) (再生回数不明)
-3. [台風25号の大雨で被災 千葉・成田市で農家を対象にした住民説明会(…](https://www.youtube.com/watch?v=pd0OsCuv65s) (再生回数不明)
-4. [ブランド品買取店の金を横領か 47歳男を逮捕 埼玉での強盗事件の関…](https://www.youtube.com/watch?v=Utz5U4bcFE0) (再生回数不明)
-5. [ホルムズ海峡2日以内再開案合意 イランとカタール アラグチ外相「米…](https://www.youtube.com/watch?v=rUr3F3lWf9I) (再生回数不明)
+1. [クマと衝突し特急脱線 JR宗谷線 3日運転再開へ(2026年11月…](https://www.youtube.com/watch?v=sbr5IJZoR_M) (再生回数不明)
+2. [トランプ氏 交渉の行方見守りたい イランへの再攻撃巡りネタニヤフ首…](https://www.youtube.com/watch?v=71zNUyhbnw4) (再生回数不明)
+3. [【速報】スペイン列車衝突事故 日本人1人の死亡確認 スペイン当局(…](https://www.youtube.com/watch?v=ch4zqqSouBk) (再生回数不明)
+4. [【速報】米フロリダ州で小型機墜落 炎上 乗員乗客9人全員死亡(20…](https://www.youtube.com/watch?v=FqtOIVpPM48) (再生回数不明)
+5. [OPECプラス12月生産枠据え置き 3カ月連続で維持合意…今後も市…](https://www.youtube.com/watch?v=2Llgl3jIv-M) (再生回数不明)
 
 ---
 
@@ -61,6 +63,7 @@ date: 2026-11-01
 
 #### 2026-11
 
+- [2026-11-02](2026-11-02.html)
 - [2026-11-01](2026-11-01.html)
 
 #### 2026-10
