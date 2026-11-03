@@ -1,60 +1,58 @@
 ---
-title: "2026-11-02"
-date: 2026-11-02
+title: "2026-11-03"
+date: 2026-11-03
 ---
 
-## 2026-11-02
+## 2026-11-03
 
 ### はてブIT（日本市場）
 
-1. [AIエージェント向けの業務手順書（Agent Skills）の設計…](https://techblog.kazaneya.com/20261030-agent-skills/) (713 users)
-2. [「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね…](https://togetter.com/li/2765526) (323 users)
-3. [いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデ…](https://togetter.com/li/2765521) (307 users)
-4. [いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少](https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/) (271 users)
-5. [TVerにおけるテスト自動化の歩み](https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation) (171 users)
+1. [【時系列で振り返る】GMO熊谷正寿社長 会見詳報](https://mainichi.jp/articles/20261102/hrc/00m/020/001000d) (340 users)
+2. [ISUCON2026 で優勝しました（当日編）](https://zenn.dev/luvtechno/articles/isucon2026-competition-day) (248 users)
+3. [日本の全法令を git の履歴にしてみた](https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git) (226 users)
+4. [ドコモの5G基地局は他社の半分以下、5G化率18.5％で最下位 総…](https://k-tai.watch.impress.co.jp/docs/news/2153051.html) (219 users)
+5. [GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、も…](https://www.itmedia.co.jp/news/article/2611/02/2000002823/) (204 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【これ良い】UIのAI臭を削る『unslop』が話題なので使ってみ…](https://www.youtube.com/watch?v=LUsicyEmbic) (再生回数不明)
-2. [【導入かんたん】AIエージェント向けのPC操作『agent](https://www.youtube.com/watch?v=kPNzvaYtFSQ) (再生回数不明)
-3. [【重要トレンド】2026年10月で押さえるべき要点6選！認知負荷に…](https://www.youtube.com/watch?v=Q9r7DeeOjJA) (8841回視聴)
+1. [【これ良い】UIのAI臭を削る『unslop』が話題なので使ってみ…](https://www.youtube.com/watch?v=LUsicyEmbic) (8876回視聴)
+2. [【導入かんたん】AIエージェント向けのPC操作『agent](https://www.youtube.com/watch?v=kPNzvaYtFSQ) (6495回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
 2. 選挙
-3. 確認
-4. 中間
+3. 中間
+4. GMO
 5. 半導体
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (168件)
-2. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (28件)
-3. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (20件)
-4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (17件)
-5. [イオン(8267)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8267) (12件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (452件)
+2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (61件)
+3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (42件)
+4. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (37件)
+5. [京セラ(6971)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6971) (32件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
 1. [【2026/11/01】急落相場で狙う4銘柄と購入戦略](https://www.youtube.com/watch?v=mkm3P1L7PrM) (再生回数不明)
-2. [【2026/10/31】急落後の投資判断](https://www.youtube.com/watch?v=S3YfnHJuHlo) (5306回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [殉職警察官などを追悼 総理「安全安心に力尽くす」](https://www.youtube.com/watch?v=du42MAq0W5w) (1.4万回視聴)
-2. [クラブツーリズム 432万件の個人情報 流出か【モーサテ】](https://www.youtube.com/watch?v=dXrEgGwaXY8) (再生回数不明)
-3. [「サイバーパンデミックの前兆！？」 国は守れるか キーマン平将明・…](https://www.youtube.com/watch?v=b2HCnYyeOLY) (再生回数不明)
-4. [徳之島ガストロノミー後半戦＆茅野プロジェクト2年目開始！【田村淳の…](https://www.youtube.com/watch?v=O4lRYuZvqeU) (再生回数不明)
-5. ["超絶進化"Turingの自動運転は大雨＆夜の東京を走破できるか？…](https://www.youtube.com/watch?v=MYnCAfW9fr4) (再生回数不明)
+1. [米中間選挙に“赤い引き潮” 「若者の怒り」で共和党に逆風【NIKK…](https://www.youtube.com/watch?v=9tUgiNJ5o-o) (再生回数不明)
+2. [サイバー攻撃か 空襲警報アプリに偽通知【WBS】](https://www.youtube.com/watch?v=mBGdzN2oJJg) (再生回数不明)
+3. [年賀はがきの販売開始 差し出し目安日繰り下げ【WBS】](https://www.youtube.com/watch?v=MhrSxOE2CJA) (再生回数不明)
+4. [新車販売 7カ月ぶり減少 軽自動車が販売不振【WBS】](https://www.youtube.com/watch?v=44WhFjKHebQ) (再生回数不明)
+5. [日本航空 燃油高で減益 4－9月 純利益↓42％【WBS】](https://www.youtube.com/watch?v=guaz1vFR9eY) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [クマと衝突し特急脱線 JR宗谷線 3日運転再開へ(2026年11月…](https://www.youtube.com/watch?v=sbr5IJZoR_M) (再生回数不明)
-2. [トランプ氏 交渉の行方見守りたい イランへの再攻撃巡りネタニヤフ首…](https://www.youtube.com/watch?v=71zNUyhbnw4) (再生回数不明)
-3. [【速報】スペイン列車衝突事故 日本人1人の死亡確認 スペイン当局(…](https://www.youtube.com/watch?v=ch4zqqSouBk) (再生回数不明)
-4. [【速報】米フロリダ州で小型機墜落 炎上 乗員乗客9人全員死亡(20…](https://www.youtube.com/watch?v=FqtOIVpPM48) (再生回数不明)
-5. [OPECプラス12月生産枠据え置き 3カ月連続で維持合意…今後も市…](https://www.youtube.com/watch?v=2Llgl3jIv-M) (再生回数不明)
+1. [新たに日本人1人の死亡を確認 スペイン列車事故 69人死亡(202…](https://www.youtube.com/watch?v=tOKe1esKKvw) (716回視聴)
+2. [民主党優勢か 今夜投票の米中間選挙「最後の訴え」 トランプ敗北なら…](https://www.youtube.com/watch?v=9BX1Nuxyg_s) (再生回数不明)
+3. [文科大臣が東大に再び苦言「進展あった」が「今なお不透明」次期総長の…](https://www.youtube.com/watch?v=JIoYThzfXAk) (再生回数不明)
+4. [メール配信業者「アララ」7700万件メアド流出 悪用しカード会社装…](https://www.youtube.com/watch?v=moozg3nsgBI) (再生回数不明)
+5. [仰向けでスーイスイ！ 陸だけと…背泳ぎするハムスターさん なぜ仰向…](https://www.youtube.com/watch?v=fiZmbGkBm4U) (再生回数不明)
 
 ---
 
@@ -63,6 +61,7 @@ date: 2026-11-02
 
 #### 2026-11
 
+- [2026-11-03](2026-11-03.html)
 - [2026-11-02](2026-11-02.html)
 - [2026-11-01](2026-11-01.html)
 
