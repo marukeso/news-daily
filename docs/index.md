@@ -1,58 +1,57 @@
 ---
-title: "2026-11-03"
-date: 2026-11-03
+title: "2026-11-04"
+date: 2026-11-04
 ---
 
-## 2026-11-03
+## 2026-11-04
 
 ### はてブIT（日本市場）
 
-1. [【時系列で振り返る】GMO熊谷正寿社長 会見詳報](https://mainichi.jp/articles/20261102/hrc/00m/020/001000d) (340 users)
-2. [ISUCON2026 で優勝しました（当日編）](https://zenn.dev/luvtechno/articles/isucon2026-competition-day) (248 users)
-3. [日本の全法令を git の履歴にしてみた](https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git) (226 users)
-4. [ドコモの5G基地局は他社の半分以下、5G化率18.5％で最下位 総…](https://k-tai.watch.impress.co.jp/docs/news/2153051.html) (219 users)
-5. [GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、も…](https://www.itmedia.co.jp/news/article/2611/02/2000002823/) (204 users)
+1. [ドメイン更新料が2,676円から18,139円に。通知から約45時…](https://anond.hatelabo.jp/20261103160506) (431 users)
+2. [アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う](https://disconinja.hatenablog.com/entry/2026/11/03/230647) (247 users)
+3. [毎年1万円だったドメインが、いきなり17万円になった話](https://note.com/t_yabuhara/n/n7871bfc65d5c) (203 users)
+4. [E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論）](https://blog.kuniwak.com/entry/e2ebok) (176 users)
+5. [Aterm設定画面、「PHP使ってないのに.php」なぜ？ NEC…](https://www.itmedia.co.jp/news/article/2611/04/2000002847/) (143 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【これ良い】UIのAI臭を削る『unslop』が話題なので使ってみ…](https://www.youtube.com/watch?v=LUsicyEmbic) (8876回視聴)
-2. [【導入かんたん】AIエージェント向けのPC操作『agent](https://www.youtube.com/watch?v=kPNzvaYtFSQ) (6495回視聴)
+1. [【今バズってる】AIエージェントで使える『図解スキル』7選！実際に…](https://www.youtube.com/watch?v=b6I72Ok5Pq4) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. キオクシア
-2. 選挙
+1. 選挙
+2. キオクシア
 3. 中間
-4. GMO
-5. 半導体
+4. 半導体
+5. 先物
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (452件)
-2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (61件)
-3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (42件)
-4. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (37件)
-5. [京セラ(6971)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6971) (32件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (291件)
+2. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (111件)
+3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (44件)
+4. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (21件)
+5. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (18件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/01】急落相場で狙う4銘柄と購入戦略](https://www.youtube.com/watch?v=mkm3P1L7PrM) (再生回数不明)
+1. [【2026/11/03】パランティア好決算も警戒｜アップルは安定株…](https://www.youtube.com/watch?v=zdNCnnB-dBc) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [米中間選挙に“赤い引き潮” 「若者の怒り」で共和党に逆風【NIKK…](https://www.youtube.com/watch?v=9tUgiNJ5o-o) (再生回数不明)
-2. [サイバー攻撃か 空襲警報アプリに偽通知【WBS】](https://www.youtube.com/watch?v=mBGdzN2oJJg) (再生回数不明)
-3. [年賀はがきの販売開始 差し出し目安日繰り下げ【WBS】](https://www.youtube.com/watch?v=MhrSxOE2CJA) (再生回数不明)
-4. [新車販売 7カ月ぶり減少 軽自動車が販売不振【WBS】](https://www.youtube.com/watch?v=44WhFjKHebQ) (再生回数不明)
-5. [日本航空 燃油高で減益 4－9月 純利益↓42％【WBS】](https://www.youtube.com/watch?v=guaz1vFR9eY) (再生回数不明)
+1. [米AMDが大幅増収増益 データセンター向け販売倍増【モーサテ】](https://www.youtube.com/watch?v=4lkaFtcNryM) (746回視聴)
+2. [オラクル株価↑ 資金調達好感 マーケットは財務楽観視【モーサテ】](https://www.youtube.com/watch?v=ulhW93M3mC4) (605回視聴)
+3. [米求人数 予想超の増加 雇用の底堅さ示す【モーサテ】](https://www.youtube.com/watch?v=W91ZwYQsp2Y) (444回視聴)
+4. [まもなく投票終了 米中間選挙 市場からの視点【日経モープラFT】](https://www.youtube.com/watch?v=7kP573uoSwk) (再生回数不明)
+5. [米ファイザー 減収減益 ワクチン販売減 見通しは上方修正【モーサテ】](https://www.youtube.com/watch?v=L8X1QZrVU1U) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [新たに日本人1人の死亡を確認 スペイン列車事故 69人死亡(202…](https://www.youtube.com/watch?v=tOKe1esKKvw) (716回視聴)
-2. [民主党優勢か 今夜投票の米中間選挙「最後の訴え」 トランプ敗北なら…](https://www.youtube.com/watch?v=9BX1Nuxyg_s) (再生回数不明)
-3. [文科大臣が東大に再び苦言「進展あった」が「今なお不透明」次期総長の…](https://www.youtube.com/watch?v=JIoYThzfXAk) (再生回数不明)
-4. [メール配信業者「アララ」7700万件メアド流出 悪用しカード会社装…](https://www.youtube.com/watch?v=moozg3nsgBI) (再生回数不明)
-5. [仰向けでスーイスイ！ 陸だけと…背泳ぎするハムスターさん なぜ仰向…](https://www.youtube.com/watch?v=fiZmbGkBm4U) (再生回数不明)
+1. [トランプ氏を「報道の自由の敵」に認定 プーチン氏や習氏らと共に 国…](https://www.youtube.com/watch?v=5McRe9vGp9A) (502回視聴)
+2. [東京メトロ・日比谷駅の発車音が「ゴジラのテーマ」に 東宝のおひざ元…](https://www.youtube.com/watch?v=-ppwtC7ltnM) (465回視聴)
+3. [藤井聡太六冠が「穴熊」で3連勝狙う 竜王戦第3局 きょう夜までに勝…](https://www.youtube.com/watch?v=SQX7_QpG8C0) (333回視聴)
+4. [アップルが売上、純利益とも12％増 iPhone17の販売好調 7…](https://www.youtube.com/watch?v=-HCbieiaAMs) (77回視聴)
+5. [サウジアラムコ 原油上昇で7～9月期は35％増益 ホルムズ海峡混乱…](https://www.youtube.com/watch?v=AmQRB7MRR-c) (36回視聴)
 
 ---
 
@@ -61,6 +60,7 @@ date: 2026-11-03
 
 #### 2026-11
 
+- [2026-11-04](2026-11-04.html)
 - [2026-11-03](2026-11-03.html)
 - [2026-11-02](2026-11-02.html)
 - [2026-11-01](2026-11-01.html)
