@@ -1,57 +1,59 @@
 ---
-title: "2026-11-04"
-date: 2026-11-04
+title: "2026-11-05"
+date: 2026-11-05
 ---
 
-## 2026-11-04
+## 2026-11-05
 
 ### はてブIT（日本市場）
 
-1. [ドメイン更新料が2,676円から18,139円に。通知から約45時…](https://anond.hatelabo.jp/20261103160506) (431 users)
-2. [アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う](https://disconinja.hatenablog.com/entry/2026/11/03/230647) (247 users)
-3. [毎年1万円だったドメインが、いきなり17万円になった話](https://note.com/t_yabuhara/n/n7871bfc65d5c) (203 users)
-4. [E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論）](https://blog.kuniwak.com/entry/e2ebok) (176 users)
-5. [Aterm設定画面、「PHP使ってないのに.php」なぜ？ NEC…](https://www.itmedia.co.jp/news/article/2611/04/2000002847/) (143 users)
+1. [ローカルAI最強エンジン「Strata」初心者向けガイド【チャット…](https://chimolog.co/strata-guide/) (449 users)
+2. [良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ](https://news.web.nhk/newsweb/na/nd-20261104de70494) (430 users)
+3. [中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置…](https://www.itmedia.co.jp/news/article/2611/04/2000002884/) (310 users)
+4. [日本語プログラミングフォント「Cyroit」とそのファミリー8種が…](https://forest.watch.impress.co.jp/docs/news/2153421.html) (105 users)
+5. [ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒…](https://hashout.jp/ai/13689/) (80 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【今バズってる】AIエージェントで使える『図解スキル』7選！実際に…](https://www.youtube.com/watch?v=b6I72Ok5Pq4) (再生回数不明)
+1. [【脱AI臭】『AIとの認識のズレ』をなくす本質解説！なぜハーネスが…](https://www.youtube.com/watch?v=Lb7B16Gohv4) (再生回数不明)
+2. [【今バズってる】AIエージェントで使える『図解スキル』7選！実際に…](https://www.youtube.com/watch?v=b6I72Ok5Pq4) (1.9万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 選挙
-2. キオクシア
-3. 中間
-4. 半導体
-5. 先物
+1. キオクシア
+2. 選挙
+3. 半導体
+4. 民主党
+5. トランプ
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (291件)
-2. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (111件)
-3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (44件)
-4. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (21件)
-5. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (18件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (802件)
+2. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (181件)
+3. [三菱商事(8058)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8058) (121件)
+4. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (101件)
+5. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (76件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/03】パランティア好決算も警戒｜アップルは安定株…](https://www.youtube.com/watch?v=zdNCnnB-dBc) (再生回数不明)
+1. [【2026/11/04】米国株は底打ちするのか？AI関連株の反発と…](https://www.youtube.com/watch?v=Pp4WVR66ppY) (再生回数不明)
+2. [【2026/11/03】パランティア好決算も警戒｜アップルは安定株…](https://www.youtube.com/watch?v=zdNCnnB-dBc) (3937回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [米AMDが大幅増収増益 データセンター向け販売倍増【モーサテ】](https://www.youtube.com/watch?v=4lkaFtcNryM) (746回視聴)
-2. [オラクル株価↑ 資金調達好感 マーケットは財務楽観視【モーサテ】](https://www.youtube.com/watch?v=ulhW93M3mC4) (605回視聴)
-3. [米求人数 予想超の増加 雇用の底堅さ示す【モーサテ】](https://www.youtube.com/watch?v=W91ZwYQsp2Y) (444回視聴)
-4. [まもなく投票終了 米中間選挙 市場からの視点【日経モープラFT】](https://www.youtube.com/watch?v=7kP573uoSwk) (再生回数不明)
-5. [米ファイザー 減収減益 ワクチン販売減 見通しは上方修正【モーサテ】](https://www.youtube.com/watch?v=L8X1QZrVU1U) (再生回数不明)
+1. [米サービス業景況感 2カ月連続低下 燃料高など重しに【モーサテ】](https://www.youtube.com/watch?v=O0S2WOA9Ctg) (850回視聴)
+2. [トランプ政権に審判 中間選挙後の米政治展望【日経モープラFT】](https://www.youtube.com/watch?v=wdjwF_XTpNU) (再生回数不明)
+3. [米クアルコム 3期連続減収 スマホ市況悪化で【モーサテ】](https://www.youtube.com/watch?v=rS-RtTb41EE) (再生回数不明)
+4. [米マクドナルド 9%増益 客足伸び悩むも費用抑制【モーサテ】](https://www.youtube.com/watch?v=5KqIWz78plI) (再生回数不明)
+5. [米民間雇用 予想上回る 労働市場の底堅さ続く【モーサテ】](https://www.youtube.com/watch?v=ZXz2BX3-uNc) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [トランプ氏を「報道の自由の敵」に認定 プーチン氏や習氏らと共に 国…](https://www.youtube.com/watch?v=5McRe9vGp9A) (502回視聴)
-2. [東京メトロ・日比谷駅の発車音が「ゴジラのテーマ」に 東宝のおひざ元…](https://www.youtube.com/watch?v=-ppwtC7ltnM) (465回視聴)
-3. [藤井聡太六冠が「穴熊」で3連勝狙う 竜王戦第3局 きょう夜までに勝…](https://www.youtube.com/watch?v=SQX7_QpG8C0) (333回視聴)
-4. [アップルが売上、純利益とも12％増 iPhone17の販売好調 7…](https://www.youtube.com/watch?v=-HCbieiaAMs) (77回視聴)
-5. [サウジアラムコ 原油上昇で7～9月期は35％増益 ホルムズ海峡混乱…](https://www.youtube.com/watch?v=AmQRB7MRR-c) (36回視聴)
+1. [高齢者の医療費負担 3割対象の拡大を目指す 財務省の諮問機関で議論…](https://www.youtube.com/watch?v=egX9zVC8_U0) (884回視聴)
+2. [全国に広がるおでん具材値上げ 白身魚の需要が世界的に高まる 新たな…](https://www.youtube.com/watch?v=BJFykQElIBE) (344回視聴)
+3. [史上初の黒人女性知事誕生へ 米ジョージア州 低所得者向け医療保険拡…](https://www.youtube.com/watch?v=B8D7pFxjF2w) (233回視聴)
+4. [Sakurashimaji最新MV公開 巨大パラボラアンテナの前で…](https://www.youtube.com/watch?v=8B4A0bZLmj0) (166回視聴)
+5. [「海の紅葉」見られず 有明海のシチメンソウが生育不良 原因は特定で…](https://www.youtube.com/watch?v=mZl-gHMSF4M) (110回視聴)
 
 ---
 
@@ -60,6 +62,7 @@ date: 2026-11-04
 
 #### 2026-11
 
+- [2026-11-05](2026-11-05.html)
 - [2026-11-04](2026-11-04.html)
 - [2026-11-03](2026-11-03.html)
 - [2026-11-02](2026-11-02.html)
