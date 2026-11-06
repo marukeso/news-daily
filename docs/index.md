@@ -1,59 +1,60 @@
 ---
-title: "2026-11-05"
-date: 2026-11-05
+title: "2026-11-06"
+date: 2026-11-06
 ---
 
-## 2026-11-05
+## 2026-11-06
 
 ### はてブIT（日本市場）
 
-1. [ローカルAI最強エンジン「Strata」初心者向けガイド【チャット…](https://chimolog.co/strata-guide/) (449 users)
-2. [良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ](https://news.web.nhk/newsweb/na/nd-20261104de70494) (430 users)
-3. [中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置…](https://www.itmedia.co.jp/news/article/2611/04/2000002884/) (310 users)
-4. [日本語プログラミングフォント「Cyroit」とそのファミリー8種が…](https://forest.watch.impress.co.jp/docs/news/2153421.html) (105 users)
-5. [ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒…](https://hashout.jp/ai/13689/) (80 users)
+1. [自作AIエージェントの開発をやめた](https://blog.mudatobunka.org/entry/2026/11/05/100000) (187 users)
+2. [*sshole · sshhole.com](https://sshhole.com/) (122 users)
+3. [最近の HTML の新機能の紹介（2026 年版）](https://zenn.dev/socialplus/articles/50221eafb8a55a) (85 users)
+4. [「Firefox」に新しい「ミニウィンドウ」-](https://japan.zdnet.com/article/35254318/) (77 users)
+5. [PR投げたらClaudeがレビューしてくれる仕組みを作ってみた](https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18) (57 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【脱AI臭】『AIとの認識のズレ』をなくす本質解説！なぜハーネスが…](https://www.youtube.com/watch?v=Lb7B16Gohv4) (再生回数不明)
-2. [【今バズってる】AIエージェントで使える『図解スキル』7選！実際に…](https://www.youtube.com/watch?v=b6I72Ok5Pq4) (1.9万回視聴)
+1. [【順当進化】『GPT Image 2.6』登場！GIF作成にSVG…](https://www.youtube.com/watch?v=pr9zYRYiUe4) (再生回数不明)
+2. [【脱AI臭】『AIとの認識のズレ』をなくす本質解説！なぜハーネスが…](https://www.youtube.com/watch?v=Lb7B16Gohv4) (9043回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. キオクシア
-2. 選挙
-3. 半導体
-4. 民主党
-5. トランプ
+1. 半導体
+2. キオクシア
+3. 信用
+4. 先物
+5. トヨタ
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (802件)
-2. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (181件)
-3. [三菱商事(8058)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8058) (121件)
-4. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (101件)
-5. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (76件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (817件)
+2. [トヨタ自動車(7203)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=7203) (358件)
+3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (180件)
+4. [任天堂(7974)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=7974) (133件)
+5. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (128件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/04】米国株は底打ちするのか？AI関連株の反発と…](https://www.youtube.com/watch?v=Pp4WVR66ppY) (再生回数不明)
-2. [【2026/11/03】パランティア好決算も警戒｜アップルは安定株…](https://www.youtube.com/watch?v=zdNCnnB-dBc) (3937回視聴)
+1. [【2026/11/06】米国株暴落はなぜ？｜AI・半導体株が暴落](https://www.youtube.com/watch?v=shzb1j-Qk10) (再生回数不明)
+2. [【2026/11/05】中間選挙で株価に明暗｜AIインフラに逆風、…](https://www.youtube.com/watch?v=7ruRfZ7CL84) (再生回数不明)
+3. [【2026/11/04】米国株は底打ちするのか？AI関連株の反発と…](https://www.youtube.com/watch?v=Pp4WVR66ppY) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [米サービス業景況感 2カ月連続低下 燃料高など重しに【モーサテ】](https://www.youtube.com/watch?v=O0S2WOA9Ctg) (850回視聴)
-2. [トランプ政権に審判 中間選挙後の米政治展望【日経モープラFT】](https://www.youtube.com/watch?v=wdjwF_XTpNU) (再生回数不明)
-3. [米クアルコム 3期連続減収 スマホ市況悪化で【モーサテ】](https://www.youtube.com/watch?v=rS-RtTb41EE) (再生回数不明)
-4. [米マクドナルド 9%増益 客足伸び悩むも費用抑制【モーサテ】](https://www.youtube.com/watch?v=5KqIWz78plI) (再生回数不明)
-5. [米民間雇用 予想上回る 労働市場の底堅さ続く【モーサテ】](https://www.youtube.com/watch?v=ZXz2BX3-uNc) (再生回数不明)
+1. [アップルが社債発行 1.1兆円規模か 株主還元強化へ【モーサテ】](https://www.youtube.com/watch?v=WPltMh30p4Y) (856回視聴)
+2. [AI時代のビジネススクール 日本企業に求められるもの【日経モープラ…](https://www.youtube.com/watch?v=EBVVUt3M2cE) (再生回数不明)
+3. [英中銀 3年ぶり利上げ インフレ抑制へ【モーサテ】](https://www.youtube.com/watch?v=Av1vrVT7J9g) (再生回数不明)
+4. [米失業保険申請 57年ぶり低水準 人員削減数も減少【モーサテ】](https://www.youtube.com/watch?v=R5O6X71edhQ) (再生回数不明)
+5. [米ルビオ国務長官が辞任検討か 共和党大敗で【モーサテ】](https://www.youtube.com/watch?v=MHoCOf9suwc) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [高齢者の医療費負担 3割対象の拡大を目指す 財務省の諮問機関で議論…](https://www.youtube.com/watch?v=egX9zVC8_U0) (884回視聴)
-2. [全国に広がるおでん具材値上げ 白身魚の需要が世界的に高まる 新たな…](https://www.youtube.com/watch?v=BJFykQElIBE) (344回視聴)
-3. [史上初の黒人女性知事誕生へ 米ジョージア州 低所得者向け医療保険拡…](https://www.youtube.com/watch?v=B8D7pFxjF2w) (233回視聴)
-4. [Sakurashimaji最新MV公開 巨大パラボラアンテナの前で…](https://www.youtube.com/watch?v=8B4A0bZLmj0) (166回視聴)
-5. [「海の紅葉」見られず 有明海のシチメンソウが生育不良 原因は特定で…](https://www.youtube.com/watch?v=mZl-gHMSF4M) (110回視聴)
+1. [不正アクセス受け警察庁長官「緊密に連携し実態解明を」 全国の警察本…](https://www.youtube.com/watch?v=kHW4537Abmc) (506回視聴)
+2. [ノドグロ弁当1380円 旅した気分で地元の楽しむ 松坂屋上野店で北…](https://www.youtube.com/watch?v=S9Bb-NgIKsU) (248回視聴)
+3. [自分で購入した果物飾る「DIYケーキ」お目見え ファミマがクリスマ…](https://www.youtube.com/watch?v=lUZ5v1fI7Jk) (195回視聴)
+4. [体長1.5mのイノシシと衝突、ワンボックスカーの右前方大破 栃木・…](https://www.youtube.com/watch?v=PTou-njKci4) (180回視聴)
+5. [マイナカードなど偽造容疑で中国人逮捕 土に埋めて取引 報酬は1枚1…](https://www.youtube.com/watch?v=3UEVCdf7Qm4) (再生回数不明)
 
 ---
 
@@ -62,6 +63,7 @@ date: 2026-11-05
 
 #### 2026-11
 
+- [2026-11-06](2026-11-06.html)
 - [2026-11-05](2026-11-05.html)
 - [2026-11-04](2026-11-04.html)
 - [2026-11-03](2026-11-03.html)
