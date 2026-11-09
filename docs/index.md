@@ -1,58 +1,59 @@
 ---
-title: "2026-11-08"
-date: 2026-11-08
+title: "2026-11-09"
+date: 2026-11-09
 ---
 
-## 2026-11-08
+## 2026-11-09
 
 ### はてブIT（日本市場）
 
-1. [ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE T…](https://newsdig.tbs.co.jp/articles/-/3068819) (211 users)
-2. [AI時代に求められる優秀なTechLeadの振る舞い](https://www.pospome.work/entry/2026/11/07/192125) (164 users)
-3. [GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず](https://news.web.nhk/newsweb/na/nd-20261107de72062) (157 users)
-4. [ISUCON2026をClaude Codeが優勝したらしい](https://sizu.me/laiso/posts/k59is4cnd77f) (126 users)
-5. [AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問…](https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html) (115 users)
+1. [ホテル川久に宿泊し、バブルの夢を偲ぶ](https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931) (424 users)
+2. [MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕…](https://hiraoku.dev/blog/mcp-cli-cloud/) (245 users)
+3. [【図解あり】マルチエージェント設計「15のパターン」 GitHub…](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html) (199 users)
+4. [日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネス…](https://posfie.com/@su_damari/p/xvcxjNy) (194 users)
+5. [Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の…](https://ken-it.world/it/2026/11/sumicad-free-bim.html) (167 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【重要知識】Anthropicの語るAIエージェントの記憶を徹底解…](https://www.youtube.com/watch?v=WXvjFeY8g6s) (再生回数不明)
-2. [【Claude公式】AIフル任せを防ぐ対策術8選！作業を任せても責…](https://www.youtube.com/watch?v=agm0UptOyYU) (7120回視聴)
+1. [【必見】Claudeの中の人が語る、AI上達のコツは『プロンプトよ…](https://www.youtube.com/watch?v=dlscuAM3TC4) (再生回数不明)
+2. [【重要知識】Anthropicの語るAIエージェントの記憶を徹底解…](https://www.youtube.com/watch?v=WXvjFeY8g6s) (9188回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 地震
-2. 信用
-3. キオクシア
-4. 半導体
-5. ポスト
+1. キオクシア
+2. 半導体
+3. 信用
+4. 中国
+5. 革ジャン
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (113件)
-2. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (24件)
-3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (20件)
-4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (20件)
-5. [住友電気工業(5802)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5802) (15件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (118件)
+2. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (39件)
+3. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (32件)
+4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (26件)
+5. [ＺＥＴＡ(6031)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6031) (17件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/07】パランティア契約延長へ？｜マイクロンPER…](https://www.youtube.com/watch?v=ngGg5_J-UvE) (再生回数不明)
+1. [【2026/11/09】下落相場で大切にしている3つのこと](https://www.youtube.com/watch?v=P_wy8B0Ud-A) (再生回数不明)
+2. [【2026/11/07】パランティア契約延長へ？｜マイクロンPER…](https://www.youtube.com/watch?v=ngGg5_J-UvE) (2073回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [トランプ氏とバンス氏に亀裂 米中間選挙の共和党大敗で イランでは「…](https://www.youtube.com/watch?v=rxEfpT6rQgg) (再生回数不明)
-2. [年間利益1200万円！92歳の現役投資家に聞く 資産1億円達成の投…](https://www.youtube.com/watch?v=dYNexSdDIuo) (再生回数不明)
-3. [商売繁盛願い飛び交うかけ声 東京・浅草で酉の市 熊手求める人であふ…](https://www.youtube.com/watch?v=aPKYECUxrVQ) (再生回数不明)
-4. [原子力災害の発生に備え訓練 政府と自治体が連携 オンラインで対応を…](https://www.youtube.com/watch?v=acpCSj9kraI) (再生回数不明)
-5. [ロシア前大統領、JT株下落「良いこと」と投稿](https://www.youtube.com/watch?v=N8pT3l-7TJ4) (再生回数不明)
+1. [FRB高官 インフレ抑制を優先 株価急落でも「追加利上げ必要」【モ…](https://www.youtube.com/watch?v=bN1fGD4aSjU) (292回視聴)
+2. [再加速 地銀再編のその先【日経モープラFT】](https://www.youtube.com/watch?v=piHFJeDiJbk) (再生回数不明)
+3. [中国 金保有量 24カ月連続増加 10月末の外貨準備【モーサテ】](https://www.youtube.com/watch?v=kcjthsld4Ow) (再生回数不明)
+4. [露プーチン大統領 G20参加検討か アメリカで12月中旬開催【モー…](https://www.youtube.com/watch?v=uzpdKLyYS2E) (再生回数不明)
+5. [スイス ABB「中国ロボ事業」分離検討 ソフトバンクGへの売却難航…](https://www.youtube.com/watch?v=_43jSZu_jkk) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [東北新幹線 東京～盛岡駅間の上下線で運転を見合わせ 架線に支障物 …](https://www.youtube.com/watch?v=ybNCbQjxOcQ) (再生回数不明)
-2. [愛知で震度5強 今後1週間は同程度の地震に注意 気象庁(2026年…](https://www.youtube.com/watch?v=LD25JiLqLmQ) (再生回数不明)
-3. [ロ・ウ・米3者協議を前に 攻撃は続く キーウ市長「電力供給極めて厳…](https://www.youtube.com/watch?v=Fc_3w_7GROw) (再生回数不明)
-4. [20代女性 福井県内で遺体で発見 監禁容疑で49歳男逮捕(2026…](https://www.youtube.com/watch?v=qQKUYrX-cJE) (再生回数不明)
-5. [上野のアメ横で路上営業 警視庁が“無許可飲食店”家宅捜索(2026…](https://www.youtube.com/watch?v=Dx91WKEq9B8) (再生回数不明)
+1. [クリニック併設の住宅で火事 80代男性が意識不明の重体 東京・小平…](https://www.youtube.com/watch?v=l-MtWS2F2LQ) (128回視聴)
+2. [トランプ氏 イラン攻撃再開の可能性「極めて低い」 CNNの電話イン…](https://www.youtube.com/watch?v=_RlAx3Taggk) (再生回数不明)
+3. [エジプトで2つの列車が衝突 7人死亡112人けが 追突か(2026…](https://www.youtube.com/watch?v=LcLo3m_ddpU) (再生回数不明)
+4. [陛下と愛子さまがソフトテニス観戦 ボールの回転に「見事ですね」(2…](https://www.youtube.com/watch?v=Dw_g3fOXBkk) (再生回数不明)
+5. [新東名 路肩のトラックに突っ込み2人死傷 トレーラー運転の男逮捕(…](https://www.youtube.com/watch?v=QHCx3AkHf54) (再生回数不明)
 
 ---
 
@@ -61,6 +62,7 @@ date: 2026-11-08
 
 #### 2026-11
 
+- [2026-11-09](2026-11-09.html)
 - [2026-11-08](2026-11-08.html)
 - [2026-11-07](2026-11-07.html)
 - [2026-11-06](2026-11-06.html)
