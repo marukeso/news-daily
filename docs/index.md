@@ -1,59 +1,59 @@
 ---
-title: "2026-11-09"
-date: 2026-11-09
+title: "2026-11-10"
+date: 2026-11-10
 ---
 
-## 2026-11-09
+## 2026-11-10
 
 ### はてブIT（日本市場）
 
-1. [ホテル川久に宿泊し、バブルの夢を偲ぶ](https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931) (424 users)
-2. [MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕…](https://hiraoku.dev/blog/mcp-cli-cloud/) (245 users)
-3. [【図解あり】マルチエージェント設計「15のパターン」 GitHub…](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html) (199 users)
-4. [日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネス…](https://posfie.com/@su_damari/p/xvcxjNy) (194 users)
-5. [Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の…](https://ken-it.world/it/2026/11/sumicad-free-bim.html) (167 users)
+1. [Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンク…](https://x.com/Hamachiya2/status/2119691158423040348) (170 users)
+2. [GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全…](https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c) (150 users)
+3. [Claude Fable 5.2へのプロンプト](https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2) (93 users)
+4. [エンジニアにとってEMは魅力のない役割なのか](https://mtx2s.hatenablog.com/entry/2026/11/09/210114) (92 users)
+5. [ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミング…](https://av.watch.impress.co.jp/docs/topic/special/2145430.html) (73 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【必見】Claudeの中の人が語る、AI上達のコツは『プロンプトよ…](https://www.youtube.com/watch?v=dlscuAM3TC4) (再生回数不明)
-2. [【重要知識】Anthropicの語るAIエージェントの記憶を徹底解…](https://www.youtube.com/watch?v=WXvjFeY8g6s) (9188回視聴)
+1. [【公式ガイド】『Claude Fable 5.2』で変更になった9…](https://www.youtube.com/watch?v=vJvVKWgN0t4) (76回視聴)
+2. [【感動級】『Claude Fable 5.2』遂に登場！圧倒的性能…](https://www.youtube.com/watch?v=GiKkgvMr5Ps) (再生回数不明)
+3. [【必見】Claudeの中の人が語る、AI上達のコツは『プロンプトよ…](https://www.youtube.com/watch?v=dlscuAM3TC4) (1万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
 2. 半導体
-3. 信用
-4. 中国
-5. 革ジャン
+3. 先物
+4. 古河
+5. 信用
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (118件)
-2. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (39件)
-3. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (32件)
-4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (26件)
-5. [ＺＥＴＡ(6031)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6031) (17件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (294件)
+2. [ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ(6525)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6525) (90件)
+3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (76件)
+4. [フジクラ(5803)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5803) (71件)
+5. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (60件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/09】下落相場で大切にしている3つのこと](https://www.youtube.com/watch?v=P_wy8B0Ud-A) (再生回数不明)
-2. [【2026/11/07】パランティア契約延長へ？｜マイクロンPER…](https://www.youtube.com/watch?v=ngGg5_J-UvE) (2073回視聴)
+1. [【2026/11/09】下落相場で大切にしている3つのこと](https://www.youtube.com/watch?v=P_wy8B0Ud-A) (997回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [FRB高官 インフレ抑制を優先 株価急落でも「追加利上げ必要」【モ…](https://www.youtube.com/watch?v=bN1fGD4aSjU) (292回視聴)
-2. [再加速 地銀再編のその先【日経モープラFT】](https://www.youtube.com/watch?v=piHFJeDiJbk) (再生回数不明)
-3. [中国 金保有量 24カ月連続増加 10月末の外貨準備【モーサテ】](https://www.youtube.com/watch?v=kcjthsld4Ow) (再生回数不明)
-4. [露プーチン大統領 G20参加検討か アメリカで12月中旬開催【モー…](https://www.youtube.com/watch?v=uzpdKLyYS2E) (再生回数不明)
-5. [スイス ABB「中国ロボ事業」分離検討 ソフトバンクGへの売却難航…](https://www.youtube.com/watch?v=_43jSZu_jkk) (再生回数不明)
+1. [AI投資は「博打の時代」 日経平均 5万円まで下落も…【NIKKE…](https://www.youtube.com/watch?v=Xei9yaF-Kic) (944回視聴)
+2. [50歳からのiDeCo資産づくり戦略【日経モープラFT】](https://www.youtube.com/watch?v=lqM3FOMDnME) (861回視聴)
+3. [米カタール首脳が会談 攻撃準備も「可能性は低い」【モーサテ】](https://www.youtube.com/watch?v=FvHr6BKzwXQ) (再生回数不明)
+4. [ソフトバンクグループ マレーシアAIインフラ開発出資【モーサテ】](https://www.youtube.com/watch?v=gKNovX3H_H8) (再生回数不明)
+5. [ホンダ 米オハイオ州に新工場 ハイブリッド需要に対応【モーサテ】](https://www.youtube.com/watch?v=xpDnL1SAwdA) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [クリニック併設の住宅で火事 80代男性が意識不明の重体 東京・小平…](https://www.youtube.com/watch?v=l-MtWS2F2LQ) (128回視聴)
-2. [トランプ氏 イラン攻撃再開の可能性「極めて低い」 CNNの電話イン…](https://www.youtube.com/watch?v=_RlAx3Taggk) (再生回数不明)
-3. [エジプトで2つの列車が衝突 7人死亡112人けが 追突か(2026…](https://www.youtube.com/watch?v=LcLo3m_ddpU) (再生回数不明)
-4. [陛下と愛子さまがソフトテニス観戦 ボールの回転に「見事ですね」(2…](https://www.youtube.com/watch?v=Dw_g3fOXBkk) (再生回数不明)
-5. [新東名 路肩のトラックに突っ込み2人死傷 トレーラー運転の男逮捕(…](https://www.youtube.com/watch?v=QHCx3AkHf54) (再生回数不明)
+1. [CEOの不倫問題をエヌビディア取締役会が調査 スパイ疑惑に中国「誹…](https://www.youtube.com/watch?v=p2brDGt7R-c) (579回視聴)
+2. [トランプ大統領の求心力に陰り 政権内の離反警戒しバンス副大統領を牽…](https://www.youtube.com/watch?v=J0Yh88TNj0M) (454回視聴)
+3. [高市総理、COP31の出席見送り 国会答弁理由に 今月のASEAN…](https://www.youtube.com/watch?v=YaAi3MbHOwM) (154回視聴)
+4. [夏日から一転、1月並みの寒さ 冬の味覚アンコウが高騰 卸値は前年比…](https://www.youtube.com/watch?v=kioknsPT2u8) (152回視聴)
+5. [札幌のマンション敷地内 男性2人倒れ死亡 転落か(2026年11月…](https://www.youtube.com/watch?v=DRx-ujUpxb4) (135回視聴)
 
 ---
 
@@ -62,6 +62,7 @@ date: 2026-11-09
 
 #### 2026-11
 
+- [2026-11-10](2026-11-10.html)
 - [2026-11-09](2026-11-09.html)
 - [2026-11-08](2026-11-08.html)
 - [2026-11-07](2026-11-07.html)
