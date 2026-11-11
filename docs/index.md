@@ -1,59 +1,59 @@
 ---
-title: "2026-11-10"
-date: 2026-11-10
+title: "2026-11-11"
+date: 2026-11-11
 ---
 
-## 2026-11-10
+## 2026-11-11
 
 ### はてブIT（日本市場）
 
-1. [Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンク…](https://x.com/Hamachiya2/status/2119691158423040348) (170 users)
-2. [GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全…](https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c) (150 users)
-3. [Claude Fable 5.2へのプロンプト](https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2) (93 users)
-4. [エンジニアにとってEMは魅力のない役割なのか](https://mtx2s.hatenablog.com/entry/2026/11/09/210114) (92 users)
-5. [ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミング…](https://av.watch.impress.co.jp/docs/topic/special/2145430.html) (73 users)
+1. [Claude Codeで最近使っているTips【2026/11】](https://zenn.dev/oikon/articles/claude-code-recipe) (511 users)
+2. [【国のデータをしゃぶり尽くせ！】無料で使える公共データ100選【永…](https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709) (369 users)
+3. [大学1年生がつくったOSSがGitHub Star 1万超。AIに…](https://levtech.jp/media/detail_965/) (285 users)
+4. [退屈なCoding AgentはMuseにやらせよう](https://zenn.dev/watany/articles/342b9815dd0553) (186 users)
+5. [【資料公開】「自分の仕事はここまで」はどこから来るのか](https://www.ryuzee.com/contents/blog/14628) (145 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【公式ガイド】『Claude Fable 5.2』で変更になった9…](https://www.youtube.com/watch?v=vJvVKWgN0t4) (76回視聴)
-2. [【感動級】『Claude Fable 5.2』遂に登場！圧倒的性能…](https://www.youtube.com/watch?v=GiKkgvMr5Ps) (再生回数不明)
-3. [【必見】Claudeの中の人が語る、AI上達のコツは『プロンプトよ…](https://www.youtube.com/watch?v=dlscuAM3TC4) (1万回視聴)
+1. [【待ってた】Gemini 4 Carbonを実際に使ったので徹底解…](https://www.youtube.com/watch?v=9e2PJkB0UQM) (870回視聴)
+2. [【公式ガイド】『Claude Fable 5.2』で変更になった9…](https://www.youtube.com/watch?v=vJvVKWgN0t4) (再生回数不明)
+3. [【感動級】『Claude Fable 5.2』遂に登場！圧倒的性能…](https://www.youtube.com/watch?v=GiKkgvMr5Ps) (2.1万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. キオクシア
+1. フジクラ
 2. 半導体
-3. 先物
-4. 古河
-5. 信用
+3. 修正
+4. キオクシア
+5. CPI
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (294件)
-2. [ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ(6525)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6525) (90件)
-3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (76件)
-4. [フジクラ(5803)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5803) (71件)
-5. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (60件)
+1. [フジクラ(5803)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5803) (448件)
+2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (296件)
+3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (293件)
+4. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (187件)
+5. [ユニチカ(3103)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3103) (120件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/09】下落相場で大切にしている3つのこと](https://www.youtube.com/watch?v=P_wy8B0Ud-A) (997回視聴)
+1. [【2026/11/09】下落相場で大切にしている3つのこと](https://www.youtube.com/watch?v=P_wy8B0Ud-A) (1106回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [AI投資は「博打の時代」 日経平均 5万円まで下落も…【NIKKE…](https://www.youtube.com/watch?v=Xei9yaF-Kic) (944回視聴)
-2. [50歳からのiDeCo資産づくり戦略【日経モープラFT】](https://www.youtube.com/watch?v=lqM3FOMDnME) (861回視聴)
-3. [米カタール首脳が会談 攻撃準備も「可能性は低い」【モーサテ】](https://www.youtube.com/watch?v=FvHr6BKzwXQ) (再生回数不明)
-4. [ソフトバンクグループ マレーシアAIインフラ開発出資【モーサテ】](https://www.youtube.com/watch?v=gKNovX3H_H8) (再生回数不明)
-5. [ホンダ 米オハイオ州に新工場 ハイブリッド需要に対応【モーサテ】](https://www.youtube.com/watch?v=xpDnL1SAwdA) (再生回数不明)
+1. [米ヘグセス国防長官 弾劾訴追案に反発「茶番だ」【モーサテ】](https://www.youtube.com/watch?v=vngAEWG3DgA) (616回視聴)
+2. [米ガソリン価格 4ドル下回る 約4カ月ぶりの水準【モーサテ】](https://www.youtube.com/watch?v=X77AnNURg3Q) (495回視聴)
+3. [米コアウィーブ 懸念和らぐか 赤字拡大も見通し上方修正【モーサテ】](https://www.youtube.com/watch?v=XvREyd_z5bQ) (492回視聴)
+4. [AI半導体ブームの今後 フラッシュメモリーの世界戦略 キオクシア社…](https://www.youtube.com/watch?v=JUXpUliufwQ) (299回視聴)
+5. [FRB高官 米12月の大幅利上げ示唆【モーサテ】](https://www.youtube.com/watch?v=skEWZ7L1fJE) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [CEOの不倫問題をエヌビディア取締役会が調査 スパイ疑惑に中国「誹…](https://www.youtube.com/watch?v=p2brDGt7R-c) (579回視聴)
-2. [トランプ大統領の求心力に陰り 政権内の離反警戒しバンス副大統領を牽…](https://www.youtube.com/watch?v=J0Yh88TNj0M) (454回視聴)
-3. [高市総理、COP31の出席見送り 国会答弁理由に 今月のASEAN…](https://www.youtube.com/watch?v=YaAi3MbHOwM) (154回視聴)
-4. [夏日から一転、1月並みの寒さ 冬の味覚アンコウが高騰 卸値は前年比…](https://www.youtube.com/watch?v=kioknsPT2u8) (152回視聴)
-5. [札幌のマンション敷地内 男性2人倒れ死亡 転落か(2026年11月…](https://www.youtube.com/watch?v=DRx-ujUpxb4) (135回視聴)
+1. [マンジャロ服用で視力低下の恐れ 米当局警鐘 日本でも違法個人取引な…](https://www.youtube.com/watch?v=SXvRJCuXE2Q) (224回視聴)
+2. [昭和南海地震から80年 気象庁が南海トラフ地震への備えを特別企画で…](https://www.youtube.com/watch?v=Bb9TWBpoV7o) (124回視聴)
+3. [ジンベエザメで世界的観光地になった村 収入が7倍以上になるも物議「…](https://www.youtube.com/watch?v=HE9dZUXwnv0) (113回視聴)
+4. [イギリスで北九州市“ド派手”成人式の企画展 「日本にはわびさび以外…](https://www.youtube.com/watch?v=80-D_VMI7gw) (77回視聴)
+5. [マックが新チキン商品を一時販売休止へ 「チキンマックナゲット」など…](https://www.youtube.com/watch?v=fq-n0af5ArA) (再生回数不明)
 
 ---
 
@@ -62,6 +62,7 @@ date: 2026-11-10
 
 #### 2026-11
 
+- [2026-11-11](2026-11-11.html)
 - [2026-11-10](2026-11-10.html)
 - [2026-11-09](2026-11-09.html)
 - [2026-11-08](2026-11-08.html)
