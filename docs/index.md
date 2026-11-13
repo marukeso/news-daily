@@ -1,60 +1,60 @@
 ---
-title: "2026-11-12"
-date: 2026-11-12
+title: "2026-11-13"
+date: 2026-11-13
 ---
 
-## 2026-11-12
+## 2026-11-13
 
 ### はてブIT（日本市場）
 
-1. [インシデント調査報告書チェックリスト公開のお知らせ](https://www.jpcert.or.jp/ir_report_checklist_20261111.html) (233 users)
-2. [【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2…](https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html) (119 users)
-3. [software-factory-mode-2026aki ski…](https://scrapbox.io/shokai/software-factory-mode-2026aki_skill) (114 users)
-4. [Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由 米国](https://forbesjapan.com/articles/detail/107841) (96 users)
-5. [GitHub - aws/aws](https://github.com/aws/aws-emulator) (71 users)
+1. [無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有…](https://www.itmedia.co.jp/news/article/2611/12/2000003144/) (765 users)
+2. [MetaのAIエージェント「Muse」に課金して使い倒した結果の、…](https://www.hageatama.org/20261112/1794464751) (375 users)
+3. [そのヤバいDockerイメージをいつまで使うのか](https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B) (231 users)
+4. [マイクロソフトで接続障害が発生 世界各地に影響のおそれ](https://news.web.nhk/newsweb/na/nd-20261113de75121) (158 users)
+5. [WebサイトをAgent Readyにしよう](https://unvalley.me/ja/blog/1793627906) (128 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【公式の結論】Claudeモデル使い分け！Opus、Fable、S…](https://www.youtube.com/watch?v=THi3S0cKMGI) (再生回数不明)
-2. [【待ってた】Gemini 4 Carbonを実際に使ったので徹底解…](https://www.youtube.com/watch?v=9e2PJkB0UQM) (1万回視聴)
-3. [【公式ガイド】『Claude Fable 5.2』で変更になった9…](https://www.youtube.com/watch?v=vJvVKWgN0t4) (1.1万回視聴)
+1. [【徹底解説】『Gemini 4 Hydrogen』が突然登場！3.…](https://www.youtube.com/watch?v=0N92RtzlqTs) (再生回数不明)
+2. [【Gemini版Jev】判断特化のDecisions APIが登場…](https://www.youtube.com/watch?v=ov33xFCsLzk) (再生回数不明)
+3. [【公式の結論】Claudeモデル使い分け！Opus、Fable、S…](https://www.youtube.com/watch?v=THi3S0cKMGI) (8878回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 半導体
-2. キオクシア
-3. 革ジャン
-4. 修正
-5. 解任
+1. 革ジャン
+2. 半導体
+3. キオクシア
+4. エヌビディア
+5. 辞任
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (303件)
-2. [レゾナック・ホールディングス(4004)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4004) (118件)
-3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (117件)
-4. [ショーケース(3909)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3909) (68件)
-5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (57件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (212件)
+2. [すかいらーくホールディングス(3197)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3197) (61件)
+3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (53件)
+4. [パワーエックス(485A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=485A) (48件)
+5. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (43件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
 1. [【2026/11/12】パランティア・SoFi・コアウィーブ](https://www.youtube.com/watch?v=gBMEI-Nsook) (再生回数不明)
-2. [【2026/11/11】米国株は買い場？｜市場関係者が強気転換｜C…](https://www.youtube.com/watch?v=qPDehMcjgqM) (再生回数不明)
+2. [【2026/11/11】米国株は買い場？｜市場関係者が強気転換｜C…](https://www.youtube.com/watch?v=qPDehMcjgqM) (1812回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [米民主大勝 EU日本EV排除 激変する世界市場 日本どう対応する？…](https://www.youtube.com/watch?v=49MopbhTgtw) (365回視聴)
-2. [税と社会保障の再設計「新給付制度 実現への課題」【日経モープラFT】](https://www.youtube.com/watch?v=EwoqlgOmPxo) (317回視聴)
-3. [EU デジタル公正法案 ネット通販で虚偽記載禁止へ【モーサテ】](https://www.youtube.com/watch?v=yngZ3Uks-ys) (再生回数不明)
-4. [米露ウクライナ高官協議 捕虜釈放へ 領土問題は難航【モーサテ】](https://www.youtube.com/watch?v=IWX6JDGmelo) (再生回数不明)
-5. [オープンAI 営業赤字1.7兆円 収益化で出遅れ【モーサテ】](https://www.youtube.com/watch?v=zs2J-sydyf8) (再生回数不明)
+1. [ワタミ MBO実施で非公開化へ 総合外食への転換急ぐ【モーサテ】](https://www.youtube.com/watch?v=bYFQtR2RByc) (467回視聴)
+2. [高市総理 フィジカルAIの社会実装へ 企業トップと意見交換【モーサ…](https://www.youtube.com/watch?v=kddB8WTN_7g) (279回視聴)
+3. [アンソロピックも恐れる 中国AIの実力【日経モープラFT】](https://www.youtube.com/watch?v=VUz8Xj4HMW8) (再生回数不明)
+4. [エヌビディア問題 女性がファーウェイと関連か【モーサテ】](https://www.youtube.com/watch?v=dwSKJ3rM1Mk) (再生回数不明)
+5. [マイクロソフト 大規模システム障害 復旧作業続く【モーサテ】](https://www.youtube.com/watch?v=u92_AY-eTNE) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [落とし物はヤギ 警察で保護して5日間「可愛くなってきた」 無事に飼…](https://www.youtube.com/watch?v=rcgpCtbIv0M) (901回視聴)
-2. [スマートごみ箱を設置3日で捨ててはいけない物が 悪質だと刑事罰にも…](https://www.youtube.com/watch?v=0iAgGxO2cwM) (829回視聴)
-3. [警察署に侵入 “バール兄弟”を逮捕 押収された車から「身分証奪還す…](https://www.youtube.com/watch?v=WxavrXBHe1A) (442回視聴)
-4. [収容者が増加する少年院 ゴルゴ松本が“命の授業”…15年間で100…](https://www.youtube.com/watch?v=9nkAH4UFnOU) (285回視聴)
-5. [トヨタ「軽トラ」を米国で来年発売 農作業・配達など法人向け 好調な…](https://www.youtube.com/watch?v=LnEV0ltADHU) (262回視聴)
+1. [知人女性の首絞め殺害疑い男再逮捕 遺体を千葉から仙台へ運び“遺棄”…](https://www.youtube.com/watch?v=1S62wTmL2tU) (824回視聴)
+2. [Outlookなどマイクロソフト365 復旧サーバーも再びダウン …](https://www.youtube.com/watch?v=zQ2vwQT5Elo) (721回視聴)
+3. [万博会場で導入された大阪メトロのEVバス137台 保管に月約300…](https://www.youtube.com/watch?v=VZv5U36Sq34) (475回視聴)
+4. [丸亀製麺 消費減税見据え値下げを発表 主力メニューなど最大60円↓…](https://www.youtube.com/watch?v=hZjxLiFAyno) (331回視聴)
+5. [676人から約77億円集めたか FX投資名目で9700万円詐取した…](https://www.youtube.com/watch?v=iwZtsVTCGVE) (315回視聴)
 
 ---
 
@@ -63,6 +63,7 @@ date: 2026-11-12
 
 #### 2026-11
 
+- [2026-11-13](2026-11-13.html)
 - [2026-11-12](2026-11-12.html)
 - [2026-11-11](2026-11-11.html)
 - [2026-11-10](2026-11-10.html)
