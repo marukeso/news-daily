@@ -1,60 +1,58 @@
 ---
-title: "2026-11-13"
-date: 2026-11-13
+title: "2026-11-14"
+date: 2026-11-14
 ---
 
-## 2026-11-13
+## 2026-11-14
 
 ### はてブIT（日本市場）
 
-1. [無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有…](https://www.itmedia.co.jp/news/article/2611/12/2000003144/) (765 users)
-2. [MetaのAIエージェント「Muse」に課金して使い倒した結果の、…](https://www.hageatama.org/20261112/1794464751) (375 users)
-3. [そのヤバいDockerイメージをいつまで使うのか](https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B) (231 users)
-4. [マイクロソフトで接続障害が発生 世界各地に影響のおそれ](https://news.web.nhk/newsweb/na/nd-20261113de75121) (158 users)
-5. [WebサイトをAgent Readyにしよう](https://unvalley.me/ja/blog/1793627906) (128 users)
+1. [Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキ…](https://ktlog.net/posts/claude-code-ai-ecosystem) (372 users)
+2. [ぼくのClaude Codeの使い方](https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata) (291 users)
+3. [総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に…](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html) (270 users)
+4. [Microsoft 365の障害で上司が事業部の部長から「こうなる…](https://togetter.com/li/2770045) (192 users)
+5. [学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねた…](https://togetter.com/li/2770106) (171 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【徹底解説】『Gemini 4 Hydrogen』が突然登場！3.…](https://www.youtube.com/watch?v=0N92RtzlqTs) (再生回数不明)
-2. [【Gemini版Jev】判断特化のDecisions APIが登場…](https://www.youtube.com/watch?v=ov33xFCsLzk) (再生回数不明)
-3. [【公式の結論】Claudeモデル使い分け！Opus、Fable、S…](https://www.youtube.com/watch?v=THi3S0cKMGI) (8878回視聴)
+1. [【徹底解説】『Gemini 4 Hydrogen』が突然登場！3.…](https://www.youtube.com/watch?v=0N92RtzlqTs) (1.4万回視聴)
+2. [【Gemini版Jev】判断特化のDecisions APIが登場…](https://www.youtube.com/watch?v=ov33xFCsLzk) (5666回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 革ジャン
-2. 半導体
+1. 半導体
+2. 防衛
 3. キオクシア
-4. エヌビディア
-5. 辞任
+4. 修正
+5. アシックス
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (212件)
-2. [すかいらーくホールディングス(3197)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3197) (61件)
-3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (53件)
-4. [パワーエックス(485A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=485A) (48件)
-5. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (43件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (162件)
+2. [アシックス(7936)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=7936) (150件)
+3. [三井住友フィナンシャルグループ(8316)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8316) (44件)
+4. [Ａｉロボティクス(247A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=247A) (43件)
+5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (41件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/12】パランティア・SoFi・コアウィーブ](https://www.youtube.com/watch?v=gBMEI-Nsook) (再生回数不明)
-2. [【2026/11/11】米国株は買い場？｜市場関係者が強気転換｜C…](https://www.youtube.com/watch?v=qPDehMcjgqM) (1812回視聴)
+1. [NVDA暴落・底打ちは近い？｜専門家5人の見解](https://www.youtube.com/watch?v=0oFJD5pxQYA) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [ワタミ MBO実施で非公開化へ 総合外食への転換急ぐ【モーサテ】](https://www.youtube.com/watch?v=bYFQtR2RByc) (467回視聴)
-2. [高市総理 フィジカルAIの社会実装へ 企業トップと意見交換【モーサ…](https://www.youtube.com/watch?v=kddB8WTN_7g) (279回視聴)
-3. [アンソロピックも恐れる 中国AIの実力【日経モープラFT】](https://www.youtube.com/watch?v=VUz8Xj4HMW8) (再生回数不明)
-4. [エヌビディア問題 女性がファーウェイと関連か【モーサテ】](https://www.youtube.com/watch?v=dwSKJ3rM1Mk) (再生回数不明)
-5. [マイクロソフト 大規模システム障害 復旧作業続く【モーサテ】](https://www.youtube.com/watch?v=u92_AY-eTNE) (再生回数不明)
+1. [アンソロピックがついに上場！？攻略のための解体新書！【モーサテわか…](https://www.youtube.com/watch?v=EPP5FY8GWjg) (635回視聴)
+2. [三越伊勢丹HDがホテル参入 日本初上陸のブランド誘致【WBS】](https://www.youtube.com/watch?v=QJMhexOgxGk) (再生回数不明)
+3. [ゲームセンターにスナック GiGOが期間限定の新業態【WBS】](https://www.youtube.com/watch?v=9UzPA4tQwGw) (再生回数不明)
+4. [ハーレーが軽量新型 女性や若者層狙う【WBS】](https://www.youtube.com/watch?v=NYkJFHIx0js) (再生回数不明)
+5. [コスモ AI活用の商談訓練 スタッフの提案力向上狙う【WBS】](https://www.youtube.com/watch?v=DE_UguYos_Y) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [知人女性の首絞め殺害疑い男再逮捕 遺体を千葉から仙台へ運び“遺棄”…](https://www.youtube.com/watch?v=1S62wTmL2tU) (824回視聴)
-2. [Outlookなどマイクロソフト365 復旧サーバーも再びダウン …](https://www.youtube.com/watch?v=zQ2vwQT5Elo) (721回視聴)
-3. [万博会場で導入された大阪メトロのEVバス137台 保管に月約300…](https://www.youtube.com/watch?v=VZv5U36Sq34) (475回視聴)
-4. [丸亀製麺 消費減税見据え値下げを発表 主力メニューなど最大60円↓…](https://www.youtube.com/watch?v=hZjxLiFAyno) (331回視聴)
-5. [676人から約77億円集めたか FX投資名目で9700万円詐取した…](https://www.youtube.com/watch?v=iwZtsVTCGVE) (315回視聴)
+1. [イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜…](https://www.youtube.com/watch?v=ds2bCYQ8V1o) (778回視聴)
+2. [三越伊勢丹がホテル参入 百貨店と連携 新宿本店近く再開発【もっと知…](https://www.youtube.com/watch?v=cNFwyE5uoNA) (637回視聴)
+3. [米・ミシシッピ川で乗客130人遊覧船がタンカーと衝突 32人病院に…](https://www.youtube.com/watch?v=MgqL4ikt6ag) (612回視聴)
+4. [「江刺りんご」初競り1箱6年連続で100万円 「大きめで食感もいい…](https://www.youtube.com/watch?v=honyZs6qGnc) (116回視聴)
+5. [【SDGs】 卵殻膜から生まれた繊維が導く未利用資源の可能性(20…](https://www.youtube.com/watch?v=MhnKZxlIQPo) (31回視聴)
 
 ---
 
@@ -63,6 +61,7 @@ date: 2026-11-13
 
 #### 2026-11
 
+- [2026-11-14](2026-11-14.html)
 - [2026-11-13](2026-11-13.html)
 - [2026-11-12](2026-11-12.html)
 - [2026-11-11](2026-11-11.html)
