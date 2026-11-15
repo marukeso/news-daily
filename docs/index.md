@@ -1,58 +1,57 @@
 ---
-title: "2026-11-14"
-date: 2026-11-14
+title: "2026-11-15"
+date: 2026-11-15
 ---
 
-## 2026-11-14
+## 2026-11-15
 
 ### はてブIT（日本市場）
 
-1. [Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキ…](https://ktlog.net/posts/claude-code-ai-ecosystem) (372 users)
-2. [ぼくのClaude Codeの使い方](https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata) (291 users)
-3. [総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に…](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html) (270 users)
-4. [Microsoft 365の障害で上司が事業部の部長から「こうなる…](https://togetter.com/li/2770045) (192 users)
-5. [学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねた…](https://togetter.com/li/2770106) (171 users)
+1. [常時稼働エージェントの作り方（Claude公式ブログを資料化）](https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata) (137 users)
+2. [マネジメントされる側の仕事は「文句」を言うこと](https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9) (132 users)
+3. [AIチームを率いるとは、どういうこと？ with プログラマー・起…](https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/) (130 users)
+4. [Building always](https://claude.com/resources/articles/building-always-on-agents) (97 users)
+5. [AIについての追記](https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html) (88 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【徹底解説】『Gemini 4 Hydrogen』が突然登場！3.…](https://www.youtube.com/watch?v=0N92RtzlqTs) (1.4万回視聴)
-2. [【Gemini版Jev】判断特化のDecisions APIが登場…](https://www.youtube.com/watch?v=ov33xFCsLzk) (5666回視聴)
+1. [【必見】Claude Codeのプロジェクト機能が大幅進化！Due…](https://www.youtube.com/watch?v=i2A0kCSUtJo) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 半導体
-2. 防衛
-3. キオクシア
-4. 修正
-5. アシックス
+1. ブラジル
+2. 半導体
+3. ビットコイン
+4. 発表
+5. 評価
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (162件)
-2. [アシックス(7936)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=7936) (150件)
-3. [三井住友フィナンシャルグループ(8316)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8316) (44件)
-4. [Ａｉロボティクス(247A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=247A) (43件)
-5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (41件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (46件)
+2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (23件)
+3. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (20件)
+4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (20件)
+5. [アルバイトタイムス(2341)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=2341) (13件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [NVDA暴落・底打ちは近い？｜専門家5人の見解](https://www.youtube.com/watch?v=0oFJD5pxQYA) (再生回数不明)
+1. [NVDA暴落・底打ちは近い？｜専門家5人の見解](https://www.youtube.com/watch?v=0oFJD5pxQYA) (1431回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [アンソロピックがついに上場！？攻略のための解体新書！【モーサテわか…](https://www.youtube.com/watch?v=EPP5FY8GWjg) (635回視聴)
-2. [三越伊勢丹HDがホテル参入 日本初上陸のブランド誘致【WBS】](https://www.youtube.com/watch?v=QJMhexOgxGk) (再生回数不明)
-3. [ゲームセンターにスナック GiGOが期間限定の新業態【WBS】](https://www.youtube.com/watch?v=9UzPA4tQwGw) (再生回数不明)
-4. [ハーレーが軽量新型 女性や若者層狙う【WBS】](https://www.youtube.com/watch?v=NYkJFHIx0js) (再生回数不明)
-5. [コスモ AI活用の商談訓練 スタッフの提案力向上狙う【WBS】](https://www.youtube.com/watch?v=DE_UguYos_Y) (再生回数不明)
+1. [三越伊勢丹HDがホテル参入 日本初上陸のブランド誘致【WBS】](https://www.youtube.com/watch?v=QJMhexOgxGk) (2.4万回視聴)
+2. [全米1位の快挙！『ゴジラ](https://www.youtube.com/watch?v=6ah6_1UIsQU) (再生回数不明)
+3. [エヌビディア後任CEO候補にアームのハース氏](https://www.youtube.com/watch?v=kuChR5_UGfM) (再生回数不明)
+4. [全米空港で地上待機命令 1万5000便以上に影響](https://www.youtube.com/watch?v=wYJPaySIiDQ) (再生回数不明)
+5. [東京・青梅市で官民合同の土砂災害対策訓練](https://www.youtube.com/watch?v=Dn__uZz8IzA) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜…](https://www.youtube.com/watch?v=ds2bCYQ8V1o) (778回視聴)
-2. [三越伊勢丹がホテル参入 百貨店と連携 新宿本店近く再開発【もっと知…](https://www.youtube.com/watch?v=cNFwyE5uoNA) (637回視聴)
-3. [米・ミシシッピ川で乗客130人遊覧船がタンカーと衝突 32人病院に…](https://www.youtube.com/watch?v=MgqL4ikt6ag) (612回視聴)
-4. [「江刺りんご」初競り1箱6年連続で100万円 「大きめで食感もいい…](https://www.youtube.com/watch?v=honyZs6qGnc) (116回視聴)
-5. [【SDGs】 卵殻膜から生まれた繊維が導く未利用資源の可能性(20…](https://www.youtube.com/watch?v=MhnKZxlIQPo) (31回視聴)
+1. [日光「いろは坂」渋滞対策の右折禁止で80分短縮 ピーク時300台以…](https://www.youtube.com/watch?v=k15RhNDTh_E) (850回視聴)
+2. [“史上初”米中ロ3首脳会談 19日実施 ウクライナ戦闘終結は議題上…](https://www.youtube.com/watch?v=CGmdwuLlvVk) (436回視聴)
+3. [北海道の新観光列車「赤い星」 ピアノや畳敷き茶室 札幌ー網走を2月…](https://www.youtube.com/watch?v=wHCxDAcUrwc) (197回視聴)
+4. [火災免れた日本酒「純米大吟醸」無料でふるまい 工場全焼の「越後鶴亀…](https://www.youtube.com/watch?v=J8Z9npJaJzg) (144回視聴)
+5. [市営住宅236戸に“別人”居住 同一人物が複数利用も 三重・伊賀市…](https://www.youtube.com/watch?v=VsFmFZmT8Xg) (再生回数不明)
 
 ---
 
@@ -61,6 +60,7 @@ date: 2026-11-14
 
 #### 2026-11
 
+- [2026-11-15](2026-11-15.html)
 - [2026-11-14](2026-11-14.html)
 - [2026-11-13](2026-11-13.html)
 - [2026-11-12](2026-11-12.html)
