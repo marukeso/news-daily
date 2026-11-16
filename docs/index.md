@@ -1,57 +1,58 @@
 ---
-title: "2026-11-15"
-date: 2026-11-15
+title: "2026-11-16"
+date: 2026-11-16
 ---
 
-## 2026-11-15
+## 2026-11-16
 
 ### はてブIT（日本市場）
 
-1. [常時稼働エージェントの作り方（Claude公式ブログを資料化）](https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata) (137 users)
-2. [マネジメントされる側の仕事は「文句」を言うこと](https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9) (132 users)
-3. [AIチームを率いるとは、どういうこと？ with プログラマー・起…](https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/) (130 users)
-4. [Building always](https://claude.com/resources/articles/building-always-on-agents) (97 users)
-5. [AIについての追記](https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html) (88 users)
+1. [マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43…](https://clivelab.jp/blogs/news/motherboard-rarely-fails) (505 users)
+2. [今、ソフトウェアエンジニアとして何を思うか](https://note.com/at_sushi_at/n/n2e6ea3453e37) (408 users)
+3. [こんなに変わった！ AWSネットワークの常識](https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote) (246 users)
+4. [自作フィードリーダーを作った](https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/) (236 users)
+5. [脱WordPress：10年超の個人ブログをAstro + Clo…](https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb) (152 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【必見】Claude Codeのプロジェクト機能が大幅進化！Due…](https://www.youtube.com/watch?v=i2A0kCSUtJo) (再生回数不明)
+1. [【厳選まとめ】2026年11月、今知るべき重要知識5選！新モデルに…](https://www.youtube.com/watch?v=M6QwcMiLVEo) (再生回数不明)
+2. [【必見】Claude Codeのプロジェクト機能が大幅進化！Due…](https://www.youtube.com/watch?v=i2A0kCSUtJo) (1.3万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. ブラジル
+1. 復帰
 2. 半導体
-3. ビットコイン
-4. 発表
-5. 評価
+3. キオクシア
+4. マンデー
+5. 革ジャン
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (46件)
-2. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (23件)
-3. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (20件)
-4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (20件)
-5. [アルバイトタイムス(2341)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=2341) (13件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (83件)
+2. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (32件)
+3. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (18件)
+4. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (15件)
+5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (14件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [NVDA暴落・底打ちは近い？｜専門家5人の見解](https://www.youtube.com/watch?v=0oFJD5pxQYA) (1431回視聴)
+- 24時間以内の投稿なし
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [三越伊勢丹HDがホテル参入 日本初上陸のブランド誘致【WBS】](https://www.youtube.com/watch?v=QJMhexOgxGk) (2.4万回視聴)
-2. [全米1位の快挙！『ゴジラ](https://www.youtube.com/watch?v=6ah6_1UIsQU) (再生回数不明)
-3. [エヌビディア後任CEO候補にアームのハース氏](https://www.youtube.com/watch?v=kuChR5_UGfM) (再生回数不明)
-4. [全米空港で地上待機命令 1万5000便以上に影響](https://www.youtube.com/watch?v=wYJPaySIiDQ) (再生回数不明)
-5. [東京・青梅市で官民合同の土砂災害対策訓練](https://www.youtube.com/watch?v=Dn__uZz8IzA) (再生回数不明)
+1. [福岡市長選 再選挙へ 候補13人 法定得票数に届かず【モーサテ】](https://www.youtube.com/watch?v=7IL2Zt6kFSA) (672回視聴)
+2. [【独自】高市総理 アジアとの新構想提唱へ AI・量子めぐり 17日…](https://www.youtube.com/watch?v=MhhNe82HE8U) (485回視聴)
+3. [ASEAN首脳会議 ミャンマーへの関与継続で合意【モーサテ】](https://www.youtube.com/watch?v=K3sBMAptwcg) (298回視聴)
+4. [総選挙後のイスラエル 政権交代は実現するのか【日経モープラFT】](https://www.youtube.com/watch?v=Kljtrn0ShgY) (44回視聴)
+5. [淳考案！あえてお酒を飲ませない日本酒ツアーで地域創生と新事業【田村…](https://www.youtube.com/watch?v=SXaYzV7PmtU) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [日光「いろは坂」渋滞対策の右折禁止で80分短縮 ピーク時300台以…](https://www.youtube.com/watch?v=k15RhNDTh_E) (850回視聴)
-2. [“史上初”米中ロ3首脳会談 19日実施 ウクライナ戦闘終結は議題上…](https://www.youtube.com/watch?v=CGmdwuLlvVk) (436回視聴)
-3. [北海道の新観光列車「赤い星」 ピアノや畳敷き茶室 札幌ー網走を2月…](https://www.youtube.com/watch?v=wHCxDAcUrwc) (197回視聴)
-4. [火災免れた日本酒「純米大吟醸」無料でふるまい 工場全焼の「越後鶴亀…](https://www.youtube.com/watch?v=J8Z9npJaJzg) (144回視聴)
-5. [市営住宅236戸に“別人”居住 同一人物が複数利用も 三重・伊賀市…](https://www.youtube.com/watch?v=VsFmFZmT8Xg) (再生回数不明)
+1. [水槽の前にお寿司！？ 富山・魚津水族館で生き物と食文化を学ぶ展示(…](https://www.youtube.com/watch?v=0LBVauXnxTU) (910回視聴)
+2. [特定外来生物クビアカツヤカミキリを局地的根絶 世界初 日大構内で伐…](https://www.youtube.com/watch?v=cpdFPrRTSX8) (439回視聴)
+3. [AI相場を占うアンソロピック上場 今週はエヌビディアなど国内外で注…](https://www.youtube.com/watch?v=JtS9lv5AAtk) (216回視聴)
+4. [鶏むね肉「3人に1人」購入増 そぎ切りや事前もみ込みで柔らかく【知…](https://www.youtube.com/watch?v=IBbDiUKrYK8) (103回視聴)
+5. [パンダ国内不在 山形で誘致「諦めたくない」 中国で生後100日目を…](https://www.youtube.com/watch?v=RcQ3BrIW7NU) (56回視聴)
 
 ---
 
@@ -60,6 +61,7 @@ date: 2026-11-15
 
 #### 2026-11
 
+- [2026-11-16](2026-11-16.html)
 - [2026-11-15](2026-11-15.html)
 - [2026-11-14](2026-11-14.html)
 - [2026-11-13](2026-11-13.html)
