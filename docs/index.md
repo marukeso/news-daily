@@ -1,58 +1,57 @@
 ---
-title: "2026-11-16"
-date: 2026-11-16
+title: "2026-11-17"
+date: 2026-11-17
 ---
 
-## 2026-11-16
+## 2026-11-17
 
 ### はてブIT（日本市場）
 
-1. [マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43…](https://clivelab.jp/blogs/news/motherboard-rarely-fails) (505 users)
-2. [今、ソフトウェアエンジニアとして何を思うか](https://note.com/at_sushi_at/n/n2e6ea3453e37) (408 users)
-3. [こんなに変わった！ AWSネットワークの常識](https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote) (246 users)
-4. [自作フィードリーダーを作った](https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/) (236 users)
-5. [脱WordPress：10年超の個人ブログをAstro + Clo…](https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb) (152 users)
+1. [もういい加減"技術勉強会"やめませんか？](https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e) (308 users)
+2. [AIが文学界を揺るがしている](https://gigazine.net/news/20261116-ai-literary-world/) (97 users)
+3. [マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用…](https://www.gamespark.jp/article/2026/11/16/174930.html) (83 users)
+4. [「Microsoft 365」大規模障害、7月の修正で混入した不具…](https://www.itmedia.co.jp/news/article/2611/17/2000003245/) (82 users)
+5. [GitHub IssueにArtifactとしてHTMLとMark…](https://zenn.dev/kesin11/articles/20261114_github_issue_artifact) (76 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【厳選まとめ】2026年11月、今知るべき重要知識5選！新モデルに…](https://www.youtube.com/watch?v=M6QwcMiLVEo) (再生回数不明)
-2. [【必見】Claude Codeのプロジェクト機能が大幅進化！Due…](https://www.youtube.com/watch?v=i2A0kCSUtJo) (1.3万回視聴)
+1. [【厳選まとめ】2026年11月、今知るべき重要知識5選！新モデルに…](https://www.youtube.com/watch?v=M6QwcMiLVEo) (7970回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 復帰
-2. 半導体
-3. キオクシア
-4. マンデー
-5. 革ジャン
+1. 半導体
+2. キオクシア
+3. デーセク
+4. 日経平均
+5. 信用
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (83件)
-2. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (32件)
-3. [フレンドリー(8209)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=8209) (18件)
-4. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (15件)
-5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (14件)
+1. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (387件)
+2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (285件)
+3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (83件)
+4. [イオレ(2334)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=2334) (66件)
+5. [フェローテック(6890)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6890) (50件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-- 24時間以内の投稿なし
+1. [なぜその分散は無意味なのか？相場の3つのリスクとポートフォリオ防衛策](https://www.youtube.com/watch?v=eUYkr0ExXMg) (36回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [福岡市長選 再選挙へ 候補13人 法定得票数に届かず【モーサテ】](https://www.youtube.com/watch?v=7IL2Zt6kFSA) (672回視聴)
-2. [【独自】高市総理 アジアとの新構想提唱へ AI・量子めぐり 17日…](https://www.youtube.com/watch?v=MhhNe82HE8U) (485回視聴)
-3. [ASEAN首脳会議 ミャンマーへの関与継続で合意【モーサテ】](https://www.youtube.com/watch?v=K3sBMAptwcg) (298回視聴)
-4. [総選挙後のイスラエル 政権交代は実現するのか【日経モープラFT】](https://www.youtube.com/watch?v=Kljtrn0ShgY) (44回視聴)
-5. [淳考案！あえてお酒を飲ませない日本酒ツアーで地域創生と新事業【田村…](https://www.youtube.com/watch?v=SXaYzV7PmtU) (再生回数不明)
+1. [コロナ禍以来の”買い控え”「消費減税より所得増を」【NIKKEI …](https://www.youtube.com/watch?v=vCjyHXvkxlE) (603回視聴)
+2. [愛子さまシンガポールへ出発 2度目の外国公式訪問](https://www.youtube.com/watch?v=2C2e41Xew5s) (272回視聴)
+3. [ロシア報道官 日露首脳会談の可能性に言及](https://www.youtube.com/watch?v=UbtYRa7SS8s) (209回視聴)
+4. [高市総理 アジア版石油備蓄の新構想を提唱へ](https://www.youtube.com/watch?v=aSkXS2DEFC8) (168回視聴)
+5. [米商務省 先端半導体輸出規制を強化 米製先端半導体の遠隔利用の防止…](https://www.youtube.com/watch?v=YRq4UFEXrfw) (165回視聴)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [水槽の前にお寿司！？ 富山・魚津水族館で生き物と食文化を学ぶ展示(…](https://www.youtube.com/watch?v=0LBVauXnxTU) (910回視聴)
-2. [特定外来生物クビアカツヤカミキリを局地的根絶 世界初 日大構内で伐…](https://www.youtube.com/watch?v=cpdFPrRTSX8) (439回視聴)
-3. [AI相場を占うアンソロピック上場 今週はエヌビディアなど国内外で注…](https://www.youtube.com/watch?v=JtS9lv5AAtk) (216回視聴)
-4. [鶏むね肉「3人に1人」購入増 そぎ切りや事前もみ込みで柔らかく【知…](https://www.youtube.com/watch?v=IBbDiUKrYK8) (103回視聴)
-5. [パンダ国内不在 山形で誘致「諦めたくない」 中国で生後100日目を…](https://www.youtube.com/watch?v=RcQ3BrIW7NU) (56回視聴)
+1. [逮捕の男「4年前に知り合った」 包丁で首刺され女性死亡 東京・中野…](https://www.youtube.com/watch?v=gtbNqvgi6xo) (864回視聴)
+2. [寒暖差で“季節を問わない服”異例の大ヒット 300日着られるニット…](https://www.youtube.com/watch?v=5cjNLiFcW84) (408回視聴)
+3. [“グリ下の帝王”逮捕 少女への性的暴行などの疑い 大阪・ミナミ(2…](https://www.youtube.com/watch?v=UFfJAhgNOVE) (268回視聴)
+4. [交際相手「平手で頭たたいた」 元「egg」モデル殺害か(2026年…](https://www.youtube.com/watch?v=qLLr0jkofH0) (252回視聴)
+5. [少年4人が実行役か 愛知・小牧市 強盗殺人未遂事件(2026年11…](https://www.youtube.com/watch?v=wmGVex9sBiQ) (179回視聴)
 
 ---
 
@@ -61,6 +60,7 @@ date: 2026-11-16
 
 #### 2026-11
 
+- [2026-11-17](2026-11-17.html)
 - [2026-11-16](2026-11-16.html)
 - [2026-11-15](2026-11-15.html)
 - [2026-11-14](2026-11-14.html)
