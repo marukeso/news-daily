@@ -1,57 +1,60 @@
 ---
-title: "2026-11-17"
-date: 2026-11-17
+title: "2026-11-18"
+date: 2026-11-18
 ---
 
-## 2026-11-17
+## 2026-11-18
 
 ### はてブIT（日本市場）
 
-1. [もういい加減"技術勉強会"やめませんか？](https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e) (308 users)
-2. [AIが文学界を揺るがしている](https://gigazine.net/news/20261116-ai-literary-world/) (97 users)
-3. [マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用…](https://www.gamespark.jp/article/2026/11/16/174930.html) (83 users)
-4. [「Microsoft 365」大規模障害、7月の修正で混入した不具…](https://www.itmedia.co.jp/news/article/2611/17/2000003245/) (82 users)
-5. [GitHub IssueにArtifactとしてHTMLとMark…](https://zenn.dev/kesin11/articles/20261114_github_issue_artifact) (76 users)
+1. [当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券](https://www.rakuten-sec.co.jp/web/info/info20261117-02.html) (845 users)
+2. [おい、 Mutation Test をやれ。テスト品質を、測るために](https://zenn.dev/mizchi/articles/mutation-test-quality) (349 users)
+3. [毎月6,000 AI Agentsを捌くためにキーボードを捨てた話](https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce) (106 users)
+4. [メルカリ、Google Play ストアでアプリが検索・ダウンロー…](https://www.itmedia.co.jp/news/article/2611/17/2000003274/) (89 users)
+5. [ソフトウェアエンジニアの黄昏期をこう過ごそうと思う](https://note.com/wakabame/n/nc76b65a187bb) (84 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【厳選まとめ】2026年11月、今知るべき重要知識5選！新モデルに…](https://www.youtube.com/watch?v=M6QwcMiLVEo) (7970回視聴)
+1. [【最高です】『GPT](https://www.youtube.com/watch?v=TPpOJsYlRLE) (再生回数不明)
+2. [【必見】Claude Codeチームの検証術を徹底解説！強力な3種…](https://www.youtube.com/watch?v=mSCpmPVPEWI) (再生回数不明)
+3. [【破格】鬼コスパAI『Hy4 Flash』登場！Haiku5.5級…](https://www.youtube.com/watch?v=0wNe3dl6_zo) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 半導体
-2. キオクシア
-3. デーセク
-4. 日経平均
-5. 信用
+1. キオクシア
+2. 半導体
+3. 楽天証券
+4. エヌビディア
+5. 楽天
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (387件)
-2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (285件)
-3. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (83件)
-4. [イオレ(2334)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=2334) (66件)
-5. [フェローテック(6890)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6890) (50件)
+1. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (557件)
+2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (355件)
+3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (295件)
+4. [Ａｉロボティクス(247A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=247A) (60件)
+5. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (51件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [なぜその分散は無意味なのか？相場の3つのリスクとポートフォリオ防衛策](https://www.youtube.com/watch?v=eUYkr0ExXMg) (36回視聴)
+1. [【2026/11/18】米国株暴落前、機関投資家は何を売った？｜最…](https://www.youtube.com/watch?v=vv_G3qY25P0) (7回視聴)
+2. [なぜその分散は無意味なのか？相場の3つのリスクとポートフォリオ防衛策](https://www.youtube.com/watch?v=eUYkr0ExXMg) (746回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [コロナ禍以来の”買い控え”「消費減税より所得増を」【NIKKEI …](https://www.youtube.com/watch?v=vCjyHXvkxlE) (603回視聴)
-2. [愛子さまシンガポールへ出発 2度目の外国公式訪問](https://www.youtube.com/watch?v=2C2e41Xew5s) (272回視聴)
-3. [ロシア報道官 日露首脳会談の可能性に言及](https://www.youtube.com/watch?v=UbtYRa7SS8s) (209回視聴)
-4. [高市総理 アジア版石油備蓄の新構想を提唱へ](https://www.youtube.com/watch?v=aSkXS2DEFC8) (168回視聴)
-5. [米商務省 先端半導体輸出規制を強化 米製先端半導体の遠隔利用の防止…](https://www.youtube.com/watch?v=YRq4UFEXrfw) (165回視聴)
+1. [“AIの中央銀行”NVIDIA カリスマ退場でAI相場 終わる？【…](https://www.youtube.com/watch?v=CRZdqeycKFc) (再生回数不明)
+2. [運用資産130兆円 新トップ迎え磨く運用力 野村アセット大越社長が…](https://www.youtube.com/watch?v=mP9YBKbTlf4) (再生回数不明)
+3. [FRB高官 1%利上げ示唆 2027年春までに【モーサテ】](https://www.youtube.com/watch?v=NQ_caxIsvZw) (再生回数不明)
+4. [米小売売上高 底堅く 輸入物価は予想上回る【モーサテ】](https://www.youtube.com/watch?v=Fh5A-KOqNdk) (再生回数不明)
+5. [米ディズニー 純利益倍増 年間コスト30億ドル削減も【モーサテ】](https://www.youtube.com/watch?v=pMnUknlyNFI) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [逮捕の男「4年前に知り合った」 包丁で首刺され女性死亡 東京・中野…](https://www.youtube.com/watch?v=gtbNqvgi6xo) (864回視聴)
-2. [寒暖差で“季節を問わない服”異例の大ヒット 300日着られるニット…](https://www.youtube.com/watch?v=5cjNLiFcW84) (408回視聴)
-3. [“グリ下の帝王”逮捕 少女への性的暴行などの疑い 大阪・ミナミ(2…](https://www.youtube.com/watch?v=UFfJAhgNOVE) (268回視聴)
-4. [交際相手「平手で頭たたいた」 元「egg」モデル殺害か(2026年…](https://www.youtube.com/watch?v=qLLr0jkofH0) (252回視聴)
-5. [少年4人が実行役か 愛知・小牧市 強盗殺人未遂事件(2026年11…](https://www.youtube.com/watch?v=wmGVex9sBiQ) (179回視聴)
+1. [大阪・枚方市の3歳児死亡 1月に児相「虐待」把握も 警察との協定対…](https://www.youtube.com/watch?v=2yizGqLL7MA) (483回視聴)
+2. [3歳女児死亡 逮捕の父親 「発達の遅れを指摘された」 大阪・枚方市…](https://www.youtube.com/watch?v=k96Bwbr2TUo) (478回視聴)
+3. [“フアン氏のCEO復帰ない” 米エヌビディア取締役会議長(2026…](https://www.youtube.com/watch?v=lbyjO4Uqp2U) (370回視聴)
+4. [すすきので車3台絡む事故 酒酔い運転の疑いで男逮捕(2026年11…](https://www.youtube.com/watch?v=lZCoCbuI5XA) (341回視聴)
+5. [アマゾンジャパン、麻布台ヒルズの新オフィス公開 和風デザインの石庭…](https://www.youtube.com/watch?v=AHf0FzxRLbU) (321回視聴)
 
 ---
 
@@ -60,6 +63,7 @@ date: 2026-11-17
 
 #### 2026-11
 
+- [2026-11-18](2026-11-18.html)
 - [2026-11-17](2026-11-17.html)
 - [2026-11-16](2026-11-16.html)
 - [2026-11-15](2026-11-15.html)
