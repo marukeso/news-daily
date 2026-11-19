@@ -1,60 +1,63 @@
 ---
-title: "2026-11-18"
-date: 2026-11-18
+title: "2026-11-19"
+date: 2026-11-19
 ---
 
-## 2026-11-18
+## 2026-11-19
 
 ### はてブIT（日本市場）
 
-1. [当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券](https://www.rakuten-sec.co.jp/web/info/info20261117-02.html) (845 users)
-2. [おい、 Mutation Test をやれ。テスト品質を、測るために](https://zenn.dev/mizchi/articles/mutation-test-quality) (349 users)
-3. [毎月6,000 AI Agentsを捌くためにキーボードを捨てた話](https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce) (106 users)
-4. [メルカリ、Google Play ストアでアプリが検索・ダウンロー…](https://www.itmedia.co.jp/news/article/2611/17/2000003274/) (89 users)
-5. [ソフトウェアエンジニアの黄昏期をこう過ごそうと思う](https://note.com/wakabame/n/nc76b65a187bb) (84 users)
+1. [MUJI Card発行のクレディセゾン、カード番号削除を2度依頼 …](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/) (366 users)
+2. [「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリ…](https://togetter.com/li/2772114) (233 users)
+3. [「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティ…](https://forest.watch.impress.co.jp/docs/news/2157690.html) (181 users)
+4. [楽天証券の情報漏えい、集団訴訟の動き始まる 「タイムズカー集団訴訟…](https://www.bengo4.com/c_18/n_21206/) (126 users)
+5. [認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～](https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen) (125 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【最高です】『GPT](https://www.youtube.com/watch?v=TPpOJsYlRLE) (再生回数不明)
-2. [【必見】Claude Codeチームの検証術を徹底解説！強力な3種…](https://www.youtube.com/watch?v=mSCpmPVPEWI) (再生回数不明)
-3. [【破格】鬼コスパAI『Hy4 Flash』登場！Haiku5.5級…](https://www.youtube.com/watch?v=0wNe3dl6_zo) (再生回数不明)
+1. [【まとめ】Geminiのリリースラッシュが熱い 最新の話題9選！新…](https://www.youtube.com/watch?v=jz5QiTOyTCw) (再生回数不明)
+2. [【賛否両論】GPT](https://www.youtube.com/watch?v=QUd7DVefuSw) (再生回数不明)
+3. [【最高です】『GPT](https://www.youtube.com/watch?v=TPpOJsYlRLE) (1.6万回視聴)
+4. [【必見】Claude Codeチームの検証術を徹底解説！強力な3種…](https://www.youtube.com/watch?v=mSCpmPVPEWI) (8440回視聴)
+5. [【破格】鬼コスパAI『Hy4 Flash』登場！Haiku5.5級…](https://www.youtube.com/watch?v=0wNe3dl6_zo) (3233回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. キオクシア
-2. 半導体
+1. 半導体
+2. キオクシア
 3. 楽天証券
-4. エヌビディア
-5. 楽天
+4. 楽天
+5. 漏洩
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (557件)
-2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (355件)
-3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (295件)
-4. [Ａｉロボティクス(247A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=247A) (60件)
-5. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (51件)
+1. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (337件)
+2. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (275件)
+3. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (156件)
+4. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (81件)
+5. [楽天銀行(5838)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5838) (61件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/18】米国株暴落前、機関投資家は何を売った？｜最…](https://www.youtube.com/watch?v=vv_G3qY25P0) (7回視聴)
-2. [なぜその分散は無意味なのか？相場の3つのリスクとポートフォリオ防衛策](https://www.youtube.com/watch?v=eUYkr0ExXMg) (746回視聴)
+1. [米国株の混乱で投資家がすべきこと](https://www.youtube.com/watch?v=xM6Yz1LD6uE) (再生回数不明)
+2. [【2026/11/18】米国株暴落前、機関投資家は何を売った？｜最…](https://www.youtube.com/watch?v=vv_G3qY25P0) (再生回数不明)
+3. [なぜその分散は無意味なのか？相場の3つのリスクとポートフォリオ防衛策](https://www.youtube.com/watch?v=eUYkr0ExXMg) (896回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [“AIの中央銀行”NVIDIA カリスマ退場でAI相場 終わる？【…](https://www.youtube.com/watch?v=CRZdqeycKFc) (再生回数不明)
-2. [運用資産130兆円 新トップ迎え磨く運用力 野村アセット大越社長が…](https://www.youtube.com/watch?v=mP9YBKbTlf4) (再生回数不明)
-3. [FRB高官 1%利上げ示唆 2027年春までに【モーサテ】](https://www.youtube.com/watch?v=NQ_caxIsvZw) (再生回数不明)
-4. [米小売売上高 底堅く 輸入物価は予想上回る【モーサテ】](https://www.youtube.com/watch?v=Fh5A-KOqNdk) (再生回数不明)
-5. [米ディズニー 純利益倍増 年間コスト30億ドル削減も【モーサテ】](https://www.youtube.com/watch?v=pMnUknlyNFI) (再生回数不明)
+1. [史上初の米中露首脳会談 最も得するのは中国習近平氏？【NIKKEI…](https://www.youtube.com/watch?v=bvuC7R76JJA) (再生回数不明)
+2. [国債バブルと経済成長 両立は可能か【日経モープラFT】](https://www.youtube.com/watch?v=mHi5rr-g1fQ) (再生回数不明)
+3. [高市総理 プーチン氏と対話 邦人記者の解放など求める【モーサテ】](https://www.youtube.com/watch?v=4niLVzghuL8) (再生回数不明)
+4. [米ターゲット 見通し引き上げ 値下げで客足伸びる【モーサテ】](https://www.youtube.com/watch?v=sGoEC6DAIPc) (再生回数不明)
+5. [米FOMC議事要旨 12月会合で大幅利上げも【モーサテ】](https://www.youtube.com/watch?v=0tl1HUm_blA) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [大阪・枚方市の3歳児死亡 1月に児相「虐待」把握も 警察との協定対…](https://www.youtube.com/watch?v=2yizGqLL7MA) (483回視聴)
-2. [3歳女児死亡 逮捕の父親 「発達の遅れを指摘された」 大阪・枚方市…](https://www.youtube.com/watch?v=k96Bwbr2TUo) (478回視聴)
-3. [“フアン氏のCEO復帰ない” 米エヌビディア取締役会議長(2026…](https://www.youtube.com/watch?v=lbyjO4Uqp2U) (370回視聴)
-4. [すすきので車3台絡む事故 酒酔い運転の疑いで男逮捕(2026年11…](https://www.youtube.com/watch?v=lZCoCbuI5XA) (341回視聴)
-5. [アマゾンジャパン、麻布台ヒルズの新オフィス公開 和風デザインの石庭…](https://www.youtube.com/watch?v=AHf0FzxRLbU) (321回視聴)
+1. [熊本で最大震度5弱 一部の建物に被害も 住民からは不安の声(202…](https://www.youtube.com/watch?v=5FMtG4NZ_G4) (886回視聴)
+2. [米中ロ首脳会談きょう史上初開催 習主席「中ロ関係は盤石」 ロシアは…](https://www.youtube.com/watch?v=104VEFigHNA) (821回視聴)
+3. [新宿・歌舞伎町の路上駐車 夜間初の一斉取り締まり 駐車違反で緊急車…](https://www.youtube.com/watch?v=CC3j-xmD8YM) (801回視聴)
+4. [200万年前の海水からヨウ素生産 太陽電池の原料に期待も増産に壁(…](https://www.youtube.com/watch?v=J0V2nXTrTUw) (549回視聴)
+5. [EVなど購入補助金が25日までに受付終了へ 残高107億円がなくな…](https://www.youtube.com/watch?v=K53pMJ1vZtI) (488回視聴)
 
 ---
 
@@ -63,6 +66,7 @@ date: 2026-11-18
 
 #### 2026-11
 
+- [2026-11-19](2026-11-19.html)
 - [2026-11-18](2026-11-18.html)
 - [2026-11-17](2026-11-17.html)
 - [2026-11-16](2026-11-16.html)
