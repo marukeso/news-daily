@@ -1,60 +1,58 @@
 ---
-title: "2026-11-20"
-date: 2026-11-20
+title: "2026-11-21"
+date: 2026-11-21
 ---
 
-## 2026-11-20
+## 2026-11-21
 
 ### はてブIT（日本市場）
 
-1. [「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来…](https://ascii.jp/elem/000/004/452/4452982/) (444 users)
-2. [美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委…](https://www.itmedia.co.jp/news/article/2611/19/2000003351/) (208 users)
-3. [相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ…](https://zenn.dev/kusuke/articles/98e178e6824cac) (165 users)
-4. [AIに悩みを相談する際に気をつけて欲しいこと](https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/) (124 users)
-5. [ソフトウェアダークファクトリー](https://gihyo.jp/book/2026/978-4-297-16073-9) (102 users)
+1. [「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが…](https://type.jp/et/feature/32219/) (485 users)
+2. [【速報】三井住友銀で情報漏えい、最大1400万件](https://www.47news.jp/15262461.html) (287 users)
+3. [「httpS://」だと暗号化されず平文で送信……「PHP」に約2…](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html) (218 users)
+4. [はてなエンジニアの自作RSSリーダーをご紹介します 2026](https://developer.hatenastaff.com/entry/2026/11/20/162322) (209 users)
+5. [政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：…](https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html) (207 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【徹底解説】『Gemini 4 Neon』中堅モデルなのにベンチ最…](https://www.youtube.com/watch?v=vhN-z6ENeTM) (再生回数不明)
-2. [【まとめ】Geminiのリリースラッシュが熱い 最新の話題9選！新…](https://www.youtube.com/watch?v=jz5QiTOyTCw) (1万回視聴)
-3. [【賛否両論】GPT](https://www.youtube.com/watch?v=QUd7DVefuSw) (1.4万回視聴)
+1. [【Grok Bot】公式も認めた枠を活かす効率最強の構成！ Cla…](https://www.youtube.com/watch?v=ooJuwiv8mU8) (再生回数不明)
+2. [【徹底解説】『Gemini 4 Neon』中堅モデルなのにベンチ最…](https://www.youtube.com/watch?v=vhN-z6ENeTM) (1.3万回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. アンソロピック
+1. キオクシア
 2. 半導体
-3. キオクシア
-4. 先物
-5. アンソロ
+3. 先物
+4. 信用
+5. 日経平均
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (290件)
-2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (134件)
-3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (118件)
-4. [任天堂(7974)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=7974) (65件)
-5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (58件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (257件)
+2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (85件)
+3. [プレイド(4165)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4165) (77件)
+4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (71件)
+5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (71件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [米国株の混乱で投資家がすべきこと](https://www.youtube.com/watch?v=xM6Yz1LD6uE) (再生回数不明)
-2. [【2026/11/18】米国株暴落前、機関投資家は何を売った？｜最…](https://www.youtube.com/watch?v=vv_G3qY25P0) (1552回視聴)
+- 24時間以内の投稿なし
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [スシロー NYに1号店 チップ不要で割安感【モーサテ】](https://www.youtube.com/watch?v=3zbygPZ7yMA) (921回視聴)
-2. [米景気先行指数 低下 建築許可件数↓が下押し【モーサテ】](https://www.youtube.com/watch?v=Gs1Pvw4sVWQ) (539回視聴)
-3. [米ウォルマート オンライン好調 業績予想引き上げ【モーサテ】](https://www.youtube.com/watch?v=ae4NMX21e64) (421回視聴)
-4. [想定外の揺れに備える 「免震構造」最前線！【NIKKEI NEWS…](https://www.youtube.com/watch?v=WgrxNVuhjzE) (25回視聴)
-5. [米中露首脳会談の波紋 APECサミット点検【日経モープラFT】](https://www.youtube.com/watch?v=Z72qxj9mTsQ) (再生回数不明)
+1. [アンソロピック上場 日米株安 AIバブル懸念は【NIKKEI NE…](https://www.youtube.com/watch?v=UZ6vz8Y6k0k) (36回視聴)
+2. [混乱相場を乗り越える！？アメリカ中間選挙ショックに有効な攻守両用戦…](https://www.youtube.com/watch?v=aaUGaIA5Gf4) (再生回数不明)
+3. [スシローNY店オープン 1皿 800円から【WBS】](https://www.youtube.com/watch?v=Y8iV14mPKoA) (再生回数不明)
+4. [3列シート新HVを公開 ホンダ 来春発売予定【WBS】](https://www.youtube.com/watch?v=-1eCllzFAa4) (再生回数不明)
+5. [コメ類 過去最大の下落 10月の全国消費者物価指数【WBS】](https://www.youtube.com/watch?v=bYwxno5sNfw) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [京都・高瀬川アート作品「跡形なく」実行委は警察に被害届へ 先にも“…](https://www.youtube.com/watch?v=fMQzdhBNuC4) (887回視聴)
-2. [「火つければ訪問しなくていい」障害男性宅に放火か 介護職員逮捕 死…](https://www.youtube.com/watch?v=pnA66HAWzBw) (695回視聴)
-3. [史上初の米中ロ首脳会談 中国外相「重要な意義持つ」(2026年11…](https://www.youtube.com/watch?v=oidBgaF99gA) (684回視聴)
-4. [楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏…](https://www.youtube.com/watch?v=75pLhkzcOZU) (586回視聴)
-5. [景品横領が発覚のくら寿司 「ちいかわ」皿を100万人に配布 店舗L…](https://www.youtube.com/watch?v=-9zE849kZZk) (522回視聴)
+1. [トランプ氏 習主席とフアン前CEOめぐり会話「彼も男」「判断誤った…](https://www.youtube.com/watch?v=STSdUKja4OI) (750回視聴)
+2. [ゴッホ作品「花咲く栗の木」 過去最高302億円で落札 過去60年以…](https://www.youtube.com/watch?v=MSYiNsK-qOA) (750回視聴)
+3. [埼玉八潮陥没事故 死亡の男性遺族が民事訴訟 県は賠償額を争う姿勢(…](https://www.youtube.com/watch?v=gqk5rWfHBks) (534回視聴)
+4. [藤井聡太六冠、竜王戦6連覇、史上初2期連続ストレート防衛なるか 挑…](https://www.youtube.com/watch?v=qz8ZiM2OnFg) (475回視聴)
+5. [「ドンの元秘書」福岡県議が百条委を辞任 不適切投稿で問責決議も 適…](https://www.youtube.com/watch?v=u9boog_Vn7k) (410回視聴)
 
 ---
 
@@ -63,6 +61,7 @@ date: 2026-11-20
 
 #### 2026-11
 
+- [2026-11-21](2026-11-21.html)
 - [2026-11-20](2026-11-20.html)
 - [2026-11-19](2026-11-19.html)
 - [2026-11-18](2026-11-18.html)
