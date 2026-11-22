@@ -1,38 +1,38 @@
 ---
-title: "2026-11-21"
-date: 2026-11-21
+title: "2026-11-22"
+date: 2026-11-22
 ---
 
-## 2026-11-21
+## 2026-11-22
 
 ### はてブIT（日本市場）
 
-1. [「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが…](https://type.jp/et/feature/32219/) (485 users)
-2. [【速報】三井住友銀で情報漏えい、最大1400万件](https://www.47news.jp/15262461.html) (287 users)
-3. [「httpS://」だと暗号化されず平文で送信……「PHP」に約2…](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html) (218 users)
-4. [はてなエンジニアの自作RSSリーダーをご紹介します 2026](https://developer.hatenastaff.com/entry/2026/11/20/162322) (209 users)
-5. [政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：…](https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html) (207 users)
+1. [どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解…](https://smhn.info/202611-gemini-subscription-third-party-harness-december-2) (259 users)
+2. [イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の…](https://togetter.com/li/2773122) (207 users)
+3. [寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる…](https://zenn.dev/canly/articles/ca6875cd79539f) (179 users)
+4. [ソフトウェアファクトリーとコード設計と顧客価値](https://kosui.me/posts/2026/11/15/code-design-after-agents) (157 users)
+5. [GitHub - mitaku/andon: A one](https://github.com/mitaku/andon) (135 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【Grok Bot】公式も認めた枠を活かす効率最強の構成！ Cla…](https://www.youtube.com/watch?v=ooJuwiv8mU8) (再生回数不明)
-2. [【徹底解説】『Gemini 4 Neon』中堅モデルなのにベンチ最…](https://www.youtube.com/watch?v=vhN-z6ENeTM) (1.3万回視聴)
+1. [【待望】今勢いのあるAgent型IDEのOrcaから、『Orca …](https://www.youtube.com/watch?v=voPU8lQXhHE) (7970回視聴)
+2. [【Grok Bot】公式も認めた枠を活かす効率最強の構成！ Cla…](https://www.youtube.com/watch?v=ooJuwiv8mU8) (6042回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
-2. 半導体
-3. 先物
-4. 信用
-5. 日経平均
+2. 信用
+3. 半導体
+4. 判断
+5. 中国
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (257件)
-2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (85件)
-3. [プレイド(4165)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4165) (77件)
-4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (71件)
-5. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (71件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (88件)
+2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (53件)
+3. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (20件)
+4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (19件)
+5. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (15件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
@@ -40,19 +40,19 @@ date: 2026-11-21
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [アンソロピック上場 日米株安 AIバブル懸念は【NIKKEI NE…](https://www.youtube.com/watch?v=UZ6vz8Y6k0k) (36回視聴)
-2. [混乱相場を乗り越える！？アメリカ中間選挙ショックに有効な攻守両用戦…](https://www.youtube.com/watch?v=aaUGaIA5Gf4) (再生回数不明)
-3. [スシローNY店オープン 1皿 800円から【WBS】](https://www.youtube.com/watch?v=Y8iV14mPKoA) (再生回数不明)
-4. [3列シート新HVを公開 ホンダ 来春発売予定【WBS】](https://www.youtube.com/watch?v=-1eCllzFAa4) (再生回数不明)
-5. [コメ類 過去最大の下落 10月の全国消費者物価指数【WBS】](https://www.youtube.com/watch?v=bYwxno5sNfw) (再生回数不明)
+1. [【モーサテサタデー】AI相場は終わるのか](https://www.youtube.com/watch?v=zq1qHUcpSv8) (218731回視聴)
+2. [シンガポールを公式訪問していた愛子さま 帰国の途に](https://www.youtube.com/watch?v=rYsMLWzkdBg) (84681回視聴)
+3. [混乱相場を乗り越える！？アメリカ中間選挙ショックに有効な攻守両用戦…](https://www.youtube.com/watch?v=aaUGaIA5Gf4) (77237回視聴)
+4. [米証券取引委員会がエヌビディアの会計調査か](https://www.youtube.com/watch?v=5w23Gek5JS8) (53487回視聴)
+5. [アンソロピック上場 日米株安 AIバブル懸念は【NIKKEI NE…](https://www.youtube.com/watch?v=UZ6vz8Y6k0k) (45261回視聴)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [トランプ氏 習主席とフアン前CEOめぐり会話「彼も男」「判断誤った…](https://www.youtube.com/watch?v=STSdUKja4OI) (750回視聴)
-2. [ゴッホ作品「花咲く栗の木」 過去最高302億円で落札 過去60年以…](https://www.youtube.com/watch?v=MSYiNsK-qOA) (750回視聴)
-3. [埼玉八潮陥没事故 死亡の男性遺族が民事訴訟 県は賠償額を争う姿勢(…](https://www.youtube.com/watch?v=gqk5rWfHBks) (534回視聴)
-4. [藤井聡太六冠、竜王戦6連覇、史上初2期連続ストレート防衛なるか 挑…](https://www.youtube.com/watch?v=qz8ZiM2OnFg) (475回視聴)
-5. [「ドンの元秘書」福岡県議が百条委を辞任 不適切投稿で問責決議も 適…](https://www.youtube.com/watch?v=u9boog_Vn7k) (410回視聴)
+1. [大雪で約1500人孤立状態 倒木相次ぎ国道が通行止めに 福島・北塩…](https://www.youtube.com/watch?v=gflwF6bPvzA) (23108回視聴)
+2. [堀ちえみ「スチュワーデス物語」43年前の制服姿で登場！“教官”風間…](https://www.youtube.com/watch?v=edVsl3E2Ojs) (9987回視聴)
+3. [首里城正殿 きょう復元完成式 火災による焼失から7年 23日から一…](https://www.youtube.com/watch?v=ETgajhQFp1I) (4625回視聴)
+4. [警視庁が採用説明会を実施 白バイの走行訓練や騎馬隊の乗馬体験(20…](https://www.youtube.com/watch?v=DZHocgGL2w0) (3831回視聴)
+5. [自民・麻生氏「世界に恥さらした」 アジア大会運営トラブルに苦言 国…](https://www.youtube.com/watch?v=2xx4IYrGOnw) (3264回視聴)
 
 ---
 
@@ -61,6 +61,7 @@ date: 2026-11-21
 
 #### 2026-11
 
+- [2026-11-22](2026-11-22.html)
 - [2026-11-21](2026-11-21.html)
 - [2026-11-20](2026-11-20.html)
 - [2026-11-19](2026-11-19.html)
