@@ -1,38 +1,38 @@
 ---
-title: "2026-11-22"
-date: 2026-11-22
+title: "2026-11-23"
+date: 2026-11-23
 ---
 
-## 2026-11-22
+## 2026-11-23
 
 ### はてブIT（日本市場）
 
-1. [どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解…](https://smhn.info/202611-gemini-subscription-third-party-harness-december-2) (259 users)
-2. [イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の…](https://togetter.com/li/2773122) (207 users)
-3. [寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる…](https://zenn.dev/canly/articles/ca6875cd79539f) (179 users)
-4. [ソフトウェアファクトリーとコード設計と顧客価値](https://kosui.me/posts/2026/11/15/code-design-after-agents) (157 users)
-5. [GitHub - mitaku/andon: A one](https://github.com/mitaku/andon) (135 users)
+1. [MetaのAIエージェント「Muse」は何ができる？ ChatGP…](https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html) (401 users)
+2. [2026年11月21日をもって世界はシンギュラリティに突入した](https://note.com/cgbeginner/n/n5856d402f125) (226 users)
+3. [グーグルのGemini Notebook、資料を操作可能なWebサ…](https://k-tai.watch.impress.co.jp/docs/news/2157164.html) (216 users)
+4. [なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一され…](https://anond.hatelabo.jp/20261122011458) (214 users)
+5. [既存コードからAIエージェント向けの仕様書を起こす「Reverse…](https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/) (164 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【待望】今勢いのあるAgent型IDEのOrcaから、『Orca …](https://www.youtube.com/watch?v=voPU8lQXhHE) (7970回視聴)
-2. [【Grok Bot】公式も認めた枠を活かす効率最強の構成！ Cla…](https://www.youtube.com/watch?v=ooJuwiv8mU8) (6042回視聴)
+1. [【完全解説】GrokBOTの基礎から実践活用までこれ一本！王道の使…](https://www.youtube.com/watch?v=mya3LdVJQ3U) (再生回数不明)
+2. [【待望】今勢いのあるAgent型IDEのOrcaから、『Orca …](https://www.youtube.com/watch?v=voPU8lQXhHE) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
 1. キオクシア
-2. 信用
-3. 半導体
-4. 判断
-5. 中国
+2. 確認
+3. アメリカ
+4. 先物
+5. 信用
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (88件)
-2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (53件)
-3. [共和電業(6853)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6853) (20件)
-4. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (19件)
-5. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (15件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (58件)
+2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (36件)
+3. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (28件)
+4. [ｎｏｔｅ(5243)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5243) (14件)
+5. [ズーム(6694)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6694) (11件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
@@ -40,19 +40,19 @@ date: 2026-11-22
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [【モーサテサタデー】AI相場は終わるのか](https://www.youtube.com/watch?v=zq1qHUcpSv8) (218731回視聴)
-2. [シンガポールを公式訪問していた愛子さま 帰国の途に](https://www.youtube.com/watch?v=rYsMLWzkdBg) (84681回視聴)
-3. [混乱相場を乗り越える！？アメリカ中間選挙ショックに有効な攻守両用戦…](https://www.youtube.com/watch?v=aaUGaIA5Gf4) (77237回視聴)
-4. [米証券取引委員会がエヌビディアの会計調査か](https://www.youtube.com/watch?v=5w23Gek5JS8) (53487回視聴)
-5. [アンソロピック上場 日米株安 AIバブル懸念は【NIKKEI NE…](https://www.youtube.com/watch?v=UZ6vz8Y6k0k) (45261回視聴)
+1. [イノベーティブなイベント3連発！終活・ピッチ・子供の夢！【田村淳の…](https://www.youtube.com/watch?v=vtGmvzQAxEI) (再生回数不明)
+2. [再生への兆しが見える中…物言う株主がニデックに失望した理由【ガイア…](https://www.youtube.com/watch?v=Ewo_vh_ATus) (再生回数不明)
+3. [COP31 議論紛糾 新たな成果文書案で「脱化石燃料」記載せず](https://www.youtube.com/watch?v=kEYgPA8WDpo) (再生回数不明)
+4. [全国の離島の魅力を発信「アイランダー2026」](https://www.youtube.com/watch?v=qy8qe3cDpAQ) (再生回数不明)
+5. [ロシアの貨物船にドローン攻撃 攻撃にはウクライナが関与か](https://www.youtube.com/watch?v=IL5ZFDZL4mA) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [大雪で約1500人孤立状態 倒木相次ぎ国道が通行止めに 福島・北塩…](https://www.youtube.com/watch?v=gflwF6bPvzA) (23108回視聴)
-2. [堀ちえみ「スチュワーデス物語」43年前の制服姿で登場！“教官”風間…](https://www.youtube.com/watch?v=edVsl3E2Ojs) (9987回視聴)
-3. [首里城正殿 きょう復元完成式 火災による焼失から7年 23日から一…](https://www.youtube.com/watch?v=ETgajhQFp1I) (4625回視聴)
-4. [警視庁が採用説明会を実施 白バイの走行訓練や騎馬隊の乗馬体験(20…](https://www.youtube.com/watch?v=DZHocgGL2w0) (3831回視聴)
-5. [自民・麻生氏「世界に恥さらした」 アジア大会運営トラブルに苦言 国…](https://www.youtube.com/watch?v=2xx4IYrGOnw) (3264回視聴)
+1. [コウモリ活発化、長雨影響 小さな隙間から住宅に侵入 寄生虫などの被…](https://www.youtube.com/watch?v=IIvHBpFUhVU) (再生回数不明)
+2. [金塊20キロ4億円相当と現金2500万円盗まれる 深夜に無人の住宅…](https://www.youtube.com/watch?v=rpNkwzSHSBw) (再生回数不明)
+3. [「車が燃えている」軽自動車が全焼 車内から1人の遺体 鳥取市(20…](https://www.youtube.com/watch?v=1SyfRqrbZ1I) (再生回数不明)
+4. [寒波の影響は観光業にも テーマパーク2日連続休園 “道路寸断”一時…](https://www.youtube.com/watch?v=m9f9SdgcsaM) (再生回数不明)
+5. [関文科大臣パーティー問題 交代示唆発言を軌道修正 「法案審議への影…](https://www.youtube.com/watch?v=Bk0QwA0XbV4) (再生回数不明)
 
 ---
 
@@ -61,6 +61,7 @@ date: 2026-11-22
 
 #### 2026-11
 
+- [2026-11-23](2026-11-23.html)
 - [2026-11-22](2026-11-22.html)
 - [2026-11-21](2026-11-21.html)
 - [2026-11-20](2026-11-20.html)
