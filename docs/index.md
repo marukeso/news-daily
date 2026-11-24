@@ -1,58 +1,59 @@
 ---
-title: "2026-11-23"
-date: 2026-11-23
+title: "2026-11-24"
+date: 2026-11-24
 ---
 
-## 2026-11-23
+## 2026-11-24
 
 ### はてブIT（日本市場）
 
-1. [MetaのAIエージェント「Muse」は何ができる？ ChatGP…](https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html) (401 users)
-2. [2026年11月21日をもって世界はシンギュラリティに突入した](https://note.com/cgbeginner/n/n5856d402f125) (226 users)
-3. [グーグルのGemini Notebook、資料を操作可能なWebサ…](https://k-tai.watch.impress.co.jp/docs/news/2157164.html) (216 users)
-4. [なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一され…](https://anond.hatelabo.jp/20261122011458) (214 users)
-5. [既存コードからAIエージェント向けの仕様書を起こす「Reverse…](https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/) (164 users)
+1. [NECの「バザールでござーる」今日で引退。約35年の歴史に幕](https://pc.watch.impress.co.jp/docs/news/2158462.html) (240 users)
+2. [iPhoneに乗り換えてでも使う価値があるかも!? 新型センサー搭…](https://k-tai.watch.impress.co.jp/docs/review/2157103.html) (93 users)
+3. [AWS Emulator を使用してローカルで AWS に対してア…](https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/) (92 users)
+4. [DHH氏が開発する「Omarchy 4.5」リリース。一般的なマル…](https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html) (83 users)
+5. [競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築し…](https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product) (72 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【完全解説】GrokBOTの基礎から実践活用までこれ一本！王道の使…](https://www.youtube.com/watch?v=mya3LdVJQ3U) (再生回数不明)
-2. [【待望】今勢いのあるAgent型IDEのOrcaから、『Orca …](https://www.youtube.com/watch?v=voPU8lQXhHE) (再生回数不明)
+1. [【徹底解説】GLM 5.4が登場したので実際に使ってきた！『Loo…](https://www.youtube.com/watch?v=4mMKr0ack9o) (再生回数不明)
+2. [【未来】Google DeepMindの論文『From AGI t…](https://www.youtube.com/watch?v=KkvPgQtmHbU) (再生回数不明)
+3. [【完全解説】GrokBOTの基礎から実践活用までこれ一本！王道の使…](https://www.youtube.com/watch?v=mya3LdVJQ3U) (再生回数不明)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. キオクシア
-2. 確認
-3. アメリカ
-4. 先物
-5. 信用
+1. 復帰
+2. 革ジャン
+3. 半導体
+4. エヌビディア
+5. 先物
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (58件)
-2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (36件)
-3. [クリップコーポレーション(4705)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4705) (28件)
-4. [ｎｏｔｅ(5243)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5243) (14件)
-5. [ズーム(6694)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6694) (11件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (207件)
+2. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (88件)
+3. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (75件)
+4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (61件)
+5. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (57件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-- 24時間以内の投稿なし
+1. [【2026/11/24】激しく揺れる相場](https://www.youtube.com/watch?v=xXIIQsbZETs) (再生回数不明)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [イノベーティブなイベント3連発！終活・ピッチ・子供の夢！【田村淳の…](https://www.youtube.com/watch?v=vtGmvzQAxEI) (再生回数不明)
-2. [再生への兆しが見える中…物言う株主がニデックに失望した理由【ガイア…](https://www.youtube.com/watch?v=Ewo_vh_ATus) (再生回数不明)
-3. [COP31 議論紛糾 新たな成果文書案で「脱化石燃料」記載せず](https://www.youtube.com/watch?v=kEYgPA8WDpo) (再生回数不明)
-4. [全国の離島の魅力を発信「アイランダー2026」](https://www.youtube.com/watch?v=qy8qe3cDpAQ) (再生回数不明)
-5. [ロシアの貨物船にドローン攻撃 攻撃にはウクライナが関与か](https://www.youtube.com/watch?v=IL5ZFDZL4mA) (再生回数不明)
+1. [NATO ポーランドに警戒管制機 ロシアの巡航弾落下で](https://www.youtube.com/watch?v=BRAX10oiJwI) (再生回数不明)
+2. [11月24日の天気](https://www.youtube.com/watch?v=0545womK0lU) (再生回数不明)
+3. [年末ジャンボ宝くじ発売 前後賞合わせて10億円 朝から行列](https://www.youtube.com/watch?v=vjBbOANmdmQ) (再生回数不明)
+4. [10月の東京23区中古マンション価格 1.6％減 5カ月連続で下落](https://www.youtube.com/watch?v=-dOzUGUAaUk) (再生回数不明)
+5. [野党 関文科大臣の問責決議案提出で一致 政治資金パーティー問題受け](https://www.youtube.com/watch?v=V4nEvWoO-DA) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [コウモリ活発化、長雨影響 小さな隙間から住宅に侵入 寄生虫などの被…](https://www.youtube.com/watch?v=IIvHBpFUhVU) (再生回数不明)
-2. [金塊20キロ4億円相当と現金2500万円盗まれる 深夜に無人の住宅…](https://www.youtube.com/watch?v=rpNkwzSHSBw) (再生回数不明)
-3. [「車が燃えている」軽自動車が全焼 車内から1人の遺体 鳥取市(20…](https://www.youtube.com/watch?v=1SyfRqrbZ1I) (再生回数不明)
-4. [寒波の影響は観光業にも テーマパーク2日連続休園 “道路寸断”一時…](https://www.youtube.com/watch?v=m9f9SdgcsaM) (再生回数不明)
-5. [関文科大臣パーティー問題 交代示唆発言を軌道修正 「法案審議への影…](https://www.youtube.com/watch?v=Bk0QwA0XbV4) (再生回数不明)
+1. [女子高校生はねられ死亡 トラック運転手の男逮捕 埼玉・加須市(20…](https://www.youtube.com/watch?v=MZV3jt0o_8M) (再生回数不明)
+2. [くら寿司 まぐろやサーモンなど22品目を値上げ サイドメニューなど…](https://www.youtube.com/watch?v=wmDQKJG1pWY) (再生回数不明)
+3. [約30人態勢で捜索続く 情報10件以上 福島 男子中学生不明(20…](https://www.youtube.com/watch?v=WTlkg7X3m04) (再生回数不明)
+4. [「ピックルボール」人気 競技人口1年で7倍以上に ビジネスにも一役…](https://www.youtube.com/watch?v=qUWL7tMN72M) (再生回数不明)
+5. [前線通過で大気不安定 全国的に雷雨・強風注意【ワイド！スクランブル…](https://www.youtube.com/watch?v=pFlnhQEm2LU) (再生回数不明)
 
 ---
 
@@ -61,6 +62,7 @@ date: 2026-11-23
 
 #### 2026-11
 
+- [2026-11-24](2026-11-24.html)
 - [2026-11-23](2026-11-23.html)
 - [2026-11-22](2026-11-22.html)
 - [2026-11-21](2026-11-21.html)
