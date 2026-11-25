@@ -1,59 +1,60 @@
 ---
-title: "2026-11-24"
-date: 2026-11-24
+title: "2026-11-25"
+date: 2026-11-25
 ---
 
-## 2026-11-24
+## 2026-11-25
 
 ### はてブIT（日本市場）
 
-1. [NECの「バザールでござーる」今日で引退。約35年の歴史に幕](https://pc.watch.impress.co.jp/docs/news/2158462.html) (240 users)
-2. [iPhoneに乗り換えてでも使う価値があるかも!? 新型センサー搭…](https://k-tai.watch.impress.co.jp/docs/review/2157103.html) (93 users)
-3. [AWS Emulator を使用してローカルで AWS に対してア…](https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/) (92 users)
-4. [DHH氏が開発する「Omarchy 4.5」リリース。一般的なマル…](https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html) (83 users)
-5. [競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築し…](https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product) (72 users)
+1. [当社お客様の情報漏えいに関するお詫びとお知らせ（第2報）:楽天証券](https://www.rakuten-sec.co.jp/web/info/info20261124-04.html) (335 users)
+2. [個人開発 with AI](https://zenn.dev/holygrail/scraps/dec6ae85d06b4f) (222 users)
+3. [ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」…](https://www.yomiuri.co.jp/world/20261124-GYT1T00383/) (180 users)
+4. [ずっしり重い新型ウォークマン 歴代最高65万円なぜここまで高級化：…](https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html) (113 users)
+5. [AI時代の実践・形式検証入門](https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1) (89 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【徹底解説】GLM 5.4が登場したので実際に使ってきた！『Loo…](https://www.youtube.com/watch?v=4mMKr0ack9o) (再生回数不明)
-2. [【未来】Google DeepMindの論文『From AGI t…](https://www.youtube.com/watch?v=KkvPgQtmHbU) (再生回数不明)
-3. [【完全解説】GrokBOTの基礎から実践活用までこれ一本！王道の使…](https://www.youtube.com/watch?v=mya3LdVJQ3U) (再生回数不明)
+1. [【徹底比較】話題のUIデザインSkill 7選！どれが本当に使える…](https://www.youtube.com/watch?v=HFGiXkLuFro) (再生回数不明)
+2. [【徹底解説】GLM 5.4が登場したので実際に使ってきた！『Loo…](https://www.youtube.com/watch?v=4mMKr0ack9o) (5453回視聴)
+3. [【未来】Google DeepMindの論文『From AGI t…](https://www.youtube.com/watch?v=KkvPgQtmHbU) (6597回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 復帰
-2. 革ジャン
-3. 半導体
-4. エヌビディア
-5. 先物
+1. 半導体
+2. キオクシア
+3. イビデン
+4. 先物
+5. トランプ
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (207件)
-2. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (88件)
-3. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (75件)
-4. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (61件)
-5. [アドバンテスト(6857)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6857) (57件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (322件)
+2. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (167件)
+3. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (148件)
+4. [データセクション(3905)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=3905) (93件)
+5. [任天堂(7974)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=7974) (75件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/24】激しく揺れる相場](https://www.youtube.com/watch?v=xXIIQsbZETs) (再生回数不明)
+1. [【米国株】6ヶ月・1年後の注目セクターは？](https://www.youtube.com/watch?v=TixOza25WqA) (再生回数不明)
+2. [【2026/11/24】激しく揺れる相場](https://www.youtube.com/watch?v=xXIIQsbZETs) (771回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [NATO ポーランドに警戒管制機 ロシアの巡航弾落下で](https://www.youtube.com/watch?v=BRAX10oiJwI) (再生回数不明)
-2. [11月24日の天気](https://www.youtube.com/watch?v=0545womK0lU) (再生回数不明)
-3. [年末ジャンボ宝くじ発売 前後賞合わせて10億円 朝から行列](https://www.youtube.com/watch?v=vjBbOANmdmQ) (再生回数不明)
-4. [10月の東京23区中古マンション価格 1.6％減 5カ月連続で下落](https://www.youtube.com/watch?v=-dOzUGUAaUk) (再生回数不明)
-5. [野党 関文科大臣の問責決議案提出で一致 政治資金パーティー問題受け](https://www.youtube.com/watch?v=V4nEvWoO-DA) (再生回数不明)
+1. [EU HV車・PHV車の暫定的な輸入制限を発表 対象は日本車・中国…](https://www.youtube.com/watch?v=HiVsBJqz6Lk) (414回視聴)
+2. [米CIAなどにサイバー攻撃の形跡 機密情報は漏えいせず](https://www.youtube.com/watch?v=aGqykpcvXE4) (276回視聴)
+3. [米司法長官「エヌビディアは善良な企業」 トランプ氏の判断を擁護 フ…](https://www.youtube.com/watch?v=shp5IhtWRE0) (196回視聴)
+4. [ロシアが択捉島に海洋地熱発電所を計画 8月にはプーチン氏が訪問](https://www.youtube.com/watch?v=uekOUwVfHHI) (102回視聴)
+5. [ハンガリー首相がウクライナ初訪問 バレーボールで親睦 EU加盟支持…](https://www.youtube.com/watch?v=hC9i6FBLcvU) (65回視聴)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [女子高校生はねられ死亡 トラック運転手の男逮捕 埼玉・加須市(20…](https://www.youtube.com/watch?v=MZV3jt0o_8M) (再生回数不明)
-2. [くら寿司 まぐろやサーモンなど22品目を値上げ サイドメニューなど…](https://www.youtube.com/watch?v=wmDQKJG1pWY) (再生回数不明)
-3. [約30人態勢で捜索続く 情報10件以上 福島 男子中学生不明(20…](https://www.youtube.com/watch?v=WTlkg7X3m04) (再生回数不明)
-4. [「ピックルボール」人気 競技人口1年で7倍以上に ビジネスにも一役…](https://www.youtube.com/watch?v=qUWL7tMN72M) (再生回数不明)
-5. [前線通過で大気不安定 全国的に雷雨・強風注意【ワイド！スクランブル…](https://www.youtube.com/watch?v=pFlnhQEm2LU) (再生回数不明)
+1. [駐車場でトラック6台全焼 放火か 「黒煙と炎のようなものが…」(2…](https://www.youtube.com/watch?v=5tCe4-Hzhpk) (685回視聴)
+2. [フアン氏CEO復帰 政治介入に「度が過ぎている」の声 エヌビディア…](https://www.youtube.com/watch?v=e9cLe28oL8w) (397回視聴)
+3. [無許可で産業廃棄物積み替え保管か トルコ国籍の男ら3人逮捕 埼玉県…](https://www.youtube.com/watch?v=ixCja-Yn_js) (326回視聴)
+4. [米CIAなどにサイバー攻撃 AIハッキングツール利用か(2026年…](https://www.youtube.com/watch?v=3ajchaTeiAQ) (324回視聴)
+5. [政府が最大27万円給付案 共働きの子2人一部世帯【ワイド！スクラン…](https://www.youtube.com/watch?v=7ettItblXcs) (295回視聴)
 
 ---
 
@@ -62,6 +63,7 @@ date: 2026-11-24
 
 #### 2026-11
 
+- [2026-11-25](2026-11-25.html)
 - [2026-11-24](2026-11-24.html)
 - [2026-11-23](2026-11-23.html)
 - [2026-11-22](2026-11-22.html)
