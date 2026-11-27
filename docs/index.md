@@ -1,60 +1,58 @@
 ---
-title: "2026-11-26"
-date: 2026-11-26
+title: "2026-11-27"
+date: 2026-11-27
 ---
 
-## 2026-11-26
+## 2026-11-27
 
 ### はてブIT（日本市場）
 
-1. [AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】](https://note.com/shikimi_crypto/n/n35d0bb54e6fb) (601 users)
-2. [高木浩光＠自宅の日記](http://takagi-hiromitsu.jp/diary/20261124.html) (252 users)
-3. [日本語サイトで指定しておきたいCSS 2026年版](https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e) (233 users)
-4. [1Password、従業員のGitHubアカウント経由で顧客の氏名…](https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46) (156 users)
-5. [観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 /…](https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai) (128 users)
+1. [【Claude Code】鹿野さんが実践するエンジニアの日常業務を…](https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6) (330 users)
+2. [AEDの件、結局はてなのブコメでも「配慮なんていいから助けてほしい…](https://anond.hatelabo.jp/20261126073406) (123 users)
+3. [情報量が4倍のQRコードを作ろう](https://qiita.com/reipandada/items/17496db6ac5f64a5e61a) (105 users)
+4. [デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカル…](https://digital-agency-news.digital.go.jp/articles/2026-11-26) (94 users)
+5. [さくらインターネット、AIを月額固定料金で提供する「シンプルAI」…](https://www.publickey1.jp/blog/26/aiai_1.html) (72 users)
 
 ### AIまさおう（24時間以内・全投稿）
 
-1. [【正直解説】『Claude Duet』を実際に使ってみた！Clau…](https://www.youtube.com/watch?v=ZHiVhLWRDnI) (246回視聴)
-2. [【正直評価】最近話題のDevinから『SWE](https://www.youtube.com/watch?v=7vYWzKrd85I) (再生回数不明)
-3. [【徹底比較】話題のUIデザインSkill 7選！どれが本当に使える…](https://www.youtube.com/watch?v=HFGiXkLuFro) (8591回視聴)
+1. [【正直解説】『Claude Duet』を実際に使ってみた！Clau…](https://www.youtube.com/watch?v=ZHiVhLWRDnI) (1.4万回視聴)
+2. [【正直評価】最近話題のDevinから『SWE](https://www.youtube.com/watch?v=7vYWzKrd85I) (3894回視聴)
 
 ### チャートなび 急上昇ワード（24時間・注目度順）
 
-1. 半導体
-2. キオクシア
-3. 先物
-4. 信用
+1. キオクシア
+2. 半導体
+3. キオク
+4. 日経平均
 5. アメリカ
 
 ### チャートなび 話題の銘柄ランキング（24時間）
 
-1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (478件)
-2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (86件)
-3. [イビデン(4062)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4062) (81件)
-4. [フジクラ(5803)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5803) (79件)
-5. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (74件)
+1. [キオクシアホールディングス(285A)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=285A) (599件)
+2. [楽天グループ(4755)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4755) (56件)
+3. [ソフトバンクグループ(9984)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=9984) (51件)
+4. [シンバイオ製薬(4582)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=4582) (41件)
+5. [フジクラ(5803)](https://stocks.finance.yahoo.co.jp/stocks/detail/?code=5803) (39件)
 
 ### ニュースアーカイブ（24時間以内・全投稿）
 
-1. [【2026/11/26】米国株に迫る新たなリスク｜エヌビディア続落…](https://www.youtube.com/watch?v=NQDrfx82LiM) (28回視聴)
-2. [【米国株】6ヶ月・1年後の注目セクターは？](https://www.youtube.com/watch?v=TixOza25WqA) (再生回数不明)
+1. [【2026/11/26】米国株に迫る新たなリスク｜エヌビディア続落…](https://www.youtube.com/watch?v=NQDrfx82LiM) (916回視聴)
 
 ### テレ東ビズ（24時間以内・再生回数順）
 
-1. [マスク氏 半導体量産の野望 「ラピダス」40倍の生産は可能？【NI…](https://www.youtube.com/watch?v=eY-H0sRo99o) (再生回数不明)
-2. [老後＆インフレに備える 1億円の作り方【日経モープラFT】](https://www.youtube.com/watch?v=xstyO8yAWqQ) (再生回数不明)
-3. [米司法省 フアンCEO巡り 「安保リスクなし」捜査せず判断か【モー…](https://www.youtube.com/watch?v=xqbaJpQ9fTE) (再生回数不明)
-4. [米ベージュブック 経済活動「緩やか」に拡大【モーサテ】](https://www.youtube.com/watch?v=fh08grpxHYM) (再生回数不明)
-5. [米GDP改定値 大幅上方修正 2023年以来の高い伸び【モーサテ】](https://www.youtube.com/watch?v=YX5HikoihwE) (再生回数不明)
+1. [北欧、暮らしの道具店 “バズ”は狙わない経営【NIKKEI NEW…](https://www.youtube.com/watch?v=3cnVWr6anF4) (493回視聴)
+2. [ガザ紛争3年 真実を伝える困難【日経モープラFT】](https://www.youtube.com/watch?v=2lGdEYk3ivs) (再生回数不明)
+3. [アメリカ 子どもにスペースX 2株ずつ マスク氏が表明【モーサテ】](https://www.youtube.com/watch?v=nQlK4n8hkCI) (再生回数不明)
+4. [ロシア拘束の記者 早期解放訴え妻が手記【モーサテ】](https://www.youtube.com/watch?v=P8nXo1galgY) (再生回数不明)
+5. [英たばこ大手に買収提案へ JTも参画か【モーサテ】](https://www.youtube.com/watch?v=OET9-kMFhio) (再生回数不明)
 
 ### ANNニュース（24時間以内・再生回数順）
 
-1. [フアン氏不倫相手にスパイ証拠なし CIAなどが議会に極秘で報告 米…](https://www.youtube.com/watch?v=IJvLNYv0EE8) (502回視聴)
-2. [エジプトでタンクローリー炎上 複数台巻き込み30人以上死亡(202…](https://www.youtube.com/watch?v=Hb_9YvvCwWA) (377回視聴)
-3. [洞爺湖温泉でホテル火災 宿泊客など約190人避難「煙が充満しかかっ…](https://www.youtube.com/watch?v=QThxJ_WaaR0) (336回視聴)
-4. [都心で今季一番の冷え込み 北日本は雨 雪解け注意【ワイド！スクラン…](https://www.youtube.com/watch?v=NBlcUBIiBfM) (301回視聴)
-5. [関文科大臣への問責決議案を提出 野党8会派 無所属議員の動向が焦点…](https://www.youtube.com/watch?v=x_7CWU3Z0CU) (236回視聴)
+1. [関文部科学大臣の問責決議案 賛否拮抗 紙一重の否決(2026年11…](https://www.youtube.com/watch?v=J2hgTy84y5A) (929回視聴)
+2. [騒音トラブルか 男性刺される 殺人未遂容疑で女逮捕(2026年11…](https://www.youtube.com/watch?v=KF9LGYCEQtg) (526回視聴)
+3. [「小さな娘のパパを返して」 ロシアに拘束された記者の妻が手記を公開…](https://www.youtube.com/watch?v=Djc3GFUmPVo) (459回視聴)
+4. [“新幹線のお医者さん”「ドクターS」東京駅で公開 東海道新幹線(2…](https://www.youtube.com/watch?v=DJInsAVNsUQ) (366回視聴)
+5. [犯行前に被害男性のいる事務所へ カメラに男の姿 駐輪場で男性刺殺 …](https://www.youtube.com/watch?v=ulBEaONrRVw) (361回視聴)
 
 ---
 
@@ -63,6 +61,7 @@ date: 2026-11-26
 
 #### 2026-11
 
+- [2026-11-27](2026-11-27.html)
 - [2026-11-26](2026-11-26.html)
 - [2026-11-25](2026-11-25.html)
 - [2026-11-24](2026-11-24.html)
